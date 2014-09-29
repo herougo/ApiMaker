@@ -1,0 +1,708 @@
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="language" content="en" />
+	
+    <title>Bell TV Online</title>
+    
+    
+    <link type="text/css" rel="stylesheet" href="../css/default.css" />
+    <link rel="stylesheet" type="text/css" href="../css/bell.css" media="screen" />
+    
+     <!-- Transitional Code -->
+    
+    <link href="../btvostyle_transition/web/css/bell_master.css" media="all" type="text/css" rel="stylesheet">
+
+	<!--[if IE 6]><link href="../btvostyle_transition/web/css/bell_ie6.css" type="text/css" media="all" rel="stylesheet"><![endif]-->
+	<!--[if IE 7]><link href="../btvostyle_transition/web/css/bell_ie7.css" type="text/css" media="all" rel="stylesheet"><![endif]-->
+	<!--[if IE 8]><link href="../btvostyle_transition/web/css/bell_ie8.css" type="text/css" media="all" rel="stylesheet"><![endif]-->
+	<link href="../btvostyle_transition/web/css/bell_print.css" media="print" type="text/css" rel="stylesheet">
+    <link href="../btvostyle_transition/web/css/bell_tvonline_custom.css" media="all" type="text/css" rel="stylesheet">
+    
+    <!-- End of Transitional Code -->
+
+    
+    
+    <script type="text/javascript" src="../btvostyle_transition/web/js/jquery.js"></script>
+    <script type="text/javascript" src="../js/jquery.hoverIntent.js"></script>
+	<!--  
+	<script type="text/javascript" src="../js/sifr.js"></script>
+	<script type="text/javascript" src="../js/sifr-config.js"></script>
+	-->
+    <!--[if IE 6]>
+        <link rel='stylesheet' type='text/css' href='../css/IE6.css' media='screen' />
+    <![endif]-->
+    <!--[if IE 7]>
+    	<link rel="stylesheet" type="text/css" href="../css/IE7.css" media="screen" />
+    <![endif]-->
+    <!--[if IE 8]>
+    <![endif]-->
+    <script src="../btvostyle_transition/existing_site/js/functions.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../js/tooltip.js"></script>   
+    
+    <!-- Transitional Code -->
+    <script src="../btvostyle_transition/web/js/jquery-ui.custom.min.js" type="text/javascript"></script>        
+	<script src="../btvostyle_transition/web/js/cufon-yui.js" type="text/javascript"></script>
+
+	<script src="../btvostyle_transition/web/js/bellSlimMedium504_500.font.js" type="text/javascript"></script>
+	<script src="../btvostyle_transition/web/js/bell.plugins.js" type="text/javascript"></script>    
+	<script src="../btvostyle_transition/web/js/bell.utils.js" type="text/javascript"></script>
+	<script src="../btvostyle_transition/web/js/bell.resources.js" type="text/javascript"></script>
+    <script src="../btvostyle_transition/web/js/bell_master.js" type="text/javascript"></script>
+    
+    <!-- End of Transitional Code -->
+    
+    <script type="text/javascript">
+    var currentToolTip = ""; 
+	var xmlhttp;
+	function gotoProcess(processid) {
+		var pid = document.getElementById('cmdprocessid');
+		pid.value = processid;
+		document.commandform.submit();
+	}
+	
+	function gotoProcessWithParameter(processid, key, value) {
+		var submitForm = document.commandform;
+		var param = document.createElement("input");
+  		param.type = "hidden";
+   		param.name = key;
+   		param.value = value;
+   		submitForm.appendChild(param);
+		gotoProcess(processid);
+	}
+	
+	function gotoChangeLanguageProcess(processid, langCd) {
+		var pid = document.getElementById('lprocessid');
+		pid.value = processid;
+		var lid = document.getElementById('langid');
+		lid.value = langCd;
+		document.changelanguageform.submit();
+	}
+	
+	function gotoFAQCategoryProcess(processid, faqCatID) {
+		var pid = document.getElementById('faqprocessid');
+		pid.value = processid;
+		var lid = document.getElementById('faqcatid');
+		lid.value = faqCatID;
+		document.changefaqCategoryform.submit();
+	}
+	
+	function gotoSecureProcess(processid) {
+		var pid = document.getElementById('sprocessid');
+		pid.value = processid;
+		document.secureform.submit();
+	}
+
+	function validateSurveyInput()
+	{
+	    var favTeam;
+	    var elem
+        if( document.getElementById ) {// standards compliant
+            favTeam = document.getElementById( 'ddlTeams' );
+            elem = document.getElementById( 'imgSurveySubmit' );
+        }else if( document.all ) {// IE4 or older
+            favTeam = document.all['ddlTeams'];
+            elem = document.all['imgSurveySubmit'];
+        }else if( document.layers ) {// Netscape 4
+            favTeam = document.layers['ddlTeams'];
+            elem = document.layers['imgSurveySubmit'];
+        }
+        
+        if(favTeam.selectedIndex > 0){
+			elem.src = "../images/en/btnSubmit_en.gif";	
+		}else{
+			elem.src = "../images/en/btnSubmit_d_en.gif";
+		}
+	}
+	
+	function submitNHLSurvey()
+	{
+		if(document.getElementById('ddlTeams').selectedIndex > 0){
+			xmlhttp=null;
+			if (window.XMLHttpRequest)
+			  {// code for IE7, Firefox, Opera, etc.
+			  xmlhttp=new XMLHttpRequest();
+			  }
+			else if (window.ActiveXObject)
+			  {// code for IE6, IE5
+			  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+			  }
+			if (xmlhttp!=null)
+			{
+			  var favTeam = document.getElementById('ddlTeams').value;
+			  var shareWithNHL = document.getElementById('NHL_Survey_ShareWithNHL').checked;
+			  var optInPromos = document.getElementById('NHL_Survey_OptInPromos').checked;
+			  var command = 'flow';
+		      var pid = 85;
+			  url = "/tvonline/servlet/CommandServlet?command=" + command + "&processid=" + pid + "&NHL_Survey_FavTeam=" + favTeam + 
+			  		"&NHL_Survey_ShareWithNHL=" + shareWithNHL + "&NHL_Survey_OptInPromos=" + optInPromos;
+			  xmlhttp.onreadystatechange=state_Change;
+			  xmlhttp.open("GET",url,true);
+			  xmlhttp.send(null);
+			 }
+			 tweenHideDiv('surveyContainer');
+		}
+		else {
+			tweenShowDiv('surveyError');
+		}
+	}
+	
+	function state_Change()
+	{
+	if (xmlhttp.readyState==4)
+	  {// 4 = "loaded"
+	  if (xmlhttp.status==200)
+	    {// 200 = "OK"
+	    }
+	  else
+	    {
+	    }
+	  }
+	}
+	
+	function supressEnter(e) {
+		var characterCode;
+		
+		if(e && e.which){
+			e = e
+			characterCode = e.which 
+		}
+		else{
+			e = event
+			characterCode = e.keyCode
+		}
+		
+		if(characterCode == 13){ //if generated character code is equal to ascii 13 (if enter key)
+			return false 
+		}
+		return true;
+	}	
+	</script>
+</head>
+ 	
+	<body onLoad="keepaliveTimeout()">
+ 	
+<div id="nojavascript">
+    <noscript>
+        <div id="Div1" style="width: 96%; margin-bottom: 5px; padding: 2px 20px 0 20px; background: #ffffcc;border-bottom: 2px solid #eee; overflow: hidden; height: 50px">
+            <div style="text-align: left; display: table; height: 50px; position: relative; overflow: hidden">
+                <div style="position: absolute; top: 50%; display: table-cell; vertical-align: middle;">
+                    <div style="position: relative; top: -50%">
+                        We have detected that JavaScript is disabled in your browser. Since JavaScript is used throughout bell.ca, enabling it will result in the best possible experience for you. You can make this change without compromising your security. See <a href="http://bell.ca/support/PrsCSrvGnl_FAQ_Detail.page?FAQ_ID=1622"> how to enable JavaScript</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </noscript>
+</div>
+<div class="bodyWrapper" style="padding-left:24px;">
+	<div class="wrapper shopSection" style="padding-bottom:20px;">
+		
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/JavaScript">
+	
+    var currentSessionTimeZone = 'America/Toronto';
+    
+    if ( currentSessionTimeZone == null || currentSessionTimeZone == "" )
+    {
+    	var myDate = new Date();
+    	var tzo = myDate.getTimezoneOffset();
+    	
+    	var req = new Image();
+		req.src = "/tvonline/servlet/CommandServlet?command=flow&processid=200&gmtOffsetInMinutes="+tzo;
+	}
+	
+	
+		
+	
+			
+	$(document).ready(function(){
+		simple_tooltip("a._tooltip_narrow","tooltip_narrow");
+		simple_tooltip("a._tooltip","tooltip");
+
+		accountMenuCfg = {
+				sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)
+				interval: 10, // number = milliseconds for onMouseOver polling interval
+				timeout: 300, // number = milliseconds delay before onMouseOut
+				over: function() {	$('#accountMenuFramework').show(400); }, // function = onMouseOver callback (REQUIRED)
+				out: function() {  $('#accountMenuFramework').hide(400); } // function = onMouseOut callback (REQUIRED)
+			}
+			$('#myaccount').hoverIntent(accountMenuCfg);
+
+			watchNowMenuCfg = {
+				sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)
+				interval: 10, // number = milliseconds for onMouseOver polling interval
+				timeout: 300, // number = milliseconds delay before onMouseOut
+				over: function() {	$('#watchNowList').show(400);
+									 easeIn('tabWN','../images/en/bt_WatchNowHover.gif');}, // function = onMouseOver callback (REQUIRED)
+				out: function() {  $('#watchNowList').hide(400);
+									 easeOut('tabWN','../images/en/bt_WatchNow.gif');
+				} // function = onMouseOut callback (REQUIRED)
+			}
+			$('#watchNowButton').hoverIntent(watchNowMenuCfg);
+		
+	});
+	
+	 
+</script>
+<!-- TimeZone End -->
+
+
+
+
+<!-- Relaunch code::START -->
+<script src="../btvostyle/web/js/bell.init.js" type="text/javascript"></script>
+
+<div class="wrapHeader">
+     <div class="subWrap header">
+     
+         <p class="accessAlt"><a href="#content">Skip to main content</a> | <a href="#">Go to site map</a> | <a href="#">Read our accessibility commitment</a></p>
+         
+         <a href="CommandServlet?command=watchonline&pageId=89&lang=en" title="Home page" class="accessAlt mainBranding"><img src="../btvostyle/web/common/all_languages/all_regions/skin/lg_mainBranding.gif" alt="Bell" width="92" height="55" ></a>
+
+         <div class="clearer"><!-- --></div>
+         
+         <div class="topNav">
+             <ul>
+             	 <li id="topNavCartItem" style="padding-left:0px;">
+                    
+                    
+                       <a href="http://www.bell.ca/" style="padding-left:15px;" title="bell.ca">bell.ca</a>
+                    
+                 </li>
+                        
+                 <li id="topNavLanguageItem">
+                 	<a href="CommandServlet?command=watchonline&pageId=89&lang=fr" title=""><span class="accessAlt">Change language to </span>Fran�ais</a>
+                 </li>
+                        
+                 <li id="topNavSelectProvinceItem">
+                 	<a href="javascript:gotoFAQCategoryProcess(87,0)" title="Need help?" class="padRight15">Need help?</a>
+                 </li>
+           
+                 <li id="topNavSearchItem">
+                     <form action="/tvonline/servlet/CommandServlet?command=flow&processid=165" method="get" id="topNavSearchForm">
+                         <div>
+                             <label for="topNavSearch" class="labelOver">Search Bell TV Online</label>
+                             <input type="hidden" name="command" value="flow" />
+                        	 <input type="hidden" name="processid" value="165" />
+                        	 <input type="hidden" name="requestedPage" value="0" />
+                        	 <input type="hidden" name="requestedSortMethod" value="0" />
+                        	 <input type="hidden" name="requestedSearchMethod" value="0" />
+                        	 <input type="hidden" name="filterProgramMethod" value="0" />
+                        	 <input type="hidden" name="filterProgramType" value="0" />
+                             <!-- <input id="txt_topSearch" name="simpleSearchKeyWord" type="text" value="Search Bell TV Online" onfocus="clearOnFocus(this);" maxlength="150" /> -->
+                             <input type="text" name="simpleSearchKeyWord" id="topNavSearch" maxlength="150" > 
+                             <!-- <input type="text" name="topNavSearch" id="topNavSearch"> -->
+                             <button value="GO">GO</button>
+							<div class="clearer"><!-- --></div>
+                          </div>
+							<input type="hidden" name="charset" value="UTF-8" />
+                      </form>
+                  </li>
+                
+                  
+					  <li id="topNavLogInItem">
+	                  	<a href="https://www.bell.ca/mybell/resources/login/invisibleLogin/loginSSO.jsp?action=idsp&SPID=urn:belltv:entityid&RelayState=http://tvonline.bell.ca/tvonline/servlet/CommandServlet?command%3Dflow%26processid%3D167%26simpleSearchKeyWord%3Dagents%26requestedPage%3D0%26requestedSortMethod%3D3%26requestedSearchMethod%3D0%26filterProgramMethod%3D0%26filterProgramType%3D0%26simpleSearchSelectedResultTitle%3DThe%20Avengers%26simpleSearchSelectedResultEpisodeTitle%3DThe%20Avengers%26occurences%3D1%26prevRequestedPageNum%3D0%26prevRequestedSortMethod%3D0%26useRelayState=Y&language=en">Log in</a> <span class="itemExtra"><!-- --></span>
+	                  </li>
+	              
+                  
+                </ul>
+            </div> <!-- topNav::END -->
+
+<div class="clearer"><!-- --></div>	
+         
+         <div id="mainNav">
+         	<div id="mainNavHome"><a href="http://www.bell.ca/" title="Home" id="mainNavHomeButton"></a></div>
+             <div id="mainNavMenu">
+                 
+                <div class="menuToggleContainer">
+                     <div class="menuToggle">
+                         <ul>
+                             <li ><a class="first" href="CommandServlet?command=watchonline&pageId=89&lang=en" title="">Watch online<span><!-- --></span></a></li>
+                             <li class="active"><a class="middle" href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'PPV')" title="">What's on TV<span><!-- --></span></a></li>
+							 <li ><a class="last" href="javascript:gotoProcess(201)" title="">Remote PVR<span><!-- --></span></a></li>
+                        </ul>
+                     </div>
+              	</div>
+                 <div class="clearer"><!-- --></div>
+         
+         
+             </div>
+             <div id="mainNavRight"></div>
+     	</div><!--end of mainNav-->                
+         
+         <div class="clearer"><!-- --></div>	
+         
+     </div><!-- end of header -->
+ </div><!--end of wrapHeader-->
+
+<!-- Relaunch code::END -->
+
+<!-- Original code::START -->
+
+<!-- Original code::END -->
+
+<!-- Live Person -->
+<script type="text/JavaScript">
+	if (typeof(lpUnit)=="undefined") var lpUnit='tvonline-general';
+	if (typeof(lpProvince)=="undefined") var lpProvince='NA'; 
+	if (typeof(lpLanguage)=="undefined")	var lpLanguage="english"; // Use <english> Or <french>
+
+	var lpUASemailAddress = "";
+	var lpUAScustomername = "";
+	var lpUASaccountid = "";
+
+
+</script>
+
+<script src="/tvonline/web/common/all_languages/all_regions/js/livepersonEMT/mtagconfig.js" type="text/Javascript"></script>
+
+<script type="text/JavaScript">
+// Variables submission using lpAddVars
+
+//On page load: lpAddVars('<Scope:page/session/visitor>','<Variable Name>','<Variable Value>');
+lpAddVars('page','Language',lpLanguage);
+lpAddVars('page','Province',lpProvince);
+lpAddVars('page','BusinessUnit','Personal');
+lpAddVars('page','Category','tvonline');
+lpAddVars('page','Section','Default');
+lpAddVars('page','Subsection','');
+lpAddVars('page','PageName','');
+lpAddVars('page','ErrorFlag','');
+lpAddVars('page','Global_SearchValue','');
+lpAddVars('page','FAQ_SearchValue','');
+lpAddVars('page','AccountId',lpUASaccountid);
+lpAddVars('page','CustomerName',lpUAScustomername);
+lpAddVars('page','EmailAddress',lpUASemailAddress);
+
+
+</script>
+
+<!-- End Live Person -->
+
+<script type="text/javascript">
+function keepaliveTimeout(){
+
+	
+}
+</script>
+<div style:visibility="hidden">
+<iframe id="keepaliveframeO" src="https://www.bell.ca/mybell/keepalive.jsp" width="0" height="0" FRAMEBORDER="0"></iframe>
+</div>
+
+		
+
+  
+
+
+
+
+
+<div class="wrapMain" style="display:inline;">
+    <div class="subWrap main">
+        <div class="secNav" style="border-top: solid 1px #e6e6e6;border-left: solid 1px #e6e6e6;border-right: solid 1px #e6e6e6;">
+            
+            			
+			<ul>
+				<li ><a href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'PPV');" title="">Pay-per-view<span><!-- --></span></a></li>
+				<li ><a href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'VOD');" title="">On Demand<span><!-- --></span></a></li>
+				<li ><a href="javascript:gotoProcess(152)" title="">TV guide<span><!-- --></span></a></li>
+				<li ><a href="javascript:gotoProcess(201)" title="">Remote PVR<span><!-- --></span></a></li>
+            </ul>
+            
+			<div class="clearer"><!-- --></div>
+			
+        </div>
+    </div>
+</div>
+
+<div style="background-color: #F2F2F2;">
+
+  
+
+
+
+
+
+
+
+
+
+<div class="lining padTop10 padBottom10 breadCrumbsStyling">
+	<div class="breadCrumbs s_breadcrumbs">
+		<p>
+
+		</p>
+	</div>
+</div>
+
+</div>
+
+    	<div id="bb_container" style="display:inline;z-index:1000;">
+    
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="mainContainer">
+                <!-- <div id="bb_leftCol">
+                    
+                </div>
+                <div id="bb_rightCol">  -->
+
+				<div style="height:10px;width:100%;"></div>
+
+                    <div class="wideContentContainer bottomGradient">
+
+                        <img src="../images/bg_contentTopTransparent.gif" alt="" style="left:-1px;top:-2px;position:relative;" />
+                        <div class="contentContainerPadding">
+                            <div style="float:left;padding:8px 0 0 0;width:75%;">    <h1>Program Details</h1> <a href="/tvonline/servlet/CommandServlet?command=flow&processid=165&requestedSearchMethod=0&requestedPage=0&requestedSortMethod=0&simpleSearchKeyWord=agents&filterProgramMethod=0&filterProgramType=0">Back to search results</a></div> <div style="float:left;padding:-20px 0 0 600px;"><form action="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&simpleSearchSelectedResultTitle=The Avengers&simpleSearchSelectedResultEpisodeTitle=The Avengers&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0" name="timeZoneForm" method="POST"><select id="SSVE_ServiceTimeZone" name="SSVE_ServiceTimeZone" onchange="document.timeZoneForm.submit();">   <option  value="America/St_Johns">Newfoundland</option>    <option  value="America/Halifax">Atlantic</option>    <option selected="selected" value="America/Toronto">Eastern</option>    <option  value="America/Winnipeg">Central</option>    <option  value="America/Regina">Central (no DST)</option>    <option  value="America/Edmonton">Mountain</option>    <option  value="America/Vancouver">Pacific</option> </select></form></div><script language="JavaScript" type="text/javascript">  s_pState="guide:programDetails";  s_progName="The Avengers";</script> <div style="clear:left;padding:10px 0 5px 0;">    <h3>The Avengers (The Avengers)	</h3> </div><div style="clear:left;">Movie - Action</div> <div style="clear:left;"> WBHD 1270</div> <div style="clear:left;"> 14+(PG)</div><div style="clear:left;"> Actors: Sean Connery, Uma Thurman, Ralph Fiennes</div> <div style="clear:left;padding:10px 0 5px 0;">     <h4>Description</h4> </div><div style="clear:left;">Adaptation of the popular TV series finds secret agents John Steed and Emma Peel battling a madman intent on controlling the world's weather.(CC)</div> <div style="clear:left;"><hr style="color:#e2e2e2; height:1px;" /></div><div style="clear:left;padding:10px 0 5px 0;"><h4>Airing</h4></div><div style="clear:left;height:20px;"><div style="float:left;width:20%">Mon, Sep 08</div><div style="float:left;width:30%"> 7:30 PM - 9:00 PM (Duration: 90 min)</div><div style="float:left;width:15%">WBHD 1270</div><div style="float:left;width:20%"></div></div><div style="clear:left;height:20px;"><div style="float:left;width:20%">Tue, Sep 09</div><div style="float:left;width:30%"> 5:30 AM - 7:00 AM (Duration: 90 min)</div><div style="float:left;width:15%">WBHD 1270</div><div style="float:left;width:20%"></div></div>
+                        </div>
+                        <img src="../images/bg_contentBottomTransparent.gif" alt="" style="left:-1px;top:+7px;position:relative;" />
+                    </div>
+                <!-- </div>  -->
+            </div>
+
+
+<!-- Omniture -->
+<script language="JavaScript" type="text/javascript">
+  s_sSection1="wot"; 
+  s_sSection2="tv guide"; 
+  s_sSection3="";
+  s_pName="program details";
+  s_pState="165-0-0";
+</script>
+                
+
+
+
+			<form name="commandform" method="post" action="/tvonline/servlet/CommandServlet">
+				<input type="hidden" id="command" name="command" value="flow" />
+				<input type="hidden" id="cmdprocessid" name="BEP_HttpProcessID" />
+				<input type="hidden" id="pid" name="processid" value="82"/>
+			</form>
+		
+			<form name="changelanguageform" method="post" action="/tvonline/servlet/CommandServlet">
+				<input type="hidden" id="command" name="command" value="flow" />
+				<input type="hidden" id="lprocessid" name="BEP_HttpProcessID" />
+				<input type="hidden" id="pid" name="processid" value="82"/>
+				<input type="hidden" id="langid" name="lang"/>
+			</form>
+		
+			<form name="changefaqCategoryform" method="post" action="/tvonline/servlet/CommandServlet">
+				<input type="hidden" id="command" name="command" value="flow" />
+				<input type="hidden" id="faqprocessid" name="BEP_HttpProcessID" />
+				<input type="hidden" id="pid" name="processid" value="82"/>
+				<input type="hidden" id="faqcatid" name="FAQ_CAT_ID"/>
+			</form>
+			
+			<form name="secureform" method="post" action="https://tvonline.bell.ca:443/tvonline/servlet/CommandServlet">
+				<input type="hidden" id="command" name="command" value="flow" />
+				<input type="hidden" id="sprocessid" name="processid" />
+			</form>
+			
+		</div>
+	</div>
+	
+
+  
+
+
+
+
+
+<script language=JavaScript> 
+s_cType="";
+function linkCodeTermAndCond(obj) { 
+	s_sSection1=""; 
+	s_sSection2=""; 
+	s_sSection3="legal";
+	s_pName="term and conditions";
+}
+
+function linkCodePrivacy(obj) { 
+	s_sSection1=""; 
+	s_sSection2=""; 
+	s_sSection3="legal";
+	s_pName="privacy policy";
+}    
+
+function newFooterLinkWindow(url,name) 
+{
+	 params  = 'width='+800;
+	 params += ', height='+700;	 
+	 params += ', top=0, left=0'
+	 params += ', modal=yes'
+	 params += ', resizable=yes'
+	 params += ', scrollbars=yes';
+	 if(name == 'BellTVBEPLegalTermAndConditions'){
+		 s_pName = 'BellTV:BEP:Legal:TermAndConditions';		 
+	 }else{
+		 s_pName='BellTV:BEP:Legal:PrivacyPolicy';		
+	 }
+	 newwin=window.open(url,name,params);	 
+}
+</script>
+
+<div class="wrapFooter">
+	<div class="subWrap superFooter">
+			<div class="shell shellThemeA">
+				<div class="colGroup" style="text-align:left;">
+					<div class="col3">
+						<div class="padder">
+							<h2 class="headingType4">Bell TV Online</h2>
+							<p>Watch movies or TV shows online and record and manage your shows from anywhere.</p>
+							<div class="clearer"></div>
+						</div>
+					</div>
+					<div class="col3">
+						<div class="padder">
+							<h2 class="headingType4">Watch Online</h2>
+							<div style="clear:left;">
+								
+											&#149;&nbsp;<a href="CommandServlet?command=watchonline&pageId=89" title="">Home</a><br />
+								
+											&#149;&nbsp;<a href="CommandServlet?command=watchonline&pageId=90" title="">TV Shows</a><br />
+								
+											&#149;&nbsp;<a href="CommandServlet?command=watchonline&pageId=91" title="">Movies</a><br />
+								
+											&#149;&nbsp;<a href="CommandServlet?command=watchonline&pageId=228" title="">Kids Suite</a><br />
+								
+											&#149;&nbsp;<a href="CommandServlet?command=watchonline&pageId=128&channelLanguageCode=en" title="">Music</a><br />
+								
+											&#149;&nbsp;<a href="CommandServlet?command=watchonline&pageId=92" title="">Channels</a><br />
+								
+											&#149;&nbsp;<a href="CommandServlet?command=watchonline&pageId=135" title="">Watch List</a><br />
+								
+							</div>
+							
+							<!-- <div style="clear:left;">
+								&#149;&nbsp;<a href="CommandServlet?command=home" title="">Home</a><br />
+								&#149;&nbsp;<a href="CommandServlet?command=flow&processid=354&VOD_MOVIE_ASSET_TYPE=All&MOVIE_MENU_ASSETTYPE=ALL&BTVO_LANDING_NAME=Series&BTVO_BROWSE_VIEW=All&BTVO_SORT_BY=A-Z" title="">TV Shows</a><br />
+								&#149;&nbsp;<a href="CommandServlet?command=flow&processid=352&VOD_MOVIE_ASSET_TYPE=All&MOVIE_MENU_ASSETTYPE=ALL&BTVO_LANDING_NAME=Movie&BTVO_BROWSE_VIEW=All&BTVO_SORT_BY=A-Z" title="">Movies</a><br />
+								&#149;&nbsp;<a href="javascript:gotoProcess(343);" title="">Channels</a><br />
+							</div>-->
+						</div>
+					</div>
+					<div class="col3">
+						<div class="padder">
+							<h2 class="headingType4">What's on TV</h2>
+							<div style="clear:left;">
+								&#149;&nbsp;<a href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'PPV');" title="">Home</a><br />
+								&#149;&nbsp;<a href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'PPV');" title="">Pay-per-view</a><br />
+								&#149;&nbsp;<a href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'VOD');" title="">On Demand</a><br />
+								&#149;&nbsp;<a href="javascript:gotoProcess(152)" title="">TV Guide</a><br />
+								&#149;&nbsp;<a href="javascript:gotoProcess(201)" title="">Remote PVR</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="clearer"></div>
+			</div>
+		</div>
+		
+	<div class="subWrap footer fullWidth alignRight">				
+				<div class="lining">               
+                    <ul class="pipeSpacer">
+						<li><a title="" href="javascript:gotoProcess(39)">Send us your feedback</a></li>
+						<li><a title="" href="javascript:gotoFAQCategoryProcess(87,0)">Help</a></li>
+						<li><a title="" href="javascript:newFooterLinkWindow('http://www.bell.ca/Legal_and_terms','BellTVBEPLegalTermAndConditions');">Legal</a></li>
+						<li class="last"><a title="" href="javascript:newFooterLinkWindow('http://support.bell.ca/Customer_service/Security_and_privacy/How_does_Bell_respect_my_privacy' ,'BellTVBEPLegalPrivacyPolicy');">Privacy</a></li>
+					</ul>
+                    
+					<p class="unaccent floatRight alignRight">Please note that the use of Bell TV Online will count towards your Internet usage.<br/>� Bell Canada, 2011. All rights reserved.</p>
+					<div class="clearer"><!-- --></div>
+				</div>
+            </div><!--end of footer-->
+	
+</div><!--end of wrapFooter-->	
+	
+	
+</div>
+
+<div class="clearer"><!-- --></div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+/* <![CDATA[ */
+s_account="belltvportal";
+s_pLang="en";
+s_lStatus="NotLoggedIn";
+s_lId="";
+s_sId="23905214";
+s_cType="";
+/* ]]> */
+</script> 
+
+<script language="JavaScript" src="/tvonline/js/s_code_bell_tv.js?v=12020901"></script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //-->
+</script>
+
+<!-- End SiteCatalyst code version: H.22.0. -->
+</body>
+</html>

@@ -1,0 +1,1200 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Billy Talent discography - Wikipedia, the free encyclopedia</title>
+<meta name="generator" content="MediaWiki 1.24wmf18" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Billy_Talent_discography" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Billy_Talent_discography&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Billy_Talent_discography&amp;action=edit" />
+<link rel="apple-touch-icon" href="//bits.wikimedia.org/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="//bits.wikimedia.org/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="http://en.wikipedia.org/wiki/Billy_Talent_discography" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cteahouse%7Cext.rtlcite%2Cwikihiero%7Cext.uls.nojs%7Cext.visualEditor.viewPageTarget.noscript%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.ui.button%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector&amp;*" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector&amp;*" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}
+/* cache key: enwiki:resourceloader:filter:minify-css:7:3904d24a08aa08f6a68dc338f9be277e */</style>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Billy_Talent_discography","wgTitle":"Billy Talent discography","wgCurRevisionId":616677839,"wgRevisionId":616677839,"wgArticleId":10483699,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 errors: dates","Articles needing additional references from August 2012","All articles needing additional references","Discographies of Canadian artists","Rock music group discographies"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Billy_Talent_discography","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"hidesig":true,"preview":false,"previewDialog":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgVisualEditor":{"isPageWatched":false,"pageLanguageCode":"en","pageLanguageDir":"ltr","svgMaxSize":2048,"namespacesWithSubpages":{"6":0,"8":0,"1":true,"2":true,"3":true,"4":true,"5":true,"7":true,"9":true,"10":true,"11":true,"12":true,"13":true,"14":true,"15":true,"100":true,"101":true,"102":true,"103":true,"104":true,"105":true,"106":true,"107":true,"108":true,"109":true,"110":true,"111":true,"447":true,"2600":false,"828":true,"829":true}},"wikilove-recipient":"","wikilove-anon":0,"wgGuidedTourHelpGuiderUrl":"Help:Guided tours/guider","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q803783"});
+}</script><script>if(window.mw){mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"editfont":"default","editondblclick":0,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"imagesize":2,"math":0,"minordefault":0,"newpageshidepatrolled":0,"nickname":"","norollbackdiff":0,"numberheadings":0,"previewonfirst":0,"previewontop":1,"rcdays":7,"rclimit":50,"rows":25,"showhiddencats":false,"shownumberswatching":1,"showtoolbar":1,"skin":"vector","stubthreshold":0,"thumbsize":4,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":1,"watchdefault":0,"watchdeletion":0,"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,
+"watchrollback":0,"wllimit":250,"useeditwarning":1,"prefershttps":1,"flaggedrevssimpleui":1,"flaggedrevsstable":0,"flaggedrevseditdiffs":true,"flaggedrevsviewdiffs":false,"usebetatoolbar":1,"usebetatoolbar-cgd":1,"visualeditor-enable":0,"visualeditor-betatempdisable":0,"visualeditor-enable-experimental":0,"visualeditor-enable-language":0,"visualeditor-hidebetawelcome":0,"wikilove-enabled":1,"mathJax":false,"echo-subscriptions-web-page-review":true,"echo-subscriptions-email-page-review":false,"ep_showtoplink":false,"ep_bulkdelorgs":false,"ep_bulkdelcourses":true,"ep_showdyk":true,"echo-subscriptions-web-education-program":true,"echo-subscriptions-email-education-program":false,"echo-notify-show-link":true,"echo-show-alert":true,"echo-email-frequency":0,"echo-email-format":"html","echo-subscriptions-email-system":true,"echo-subscriptions-web-system":true,"echo-subscriptions-email-user-rights":true,"echo-subscriptions-web-user-rights":true,"echo-subscriptions-email-other":false,
+"echo-subscriptions-web-other":true,"echo-subscriptions-email-edit-user-talk":false,"echo-subscriptions-web-edit-user-talk":true,"echo-subscriptions-email-reverted":false,"echo-subscriptions-web-reverted":true,"echo-subscriptions-email-article-linked":false,"echo-subscriptions-web-article-linked":false,"echo-subscriptions-email-mention":false,"echo-subscriptions-web-mention":true,"echo-subscriptions-web-edit-thank":true,"echo-subscriptions-email-edit-thank":false,"echo-subscriptions-web-flow-discussion":true,"echo-subscriptions-email-flow-discussion":false,"gettingstarted-task-toolbar-show-intro":true,"uls-preferences":"","multimediaviewer-enable":true,"language":"en","variant-gan":"gan","variant-iu":"iu","variant-kk":"kk","variant-ku":"ku","variant-shi":"shi","variant-sr":"sr","variant-tg":"tg","variant-uz":"uz","variant-zh":"zh","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":
+false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false,"searchNs100":false,"searchNs101":false,"searchNs108":false,"searchNs109":false,"searchNs118":false,"searchNs119":false,"searchNs446":false,"searchNs447":false,"searchNs710":false,"searchNs711":false,"searchNs828":false,"searchNs829":false,"searchNs2600":false,"gadget-teahouse":1,"gadget-ReferenceTooltips":1,"gadget-geonotice":1,"gadget-DRN-wizard":1,"gadget-charinsert":1,"gadget-refToolbar":1,"gadget-mySandbox":1,"gadget-featured-articles-links":1,"variant":"en"});},{},{});mw.loader.implement("user.tokens",function($,jQuery){mw.user.tokens.set({"editToken":"+\\","patrolToken":false,"watchToken":false});},{},{});}
+/* cache key: enwiki:resourceloader:filter:minify-js:7:8825215e3b8330f97c8b320b947fb51c */</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.viewPageTarget.init","ext.uls.init","ext.uls.interface","ext.centralNotice.bannerController","skins.vector.js"]);
+}</script>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static-1.24wmf18/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Billy_Talent_discography skin-vector action-view vector-animateLayout">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<h1 id="firstHeading" class="firstHeading" lang="en"><span dir="auto">Billy Talent discography</span></h1>
+						<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-navigation">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em; font-size: 88%; text-align:center;">
+<caption>Billy Talent&#160;discography</caption>
+<tr>
+<td style="text-align:center;" colspan="2"><a href="/wiki/File:MMVA2007_Billy_Talent.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MMVA2007_Billy_Talent.jpg/250px-MMVA2007_Billy_Talent.jpg" width="250" height="167" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MMVA2007_Billy_Talent.jpg/375px-MMVA2007_Billy_Talent.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MMVA2007_Billy_Talent.jpg/500px-MMVA2007_Billy_Talent.jpg 2x" data-file-width="540" data-file-height="360" /></a><br />
+<span style="line-height:1.1em;">Billy Talent at the <a href="/wiki/2007_MuchMusic_Video_Awards" title="2007 MuchMusic Video Awards">2007 MuchMusic Video Awards</a>.<br />
+<small>(from left to right)</small> <a href="/wiki/Jonathan_Gallant" title="Jonathan Gallant" class="mw-redirect">Jonathan Gallant</a>, <a href="/wiki/Ian_D%27Sa" title="Ian D'Sa">Ian D'Sa</a>,<br />
+<a href="/wiki/Aaron_Solowoniuk" title="Aaron Solowoniuk">Aaron Solowoniuk</a>, <a href="/wiki/Benjamin_Kowalewicz" title="Benjamin Kowalewicz">Benjamin Kowalewicz</a></span></td>
+</tr>
+<tr>
+<th colspan="2" style="background-color:#eee;">Releases</th>
+</tr>
+<tr style="background-color:lightsteelblue;">
+<th scope="row" style="padding:.1em .3em; text-align:left;"><span style="float:right;"><a href="#Studio_albums">↙</a></span>Studio albums</th>
+<td style="background-color:#c8d6e8; width:33%;">5</td>
+</tr>
+<tr style="background-color:burlywood;">
+<th scope="row" style="padding:.1em .3em; text-align:left;"><span style="float:right;"><a href="#Live_albums">↙</a></span>Live albums</th>
+<td style="background: wheat; width:33%;">2</td>
+</tr>
+<tr style="background-color:lightsalmon;">
+<th scope="row" style="padding:.1em .3em; text-align:left;"><span style="float:right;"><a href="#EPs">↙</a></span>EPs</th>
+<td style="background-color:#FFC29C; width:33%;">5</td>
+</tr>
+<tr style="background-color:khaki;">
+<th scope="row" style="padding:.1em .3em; text-align:left;"><span style="float:right;"><a href="#Singles">↙</a></span>Singles</th>
+<td style="background-color:#Fbf7b1; width:33%;">20</td>
+</tr>
+<tr style="background-color:#99CCFF;">
+<th scope="row" style="padding:.1em .3em; text-align:left;"><span style="float:right;"><a href="#DVDs">↙</a></span>Video albums</th>
+<td style="background-color:#ABD5FF; width:33%;">1</td>
+</tr>
+<tr style="background-color:#FFCCFF;">
+<th scope="row" style="padding:.1em .3em; text-align:left;"><span style="float:right;"><a href="#Music_videos">↙</a></span>Music videos</th>
+<td style="background-color:#FFD5FF; width:33%;">17</td>
+</tr>
+<tr style="background-color:Gainsboro;">
+<th scope="row" style="padding:.1em .3em; text-align:left;"><span style="float:right;"><a href="#Demos_and_non-album_tracks">↙</a></span>Demos/unreleased tracks</th>
+<td style="background:Gainsboro; width:33%;">20</td>
+</tr>
+</table>
+<p>This is the <b>discography</b> of <a href="/wiki/Canada" title="Canada">Canadian</a> <a href="/wiki/Rock_music" title="Rock music">rock</a> <a href="/wiki/Musical_ensemble" title="Musical ensemble">band</a> <b><a href="/wiki/Billy_Talent" title="Billy Talent">Billy Talent</a></b>. Included in this discography are three items that are from back when the band was known as <b>Pezz</b>. These items are <i><a href="/w/index.php?title=Demoluca&amp;action=edit&amp;redlink=1" class="new" title="Demoluca (page does not exist)">Demoluca</a></i>, <i><a href="/wiki/Dudebox" title="Dudebox">Dudebox</a></i>, and <i><a href="/wiki/Watoosh!" title="Watoosh!">Watoosh!</a></i>. Besides those items, this discography documents every studio album, live album, EP, DVD and single released under the name Billy Talent.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Albums"><span class="tocnumber">1</span> <span class="toctext">Albums</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Studio_albums"><span class="tocnumber">1.1</span> <span class="toctext">Studio albums</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Live_albums"><span class="tocnumber">1.2</span> <span class="toctext">Live albums</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#EPs"><span class="tocnumber">1.3</span> <span class="toctext">EPs</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Singles"><span class="tocnumber">2</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#DVDs"><span class="tocnumber">3</span> <span class="toctext">DVDs</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Demos_and_non-album_tracks"><span class="tocnumber">4</span> <span class="toctext">Demos and non-album tracks</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Music_videos"><span class="tocnumber">5</span> <span class="toctext">Music videos</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Albums">Albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=1" title="Edit section: Albums">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Studio_albums">Studio albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=2" title="Edit section: Studio albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><br style="clear:both;" /></p>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Album details</th>
+<th colspan="9">Peak chart positions</th>
+<th rowspan="2">Certifications<br />
+<small>(<a href="/wiki/List_of_music_recording_sales_certifications" title="List of music recording sales certifications" class="mw-redirect">sales thresholds</a>)</small></th>
+</tr>
+<tr>
+<th style="width:30px;"><small><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">CAN</a><br />
+<sup id="cite_ref-allmusicalbums_1-0" class="reference"><a href="#cite_note-allmusicalbums-1"><span>[</span>1<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Austria" title="Austria">AUT</a><br />
+<sup id="cite_ref-autalbums_2-0" class="reference"><a href="#cite_note-autalbums-2"><span>[</span>2<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Finland" title="Finland">FIN</a><br />
+<sup id="cite_ref-finalbums_3-0" class="reference"><a href="#cite_note-finalbums-3"><span>[</span>3<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Media_Control_Charts" title="Media Control Charts" class="mw-redirect">GER</a><br />
+<sup id="cite_ref-geralbums_4-0" class="reference"><a href="#cite_note-geralbums-4"><span>[</span>4<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">SWI</a><br />
+<sup id="cite_ref-swialbums_5-0" class="reference"><a href="#cite_note-swialbums-5"><span>[</span>5<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/UK_Albums_Chart" title="UK Albums Chart">UK</a><br />
+<sup id="cite_ref-zobbel-t_6-0" class="reference"><a href="#cite_note-zobbel-t-6"><span>[</span>6<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Billboard_200" title="Billboard 200">US</a><br />
+<sup id="cite_ref-billboard-albums_7-0" class="reference"><a href="#cite_note-billboard-albums-7"><span>[</span>7<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Top_Heatseekers" title="Top Heatseekers">US Heat</a><sup id="cite_ref-billboard-albums_7-1" class="reference"><a href="#cite_note-billboard-albums-7"><span>[</span>7<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Irish_Albums_Chart" title="Irish Albums Chart">IRL</a><br />
+<sup id="cite_ref-8" class="reference"><a href="#cite_note-8"><span>[</span>8<span>]</span></a></sup></small></th>
+</tr>
+<tr>
+<td style="text-align:center;">1998</td>
+<td><i><b><a href="/wiki/Watoosh!" title="Watoosh!">Watoosh!</a></b></i><sup class="reference plainlinks nourlexpansion" id="ref_1"><a href="#endnote_1">[A]</a></sup>
+<ul>
+<li>Released: July 23, 1999</li>
+<li>Label: Self-released</li>
+</ul>
+</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center;">2003</td>
+<td><i><b><a href="/wiki/Billy_Talent_(album)" title="Billy Talent (album)">Billy Talent</a></b></i>
+<ul>
+<li>Released: September 16, 2003</li>
+<li>Label: <a href="/wiki/Warner_Music_Canada" title="Warner Music Canada">Warner</a>, <a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic</a></li>
+</ul>
+</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">38</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">97</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">124</td>
+<td style="text-align:center;">194</td>
+<td style="text-align:center;">11</td>
+<td style="text-align:center;">—</td>
+<td>
+<ul>
+<li><a href="/wiki/Canadian_Recording_Industry_Association" title="Canadian Recording Industry Association" class="mw-redirect">CAN</a>: 3× Platinum<sup id="cite_ref-cria_9-0" class="reference"><a href="#cite_note-cria-9"><span>[</span>9<span>]</span></a></sup></li>
+<li>GER: Gold<sup id="cite_ref-gfpi_10-0" class="reference"><a href="#cite_note-gfpi-10"><span>[</span>10<span>]</span></a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">2006</td>
+<td><i><b><a href="/wiki/Billy_Talent_II" title="Billy Talent II">Billy Talent II</a></b></i>
+<ul>
+<li>Released: June 27, 2006</li>
+<li>Label: Warner, Atlantic</li>
+</ul>
+</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:center;">22</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">31</td>
+<td style="text-align:center;">46</td>
+<td style="text-align:center;">134</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;">—</td>
+<td>
+<ul>
+<li>CAN: 3× Platinum<sup id="cite_ref-cria_9-1" class="reference"><a href="#cite_note-cria-9"><span>[</span>9<span>]</span></a></sup></li>
+<li>GER: 2× Platinum<sup id="cite_ref-gfpi_10-1" class="reference"><a href="#cite_note-gfpi-10"><span>[</span>10<span>]</span></a></sup></li>
+<li><a href="/wiki/British_Phonographic_Industry" title="British Phonographic Industry">UK</a>: Silver<sup id="cite_ref-11" class="reference"><a href="#cite_note-11"><span>[</span>11<span>]</span></a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">2009</td>
+<td><i><b><a href="/wiki/Billy_Talent_III" title="Billy Talent III">Billy Talent III</a></b></i>
+<ul>
+<li>Released: July 14, 2009<sup id="cite_ref-12" class="reference"><a href="#cite_note-12"><span>[</span>12<span>]</span></a></sup></li>
+<li>Label: Warner, <a href="/wiki/Roadrunner_Records" title="Roadrunner Records">Roadrunner</a></li>
+</ul>
+</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;">35</td>
+<td style="text-align:center;">107</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">98</td>
+<td>
+<ul>
+<li>CAN: 2× Platinum<sup id="cite_ref-cria_9-2" class="reference"><a href="#cite_note-cria-9"><span>[</span>9<span>]</span></a></sup></li>
+<li>GER: Platinum<sup id="cite_ref-gfpi_10-2" class="reference"><a href="#cite_note-gfpi-10"><span>[</span>10<span>]</span></a></sup></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">2012</td>
+<td><i><b><a href="/wiki/Dead_Silence_(album)" title="Dead Silence (album)">Dead Silence</a></b></i>
+<ul>
+<li>Released: September 11, 2012</li>
+<li>Label: <a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic</a>, <a href="/wiki/Roadrunner_Records" title="Roadrunner Records">Roadrunner</a></li>
+</ul>
+</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">12</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;">23</td>
+<td style="text-align:center;">135</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;">94</td>
+<td>
+<ul>
+<li>CAN: Gold<sup id="cite_ref-cria_9-3" class="reference"><a href="#cite_note-cria-9"><span>[</span>9<span>]</span></a></sup></li>
+<li>GER: Gold<sup id="cite_ref-gfpi_10-3" class="reference"><a href="#cite_note-gfpi-10"><span>[</span>10<span>]</span></a></sup></li>
+</ul>
+</td>
+<td></td>
+</tr>
+<tr>
+<th colspan="20"><small>"—" denotes a release that did not chart.</small></th>
+</tr>
+</table>
+<dl>
+<dd>A<span class="citation wikicite" id="endnote_1"><b><a href="#ref_1">^</a></b></span> <i><b>Watoosh!</b></i> was released under Billy Talent's original name, "Pezz".</dd>
+</dl>
+<h3><span class="mw-headline" id="Live_albums">Live albums</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=3" title="Edit section: Live albums">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2" style="width:210px;">Album details</th>
+<th colspan="7">Chart peaks</th>
+<th rowspan="2" style="width:150px;">Certifications<br />
+<small>(<a href="/wiki/List_of_music_recording_sales_certifications" title="List of music recording sales certifications" class="mw-redirect">sales thresholds</a>)</small></th>
+</tr>
+<tr>
+<th style="width:30px;"><small><a href="/wiki/Canadian_Albums_Chart" title="Canadian Albums Chart">CAN</a><br />
+<sup id="cite_ref-allmusicalbums_1-1" class="reference"><a href="#cite_note-allmusicalbums-1"><span>[</span>1<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Austria" title="Austria">AUT</a><br />
+<sup id="cite_ref-autalbums_2-1" class="reference"><a href="#cite_note-autalbums-2"><span>[</span>2<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Finland" title="Finland">FIN</a><br />
+<sup id="cite_ref-finalbums_3-1" class="reference"><a href="#cite_note-finalbums-3"><span>[</span>3<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Media_Control_Charts" title="Media Control Charts" class="mw-redirect">GER</a><br />
+<sup id="cite_ref-geralbums_4-1" class="reference"><a href="#cite_note-geralbums-4"><span>[</span>4<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">SWI</a><br />
+<sup id="cite_ref-swialbums_5-1" class="reference"><a href="#cite_note-swialbums-5"><span>[</span>5<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Billboard_200" title="Billboard 200">US</a><br />
+<sup id="cite_ref-billboard-albums_7-2" class="reference"><a href="#cite_note-billboard-albums-7"><span>[</span>7<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Top_Heatseekers" title="Top Heatseekers">US Heat</a><sup id="cite_ref-billboard-albums_7-3" class="reference"><a href="#cite_note-billboard-albums-7"><span>[</span>7<span>]</span></a></sup></small></th>
+</tr>
+<tr>
+<td style="text-align:center;">2006</td>
+<td><i><b><a href="/wiki/Live_From_The_UK_Sept./2006" title="Live From The UK Sept./2006" class="mw-redirect">Live From The UK Sept./2006</a></b></i>
+<ul>
+<li>Released: September 8/16, 2006</li>
+<li>Label: <a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic Records</a></li>
+</ul>
+</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align:center;">2007</td>
+<td><i><b><a href="/wiki/666_(Billy_Talent_album)" title="666 (Billy Talent album)">666</a></b></i>
+<ul>
+<li>Released: November 27, 2007</li>
+<li>Label: Atlantic Records</li>
+</ul>
+</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">17</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">31</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td></td>
+</tr>
+<tr>
+<th colspan="20"><small>"—" denotes a release that did not chart.</small></th>
+</tr>
+</table>
+<h3><span class="mw-headline" id="EPs">EPs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=4" title="Edit section: EPs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th style="width:220px;">Album details</th>
+</tr>
+<tr>
+<td style="text-align:center;">1994</td>
+<td><i><b>Demoluca</b></i><sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">[B]</a></sup>
+<ul>
+<li>Released: 1994</li>
+<li>Label: Self-released</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">1995</td>
+<td><i><b><a href="/wiki/Dudebox" title="Dudebox">Dudebox</a></b></i><sup class="reference plainlinks nourlexpansion" id="ref_2"><a href="#endnote_2">[B]</a></sup>
+<ul>
+<li>Released: January 1995</li>
+<li>Label: Self-released</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">2001</td>
+<td><i><b><a href="/wiki/Try_Honesty_EP" title="Try Honesty EP" class="mw-redirect">Try Honesty EP</a></b></i>
+<ul>
+<li>Released: 2001</li>
+<li>Label: <a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic Records</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">2003</td>
+<td><i><b><a href="/wiki/Try_Honesty_/_Living_in_the_Shadows" title="Try Honesty / Living in the Shadows">Try Honesty/Living in the Shadows</a></b></i>
+<ul>
+<li>Released: 2003</li>
+<li>Label: Self-released</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">2009</td>
+<td><i><b><a href="/wiki/Rusted_from_the_Rain#Track_listing" title="Rusted from the Rain">Rusted from the Rain EP</a></b></i>
+<ul>
+<li>Released: July 28, 2009</li>
+<li>Label: Atlantic Records</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="text-align:center;">2010</td>
+<td><i><b><a href="/w/index.php?title=ITunes_Session_(Billy_Talent_EP)&amp;action=edit&amp;redlink=1" class="new" title="ITunes Session (Billy Talent EP) (page does not exist)">iTunes Session</a></b></i>
+<ul>
+<li>Released: February 16, 2010</li>
+<li>Label: iTunes</li>
+</ul>
+</td>
+</tr>
+</table>
+<dl>
+<dd>B<span class="citation wikicite" id="endnote_2"><b><a href="#ref_2">^</a></b></span> <i><b>Demoluca</b></i> and <i><b>Dudebox</b></i> were released under Billy Talent's original name, "Pezz".</dd>
+</dl>
+<h2><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=5" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Song</th>
+<th colspan="9">Peak chart positions</th>
+<th rowspan="2">Album</th>
+</tr>
+<tr>
+<th style="width:30px;"><small><a href="/wiki/Canadian_Hot_100" title="Canadian Hot 100">CAN</a><br />
+<sup id="cite_ref-13" class="reference"><a href="#cite_note-13"><span>[</span>13<span>]</span></a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14"><span>[</span>14<span>]</span></a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15"><span>[</span>15<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Canadian_rock/alternative_chart" title="Canadian rock/alternative chart">CAN<br />
+Alt</a><br />
+<sup id="cite_ref-16" class="reference"><a href="#cite_note-16"><span>[</span>16<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Canadian_rock/alternative_chart" title="Canadian rock/alternative chart">CAN<br />
+Rock</a><br />
+<sup id="cite_ref-17" class="reference"><a href="#cite_note-17"><span>[</span>17<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Austria" title="Austria">AUT</a><br />
+<sup id="cite_ref-18" class="reference"><a href="#cite_note-18"><span>[</span>18<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Ultratop_50" title="Ultratop 50" class="mw-redirect">BEL</a> (<a href="/wiki/Flanders" title="Flanders">Fla</a>)<br />
+<sup id="cite_ref-19" class="reference"><a href="#cite_note-19"><span>[</span>19<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Germany" title="Germany">GER</a><br />
+<sup id="cite_ref-20" class="reference"><a href="#cite_note-20"><span>[</span>20<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Swiss_Music_Charts" title="Swiss Music Charts" class="mw-redirect">SWI</a><br />
+<sup id="cite_ref-21" class="reference"><a href="#cite_note-21"><span>[</span>21<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/UK_Singles_Chart" title="UK Singles Chart">UK</a><br />
+<sup id="cite_ref-zobbel-t_6-1" class="reference"><a href="#cite_note-zobbel-t-6"><span>[</span>6<span>]</span></a></sup><sup id="cite_ref-22" class="reference"><a href="#cite_note-22"><span>[</span>22<span>]</span></a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23"><span>[</span>23<span>]</span></a></sup></small></th>
+<th style="width:30px;"><small><a href="/wiki/Alternative_Songs" title="Alternative Songs">US<br />
+Alt.</a><br />
+<sup id="cite_ref-24" class="reference"><a href="#cite_note-24"><span>[</span>24<span>]</span></a></sup></small></th>
+</tr>
+<tr>
+<td style="text-align:center;">2003</td>
+<td>"<a href="/wiki/Try_Honesty" title="Try Honesty">Try Honesty</a>"</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">68</td>
+<td style="text-align:center;">24</td>
+<td rowspan="4"><i><a href="/wiki/Billy_Talent_(album)" title="Billy Talent (album)">Billy Talent</a></i></td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="3">2004</td>
+<td>"<a href="/wiki/The_Ex_(song)" title="The Ex (song)">The Ex</a>"</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">61</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/River_Below" title="River Below">River Below</a>"</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">70</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Nothing_to_Lose_(Billy_Talent_song)" title="Nothing to Lose (Billy Talent song)">Nothing to Lose</a>"</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="3">2006</td>
+<td>"<a href="/wiki/Devil_in_a_Midnight_Mass" title="Devil in a Midnight Mass">Devil in a Midnight Mass</a>"</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">66</td>
+<td style="text-align:center;">—</td>
+<td rowspan="5"><i><a href="/wiki/Billy_Talent_II" title="Billy Talent II">Billy Talent II</a></i></td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Red_Flag_(song)" title="Red Flag (song)">Red Flag</a>"</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">19</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">34</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">49</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Fallen_Leaves" title="Fallen Leaves">Fallen Leaves</a>"</td>
+<td style="text-align:center;">22</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">34</td>
+<td style="text-align:center;">18</td>
+<td style="text-align:center;">35</td>
+<td style="text-align:center;">91</td>
+<td style="text-align:center;">104</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="2">2007</td>
+<td>"<a href="/wiki/Surrender_(Billy_Talent_song)" title="Surrender (Billy Talent song)">Surrender</a>"</td>
+<td style="text-align:center;">22</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">45</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:center;">46</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/This_Suffering" title="This Suffering">This Suffering</a>"</td>
+<td style="text-align:center;">93</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td style="text-align:center;">2008</td>
+<td>"<a href="/wiki/Turn_Your_Back" title="Turn Your Back">Turn Your Back</a>" <small>(feat. <a href="/wiki/Anti-Flag" title="Anti-Flag">Anti-Flag</a>)</small></td>
+<td style="text-align:center;">23</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">×</td>
+<td style="text-align:center;">50</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td>"Turn Your Back" single</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="2">2009</td>
+<td>"<a href="/wiki/Rusted_from_the_Rain" title="Rusted from the Rain">Rusted from the Rain</a>"</td>
+<td style="text-align:center;">9</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">19</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">14</td>
+<td style="text-align:center;">53</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td rowspan="4"><i><a href="/wiki/Billy_Talent_III" title="Billy Talent III">Billy Talent III</a></i></td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Devil_on_My_Shoulder" title="Devil on My Shoulder">Devil on My Shoulder</a>"</td>
+<td style="text-align:center;">46</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="2">2010</td>
+<td>"<a href="/wiki/Saint_Veronika" title="Saint Veronika">Saint Veronika</a>"</td>
+<td style="text-align:center;">62</td>
+<td style="text-align:center;">4</td>
+<td style="text-align:center;">5</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Diamond_on_a_Landmine" title="Diamond on a Landmine" class="mw-redirect">Diamond on a Landmine</a>"</td>
+<td style="text-align:center;">88</td>
+<td style="text-align:center;">10</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="2">2012</td>
+<td>"<a href="/wiki/Viking_Death_March" title="Viking Death March">Viking Death March</a>"</td>
+<td style="text-align:center;">69</td>
+<td style="text-align:center;">3</td>
+<td style="text-align:center;">9</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td rowspan="4"><i><a href="/wiki/Dead_Silence_(album)" title="Dead Silence (album)">Dead Silence</a></i></td>
+</tr>
+<tr>
+<td>"<a href="/wiki/Surprise_Surprise_(song)" title="Surprise Surprise (song)">Surprise Surprise</a>"</td>
+<td style="text-align:center;">77</td>
+<td style="text-align:center;">8</td>
+<td style="text-align:center;">2</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">77</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="2">2013</td>
+<td>"<a href="/wiki/Stand_Up_and_Run" title="Stand Up and Run">Stand Up and Run</a>"</td>
+<td style="text-align:center;">90</td>
+<td style="text-align:center;">13</td>
+<td style="text-align:center;">1</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<td>"Show Me the Way"</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">22</td>
+<td style="text-align:center;">6</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+<td style="text-align:center;">—</td>
+</tr>
+<tr>
+<th colspan="20"><small>"—" denotes a release that did not chart.<br />
+"×" denotes periods where charts did not exist or were not archived.</small></th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="DVDs">DVDs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=6" title="Edit section: DVDs">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/Scandalous_Travelers" title="Scandalous Travelers">Scandalous Travelers</a></i> (2004)</li>
+</ul>
+<h2><span class="mw-headline" id="Demos_and_non-album_tracks">Demos and non-album tracks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=7" title="Edit section: Demos and non-album tracks">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>"This is How it Goes" (Demo, released on the <i>Try Honesty</i> EP and single)</li>
+<li>"Living in the Shadows" (Demo, released over the internet)</li>
+<li>"Cut the Curtains" (Demo, released on the <i>Try Honesty</i> EP)</li>
+<li>"Try Honesty" (Demo, released on the <i>Try Honesty</i> EP and single)</li>
+<li>"Prisoners of Today" (Demo, released over the internet)</li>
+<li>"Red Flag" (Demo, released over the internet and on several compilation CDs)</li>
+<li>"Devil in a Midnight Mass" (Demo, released over the internet, and on the <i>Devil in a Midnight Mass</i> single and <a href="/wiki/ITunes" title="ITunes">iTunes</a>)</li>
+<li>"Beachballs" (Released on the <i>Try Honesty</i> EP and single)</li>
+<li>"Ever Fallen In Love (With Someone You Shouldnt've?)" (Buzzcocks Cover, Released On Devil In a Midnight Mass 7" Single)</li>
+<li>"When I Was a Little Girl" (Released on the <i>Try Honesty</i> single, an alternative mix is featured on <i>Watoosh!</i>)</li>
+<li>"Surrender" (A work in progress, released over the internet)</li>
+<li>"Where is the Line?" (Demo, released on the <i>Red Flag</i> single)</li>
+<li>"Waiting Room" (A live performance of the <a href="/wiki/Fugazi_(band)" title="Fugazi (band)" class="mw-redirect">Fugazi</a> song, released on the Pepsi Breakout Tour as well as <i>The Ex</i> single)</li>
+<li>"Things" (Possibly a <i>Watoosh!</i> B-side)</li>
+<li>"Point Proven" (Old Pezz Demo)</li>
+<li>"The Ex" (Demo, released over the internet)</li>
+<li>"Cold Turkey" (<a href="/wiki/John_Lennon" title="John Lennon">John Lennon</a> cover released on <i>Rusted from the Rain</i> single)</li>
+<li>"Perfect World" (Demo, released on <i>Fallen Leaves</i> single)</li>
+<li>"This Suffering" (Demo)</li>
+<li>"Bloody Nails + Broken Hearts" (Demo)</li>
+</ul>
+<h2><span class="mw-headline" id="Music_videos">Music videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=8" title="Edit section: Music videos">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px;"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references or sources</a></b>. <span class="hide-when-compact">Please help improve this section by <a href="/wiki/Help:Introduction_to_referencing/1" title="Help:Introduction to referencing/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(August 2012)</i></small></span></td>
+</tr>
+</table>
+<table class="wikitable">
+<tr>
+<th>Year</th>
+<th>Title</th>
+<th>Director<br /></th>
+</tr>
+<tr>
+<td style="text-align:center;">2003</td>
+<td>"Try Honesty"</td>
+<td><a href="/wiki/Sean_Michael_Turrell" title="Sean Michael Turrell">Sean Michael Turrell</a></td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="3">2004</td>
+<td>"The Ex"</td>
+<td>Billy Talent &amp; Shawn Maher</td>
+</tr>
+<tr>
+<td>"River Below"</td>
+<td rowspan="3">Sean Michael Turrell</td>
+</tr>
+<tr>
+<td>"Nothing to Lose"</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="3">2006</td>
+<td>"Devil in a Midnight Mass"</td>
+</tr>
+<tr>
+<td>"Red Flag"</td>
+<td><a href="/wiki/Floria_Sigismondi" title="Floria Sigismondi">Floria Sigismondi</a></td>
+</tr>
+<tr>
+<td>"Fallen Leaves"</td>
+<td><a href="/wiki/Dean_Karr" title="Dean Karr">Dean Karr</a> &amp; <a href="/wiki/Ian_D%27Sa" title="Ian D'Sa">Ian D'Sa</a></td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="3">2007</td>
+<td>"Surrender"</td>
+<td><a href="/wiki/Phil_Harder" title="Phil Harder">Phil Harder</a></td>
+</tr>
+<tr>
+<td>"The Navy Song"</td>
+<td>Unknown</td>
+</tr>
+<tr>
+<td>"This Suffering"</td>
+<td>Pierre &amp; Francois Lamoureux</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="2">2009</td>
+<td>"Rusted From the Rain"</td>
+<td><a href="/wiki/Wayne_Isham" title="Wayne Isham">Wayne Isham</a></td>
+</tr>
+<tr>
+<td>"Devil on My Shoulder"</td>
+<td>Howard Greenhalgh</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="3">2010</td>
+<td>"Saint Veronika"</td>
+<td rowspan="2">Michael Maxxis</td>
+</tr>
+<tr>
+<td>"Diamond on a Landmine"</td>
+</tr>
+<tr>
+<td>"Prisoners of Today"</td>
+<td>Dustin Rabin</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="2">2012</td>
+<td>"Viking Death March"</td>
+<td>Michael Maxxis, David Hogan</td>
+</tr>
+<tr>
+<td>"Surprise Surprise"<sup id="cite_ref-25" class="reference"><a href="#cite_note-25"><span>[</span>25<span>]</span></a></sup></td>
+<td>Michael Maxxis</td>
+</tr>
+<tr>
+<td style="text-align:center;" rowspan="3">2013</td>
+<td>"Stand Up and Run"<sup id="cite_ref-26" class="reference"><a href="#cite_note-26"><span>[</span>26<span>]</span></a></sup></td>
+<td></td>
+</tr>
+<tr>
+<td>"Show Me the Way"</td>
+<td>Alon Isocianu, Jack Kay, Chad Kroeger</td>
+<td></td>
+</tr>
+<tr>
+<td>"Runnin' Across the Tracks"</td>
+<td>Alon Isocianu</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-count references-column-count-2" style="-moz-column-count: 2; -webkit-column-count: 2; column-count: 2; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-allmusicalbums-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-allmusicalbums_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-allmusicalbums_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/p578115">"((( Billy Talent &gt; Charts &amp; Awards &gt; Billboard Albums )))"</a> <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">allmusic</a></i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-autalbums-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-autalbums_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-autalbums_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://austriancharts.at/search.asp?search=billy+talent&amp;cat=a">"Austrian Albums Chart Search for Billy Talent"</a> <i>austriancharts.at</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-finalbums-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-finalbums_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-finalbums_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://finnishcharts.com/search.asp?search=billy+talent&amp;cat=a">"Finnish Albums Chart Search for Billy Talent"</a> <i>finnishcharts.com</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-geralbums-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-geralbums_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-geralbums_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.musicline.de/de/chartverfolgung_summary/artist/Billy+Talent/?type=longplay">"Chartverfolgung / Billy Talent / Longplay"</a> <i>musicline.de</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-swialbums-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-swialbums_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-swialbums_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hitparade.ch/search.asp?search=billy+talent&amp;cat=a">"Swiss Albums Chart Search for Billy Talent"</a> <i>hitparade.ch</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-zobbel-t-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-zobbel-t_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-zobbel-t_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zobbel.de/cluk/CLUK_T.HTM">"Chart Log UK (1994–2006) DJ T – Tzant"</a> <i>Zobbel</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-billboard-albums-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-billboard-albums_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-billboard-albums_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-billboard-albums_7-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-billboard-albums_7-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/285049/billy+talent/chart?f=305">"Artist Chart History - Billy Talent - Billboard 200"</a> <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><span class="citation web">Steffen Hung. <a rel="nofollow" class="external text" href="http://irish-charts.com/showinterpret.asp?interpret=Billy+Talent">"Discography Billy Talent"</a>. irishcharts.com<span class="reference-accessdate">. Retrieved 2012-01-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.aulast=Steffen+Hung&amp;rft.au=Steffen+Hung&amp;rft.btitle=Discography+Billy+Talent&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Firish-charts.com%2Fshowinterpret.asp%3Finterpret%3DBilly%2BTalent&amp;rft.pub=irishcharts.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-cria-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-cria_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-cria_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-cria_9-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-cria_9-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musiccanada.com/GPSearchResult.aspx?st=&amp;ica=False&amp;sa=Billy%20Talent&amp;sl=&amp;smt=0&amp;sat=-1&amp;ssb=Artist">"Gold Platinum Database: Billy Talent"</a>. <a href="/wiki/Music_Canada" title="Music Canada">Music Canada</a><span class="reference-accessdate">. Retrieved 2011-10-14</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Gold+Platinum+Database%3A+Billy+Talent&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musiccanada.com%2FGPSearchResult.aspx%3Fst%3D%26ica%3DFalse%26sa%3DBilly%2520Talent%26sl%3D%26smt%3D0%26sat%3D-1%26ssb%3DArtist&amp;rft.pub=Music+Canada&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-gfpi-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-gfpi_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gfpi_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-gfpi_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-gfpi_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.musikindustrie.de/gold_platin_datenbank/?action=suche&amp;strTitel=&amp;strInterpret=Billy+Talent&amp;strTtArt=alle&amp;strAwards=checked">"Gold-/Platin-Datenbank (Billy Talent)"</a> (in German). <a href="/wiki/Bundesverband_Musikindustrie" title="Bundesverband Musikindustrie">Bundesverband Musikindustrie</a><span class="reference-accessdate">. Retrieved April 7, 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Gold-%2FPlatin-Datenbank+%28Billy+Talent%29&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.musikindustrie.de%2Fgold_platin_datenbank%2F%3Faction%3Dsuche%26strTitel%3D%26strInterpret%3DBilly%2BTalent%26strTtArt%3Dalle%26strAwards%3Dchecked&amp;rft.pub=Bundesverband+Musikindustrie&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.bpi.co.uk/certifiedawards/search.aspx">http://www.bpi.co.uk/certifiedawards/search.aspx</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Roth, Kaj. <a rel="nofollow" class="external text" href="http://www.melodic.net/newsOne.asp?newsId=12669">"Billy Talent 3 Out This Summer"</a> <i>melodic.net</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.allmusic.com/artist/billy-talent-p578115/charts-awards/billboard-singles">"Billy Talent &gt; Charts &amp; Awards &gt; Billboard Singles"</a>. <i><a href="/wiki/Allmusic" title="Allmusic" class="mw-redirect">allmusic</a></i><span class="reference-accessdate">. Retrieved 2010-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Billy+Talent+%3E+Charts+%26+Awards+%3E+Billboard+Singles&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.allmusic.com%2Fartist%2Fbilly-talent-p578115%2Fcharts-awards%2Fbillboard-singles&amp;rft.pub=%27%27allmusic%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/285049/billy+talent/chart?f=793">"Billy Talent Album &amp; Chart History"</a>. <i><a href="/wiki/Billboard_(magazine)" title="Billboard (magazine)">Billboard</a></i><span class="reference-accessdate">. Retrieved 2010-05-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Billy+Talent+Album+%26+Chart+History&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fwww.billboard.com%2Fartist%2F285049%2Fbilly%2Btalent%2Fchart%3Ff%3D793&amp;rft.pub=%27%27Billboard%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://acharts.us/song/37865">"Billy Talent - Turn Your Back - Music Charts"</a>. Acharts.us<span class="reference-accessdate">. Retrieved 2012-01-16</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Billy+Talent+-+Turn+Your+Back+-+Music+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Facharts.us%2Fsong%2F37865&amp;rft.pub=Acharts.us&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Peak positions for Billy Talent's singles on the Canadian Alternative Rock Chart:</span>
+<ul>
+<li><span class="reference-text">For "Rusted from the Rain" <span class="citation web"><a rel="nofollow" class="external text" href="http://mediasource.proboards.com/index.cgi?action=gotopost&amp;board=ra2&amp;thread=10896&amp;post=302381">"Re: Canadian Active/Alternative Charts"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved June 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Re%3A+Canadian+Active%2FAlternative+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmediasource.proboards.com%2Findex.cgi%3Faction%3Dgotopost%26board%3Dra2%26thread%3D10896%26post%3D302381&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li>For "Devil on my Shoulder" <span class="citation web"><a rel="nofollow" class="external text" href="http://mediasource.proboards.com/index.cgi?action=gotopost&amp;board=ra2&amp;thread=10896&amp;post=370962">"Re: Canadian Active/Alternative Charts"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved June 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Re%3A+Canadian+Active%2FAlternative+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmediasource.proboards.com%2Findex.cgi%3Faction%3Dgotopost%26board%3Dra2%26thread%3D10896%26post%3D370962&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Saint Veronika" <span class="citation web"><a rel="nofollow" class="external text" href="http://mediasource.proboards.com/index.cgi?action=gotopost&amp;board=ra2&amp;thread=10896&amp;post=403070">"Re: Canadian Active/Alternative Charts"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved June 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Re%3A+Canadian+Active%2FAlternative+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmediasource.proboards.com%2Findex.cgi%3Faction%3Dgotopost%26board%3Dra2%26thread%3D10896%26post%3D403070&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Diamond on a Landmine" <span class="citation web"><a rel="nofollow" class="external text" href="http://mediasource.proboards.com/index.cgi?action=gotopost&amp;board=ra2&amp;thread=10896&amp;post=424958">"Re: Canadian Active/Alternative Charts"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved June 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Re%3A+Canadian+Active%2FAlternative+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmediasource.proboards.com%2Findex.cgi%3Faction%3Dgotopost%26board%3Dra2%26thread%3D10896%26post%3D424958&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Viking Death March" <span class="citation web"><a rel="nofollow" class="external text" href="http://canadianrockalt.blogspot.ca/2012/08/alternative-rock-august-7-2012.html">"Canadian Active Rock &amp; Alt Rock Chart Archive: Alternative Rock - August 7, 2012"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved August 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Canadian+Active+Rock+%26+Alt+Rock+Chart+Archive%3A+Alternative+Rock+-+August+7%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcanadianrockalt.blogspot.ca%2F2012%2F08%2Falternative-rock-august-7-2012.html&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Surprise, Surprise" <span class="citation web"><a rel="nofollow" class="external text" href="http://canadianrockalt.blogspot.ca/2012/11/alternative-rock-november-20-2012.html">"Canadian Active Rock &amp; Alt Rock Chart Archive: Alternative Rock - November 20, 2012"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved November 20, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Canadian+Active+Rock+%26+Alt+Rock+Chart+Archive%3A+Alternative+Rock+-+November+20%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcanadianrockalt.blogspot.ca%2F2012%2F11%2Falternative-rock-november-20-2012.html&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+</ul>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Peak positions for Billy Talent's singles on the Canadian Active Rock Chart:</span>
+<ul>
+<li><span class="reference-text">For "Rusted from the Rain" <span class="citation web"><a rel="nofollow" class="external text" href="http://mediasource.proboards.com/index.cgi?action=gotopost&amp;board=ra2&amp;thread=10896&amp;post=307471">"Re: Canadian Active/Alternative Charts"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved June 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Re%3A+Canadian+Active%2FAlternative+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmediasource.proboards.com%2Findex.cgi%3Faction%3Dgotopost%26board%3Dra2%26thread%3D10896%26post%3D307471&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li>For "Devil on my Shoulder" <span class="citation web"><a rel="nofollow" class="external text" href="http://mediasource.proboards.com/index.cgi?action=gotopost&amp;board=ra2&amp;thread=10896&amp;post=367690">"Re: Canadian Active/Alternative Charts"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved June 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Re%3A+Canadian+Active%2FAlternative+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmediasource.proboards.com%2Findex.cgi%3Faction%3Dgotopost%26board%3Dra2%26thread%3D10896%26post%3D367690&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Saint Veronika" <span class="citation web"><a rel="nofollow" class="external text" href="http://mediasource.proboards.com/index.cgi?action=gotopost&amp;board=ra2&amp;thread=10896&amp;post=407629">"Re: Canadian Active/Alternative Charts"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved June 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Re%3A+Canadian+Active%2FAlternative+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmediasource.proboards.com%2Findex.cgi%3Faction%3Dgotopost%26board%3Dra2%26thread%3D10896%26post%3D407629&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Diamond on a Landmine" <span class="citation web"><a rel="nofollow" class="external text" href="http://mediasource.proboards.com/index.cgi?action=gotopost&amp;board=ra2&amp;thread=10896&amp;post=434030">"Re: Canadian Active/Alternative Charts"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved June 7, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Re%3A+Canadian+Active%2FAlternative+Charts&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fmediasource.proboards.com%2Findex.cgi%3Faction%3Dgotopost%26board%3Dra2%26thread%3D10896%26post%3D434030&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Viking Death March" <span class="citation web"><a rel="nofollow" class="external text" href="http://canadianrockalt.blogspot.ca/2012/08/active-rock-august-14-2012.html">"Canadian Active Rock &amp; Alt Rock Chart Archive: Active Rock - August 14, 2012"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved August 14, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Canadian+Active+Rock+%26+Alt+Rock+Chart+Archive%3A+Active+Rock+-+August+14%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcanadianrockalt.blogspot.ca%2F2012%2F08%2Factive-rock-august-14-2012.html&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Surprise, Surprise" <span class="citation web"><a rel="nofollow" class="external text" href="http://canadianrockalt.blogspot.ca/2012/12/active-rock-december-18-2012.html">"Canadian Active Rock &amp; Alt Rock Chart Archive: Active Rock - December 18, 2012"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved December 18, 2012</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Canadian+Active+Rock+%26+Alt+Rock+Chart+Archive%3A+Active+Rock+-+December+18%2C+2012&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcanadianrockalt.blogspot.ca%2F2012%2F12%2Factive-rock-december-18-2012.html&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li>For "Stand Up and Run" <span class="citation web"><a rel="nofollow" class="external text" href="http://canadianrockalt.blogspot.ca/2013/02/active-rock-february-29-2013.html">"Canadian Active Rock &amp; Alt Rock Chart Archive: Active Rock - February 29, 2013"</a>. <i><a href="/wiki/America%27s_Music_Charts" title="America's Music Charts">America's Music Charts</a></i><span class="reference-accessdate">. Retrieved February 29, 2013</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABilly+Talent+discography&amp;rft.btitle=Canadian+Active+Rock+%26+Alt+Rock+Chart+Archive%3A+Active+Rock+-+February+29%2C+2013&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fcanadianrockalt.blogspot.ca%2F2013%2F02%2Factive-rock-february-29-2013.html&amp;rft.pub=%27%27America%27s+Music+Charts%27%27&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span> <span style="display:none;font-size:100%" class="error citation-comment">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|accessdate=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></li>
+</ul>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://austriancharts.at/search.asp?cat=s&amp;search=billy+talent">"Austrian Singles Charts Search for Billy Talent"</a> <i>austriancharts.at</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.ultratop.be/nl/search.asp?search=Billy+Talent&amp;cat=s">"Belgian Singles Charts Search for Billy Talent"</a> <i>ultratop.be</i>. Retrieved on August 25, 2010.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.musicline.de/de/chartverfolgung_summary/artist/Billy+Talent/?type=single">"Chartverfolgung / Billy Talent / Single"</a> <i>musicline.de</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.hitparade.ch/search.asp?cat=s&amp;search=billy+talent">"Swiss Singles Charts Search for Billy Talent"</a> <i>hitparade.ch</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zobbel.de/cluk/CLUK_B.HTM">"Chart Log UK (1994–2006) Howie B – David Byrne"</a> <i>Zobbel</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.zobbel.de/cluk/CLUK2007.HTM">"Chart Log UK (2007) Special Single-File Version"</a> <i>Zobbel</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.billboard.com/artist/285049/billy+talent/chart?f=377">"Artist Chart History - Billy Talent - Single"</a> <i>Billboard</i>. Retrieved on April 7, 2009.</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.youtube.com/watch?v=ZGbNq_flErA&amp;feature=player_embedded">http://www.youtube.com/watch?v=ZGbNq_flErA&amp;feature=player_embedded</a></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=jsmbGsj2WNs">Billy Talent - Stand Up and Run - Official HD Music Video</a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></span></li>
+</ol>
+</div>
+<table cellspacing="0" class="navbox" style="border-spacing:0;">
+<tr>
+<td style="padding:2px;">
+<table cellspacing="0" class="nowraplinks vcard hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit;">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style="background: #b0c4de;;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Billy_Talent" title="Template:Billy Talent"><span title="View this template" style=";background: #b0c4de;;background:none transparent;border:none;;">v</span></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Billy_Talent" title="Template talk:Billy Talent"><span title="Discuss this template" style=";background: #b0c4de;;background:none transparent;border:none;;">t</span></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Billy_Talent&amp;action=edit"><span title="Edit this template" style=";background: #b0c4de;;background:none transparent;border:none;;">e</span></a></li>
+</ul>
+</div>
+<div class="fn org" style="font-size:110%;"><a href="/wiki/Billy_Talent" title="Billy Talent">Billy Talent</a></div>
+</th>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #EEEEEE;;">
+<div>
+<ul>
+<li><b><a href="/wiki/Benjamin_Kowalewicz" title="Benjamin Kowalewicz">Benjamin Kowalewicz</a></b></li>
+<li><b><a href="/wiki/Ian_D%27Sa" title="Ian D'Sa">Ian D'Sa</a></b></li>
+<li><b>Jonathan Gallant</b></li>
+<li><b><a href="/wiki/Aaron_Solowoniuk" title="Aaron Solowoniuk">Aaron Solowoniuk</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Studio_album" title="Studio album" class="mw-redirect">Studio albums</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Watoosh!" title="Watoosh!">Watoosh!</a></i> (as Pezz)</li>
+<li><i><a href="/wiki/Billy_Talent_(album)" title="Billy Talent (album)">Billy Talent</a></i></li>
+<li><i><a href="/wiki/Billy_Talent_II" title="Billy Talent II">Billy Talent II</a></i></li>
+<li><i><a href="/wiki/Billy_Talent_III" title="Billy Talent III">Billy Talent III</a></i></li>
+<li><i><a href="/wiki/Dead_Silence_(album)" title="Dead Silence (album)">Dead Silence</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Extended_play" title="Extended play">EPs</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i>Demoluca</i></li>
+<li><i><a href="/wiki/Dudebox" title="Dudebox">Dudebox</a></i></li>
+<li><i><a href="/wiki/Try_Honesty_EP" title="Try Honesty EP" class="mw-redirect">Try Honesty EP</a></i></li>
+<li><i><a href="/wiki/Try_Honesty_/_Living_in_the_Shadows" title="Try Honesty / Living in the Shadows">Try Honesty/Living in the Shadows</a></i></li>
+<li><i><a href="/w/index.php?title=ITunes_Session_(Billy_Talent_EP)&amp;action=edit&amp;redlink=1" class="new" title="ITunes Session (Billy Talent EP) (page does not exist)">iTunes Session</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Live albums</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Live_from_the_UK_Sept./2006" title="Live from the UK Sept./2006">Live from the UK Sept./2006</a></i></li>
+<li><i><a href="/wiki/666_(Billy_Talent_album)" title="666 (Billy Talent album)">666</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Singles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li>"<a href="/wiki/Try_Honesty" title="Try Honesty">Try Honesty</a>"</li>
+<li>"<a href="/wiki/The_Ex_(song)" title="The Ex (song)">The Ex</a>"</li>
+<li>"<a href="/wiki/River_Below" title="River Below">River Below</a>"</li>
+<li>"<a href="/wiki/Nothing_to_Lose_(Billy_Talent_song)" title="Nothing to Lose (Billy Talent song)">Nothing to Lose</a>"</li>
+<li>"<a href="/wiki/Devil_in_a_Midnight_Mass" title="Devil in a Midnight Mass">Devil in a Midnight Mass</a>"</li>
+<li>"<a href="/wiki/Red_Flag_(song)" title="Red Flag (song)">Red Flag</a>"</li>
+<li>"<a href="/wiki/Fallen_Leaves" title="Fallen Leaves">Fallen Leaves</a>"</li>
+<li>"<a href="/wiki/Surrender_(Billy_Talent_song)" title="Surrender (Billy Talent song)">Surrender</a>"</li>
+<li>"<a href="/wiki/This_Suffering" title="This Suffering">This Suffering</a>"</li>
+<li>"<a href="/wiki/Turn_Your_Back" title="Turn Your Back">Turn Your Back</a>"</li>
+<li>"<a href="/wiki/Rusted_from_the_Rain" title="Rusted from the Rain">Rusted from the Rain</a>"</li>
+<li>"<a href="/wiki/Devil_on_My_Shoulder" title="Devil on My Shoulder">Devil on My Shoulder</a>"</li>
+<li>"<a href="/wiki/Saint_Veronika" title="Saint Veronika">Saint Veronika</a>"</li>
+<li>"<a href="/wiki/Diamond_on_a_Landmine" title="Diamond on a Landmine" class="mw-redirect">Diamond on a Landmine</a>"</li>
+<li>"<a href="/wiki/Viking_Death_March" title="Viking Death March">Viking Death March</a>"</li>
+<li>"<a href="/wiki/Surprise_Surprise_(song)" title="Surprise Surprise (song)">Surprise Surprise</a>"</li>
+<li>"<a href="/wiki/Stand_Up_and_Run" title="Stand Up and Run">Stand Up and Run</a>"</li>
+<li>"<a href="/wiki/Show_Me_The_Way_(Billy_Talent_song)" title="Show Me The Way (Billy Talent song)" class="mw-redirect">Show Me the Way</a>"</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Videography</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i><a href="/wiki/Scandalous_Travelers" title="Scandalous Travelers">Scandalous Travelers</a></i></li>
+<li><i><a href="/wiki/666_(Billy_Talent_album)" title="666 (Billy Talent album)">666</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;"><a href="/wiki/Concert_tour" title="Concert tour" class="mw-redirect">Tours</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><i>Billy Talent</i> Tour</li>
+<li><a href="/wiki/Billy_Talent_II_Tour" title="Billy Talent II Tour"><i>Billy Talent II</i> Tour</a></li>
+<li><a href="/wiki/Billy_Talent_III_Tour" title="Billy Talent III Tour"><i>Billy Talent III</i> Tour</a></li>
+<li><a href="/wiki/Dead_Silence_Tour" title="Dead Silence Tour"><i>Dead Silence</i> Tour</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Labels</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><a href="/wiki/Roadrunner_Records" title="Roadrunner Records">Roadrunner Records</a></li>
+<li><a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic Records</a></li>
+<li><a href="/wiki/Warner_Music_Canada" title="Warner Music Canada">Warner Music Canada</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px;">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="background: #EEEEEE;;">Related articles</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;">
+<div style="padding:0em 0.25em;">
+<ul>
+<li><strong class="selflink">Discography</strong></li>
+<li><a href="/wiki/List_of_awards_and_nominations_received_by_Billy_Talent" title="List of awards and nominations received by Billy Talent">Awards</a></li>
+<li><a href="/wiki/Our_Lady_of_Mount_Carmel_Secondary_School" title="Our Lady of Mount Carmel Secondary School">Our Lady of Mount Carmel Secondary School</a></li>
+<li><a href="/wiki/Meadowvale,_Ontario" title="Meadowvale, Ontario">Meadowvale</a>/<a href="/wiki/Streetsville,_Ontario" title="Streetsville, Ontario">Streetsville</a>/<a href="/wiki/Mississauga" title="Mississauga">Mississauga</a></li>
+<li><i><a href="/wiki/Hard_Core_Logo" title="Hard Core Logo">Hard Core Logo</a></i></li>
+</ul>
+<div class="hatnote relarticle mainarticle">Main article: <a href="/wiki/List_of_awards_and_nominations_received_by_Billy_Talent" title="List of awards and nominations received by Billy Talent">List of awards and nominations received by Billy Talent</a></div>
+<div class="hatnote relarticle mainarticle">Main article: <strong class="selflink">Billy Talent discography</strong></div>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- 
+NewPP limit report
+Parsed by mw1001
+CPU time usage: 1.180 seconds
+Real time usage: 1.806 seconds
+Preprocessor visited node count: 3304/1000000
+Preprocessor generated node count: 41000/1500000
+Post‐expand include size: 66055/2048000 bytes
+Template argument size: 3809/2048000 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 4/500
+Lua time usage: 0.110/10.000 seconds
+Lua memory usage: 2.83 MB/50 MB
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10483699-0!*!0!!en!4!* and timestamp 20140830010450 and revision id 616677839
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>									<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="http://en.wikipedia.org/w/index.php?title=Billy_Talent_discography&amp;oldid=616677839">http://en.wikipedia.org/w/index.php?title=Billy_Talent_discography&amp;oldid=616677839</a>"					</div>
+													<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Discographies_of_Canadian_artists" title="Category:Discographies of Canadian artists">Discographies of Canadian artists</a></li><li><a href="/wiki/Category:Rock_music_group_discographies" title="Category:Rock music group discographies">Rock music group discographies</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2012" title="Category:Articles needing additional references from August 2012">Articles needing additional references from August 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div>												<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-createaccount"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Billy+Talent+discography&amp;type=signup">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Billy+Talent+discography" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Billy_Talent_discography"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Billy_Talent_discography"  title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label"><span
+							style="display: block;" 							>Variants</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Billy_Talent_discography" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=edit"  title="You can edit this page. Please use the preview button before saving [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Billy_Talent_discography&amp;action=history"  title="Past versions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+														<div id="simpleSearch">
+															<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput" /><input type="hidden" value="Special:Search" name="title" /><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if one exists" id="searchButton" class="searchButton" />								</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a style="background-image: url(//upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png);" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li>
+													<li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li>
+													<li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li>
+													<li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li>
+													<li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li>
+													<li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li>
+													<li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikimedia Shop">Wikimedia Shop</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+													<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li>
+													<li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li>
+													<li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li>
+													<li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li>
+													<li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact page</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+													<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Billy_Talent_discography" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li>
+													<li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Billy_Talent_discography" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li>
+													<li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li>
+													<li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li>
+													<li id="t-permalink"><a href="/w/index.php?title=Billy_Talent_discography&amp;oldid=616677839" title="Permanent link to this revision of the page">Permanent link</a></li>
+													<li id="t-info"><a href="/w/index.php?title=Billy_Talent_discography&amp;action=info">Page information</a></li>
+													<li id="t-wikibase"><a href="//www.wikidata.org/wiki/Q803783" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li>
+						<li id="t-cite"><a href="/w/index.php?title=Special:Cite&amp;page=Billy_Talent_discography&amp;id=616677839" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+													<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Billy+Talent+discography">Create a book</a></li>
+													<li id="coll-download-as-rl"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Billy+Talent+discography&amp;oldid=616677839&amp;writer=rl">Download as PDF</a></li>
+													<li id="t-print"><a href="/w/index.php?title=Billy_Talent_discography&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>
+											</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+													<li class="interlanguage-link interwiki-es"><a href="//es.wikipedia.org/wiki/Anexo:Discograf%C3%ADa_de_Billy_Talent" title="Anexo:Discografía de Billy Talent – Spanish" lang="es" hreflang="es">Español</a></li>
+													<li class="interlanguage-link interwiki-hu"><a href="//hu.wikipedia.org/wiki/Billy_Talent-diszkogr%C3%A1fia" title="Billy Talent-diszkográfia – Hungarian" lang="hu" hreflang="hu">Magyar</a></li>
+													<li class="interlanguage-link interwiki-uk"><a href="//uk.wikipedia.org/wiki/%D0%94%D0%B8%D1%81%D0%BA%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%8F_Billy_Talent" title="Дискографія Billy Talent – Ukrainian" lang="uk" hreflang="uk">Українська</a></li>
+													<li class="uls-p-lang-dummy"><a href="#"></a></li>
+											</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a action="edit" href="//www.wikidata.org/wiki/Q803783#sitelinks-wikipedia" text="Edit links" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 12 July 2014 at 17:49.<br /></li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="//wikimediafoundation.org/wiki/Privacy_policy" title="wikimedia:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/wiki/Billy_Talent_discography" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+															<a href="//wikimediafoundation.org/"><img src="//bits.wikimedia.org/images/wikimedia-button.png" width="88" height="31" alt="Wikimedia Foundation"/></a>
+													</li>
+											<li id="footer-poweredbyico">
+															<a href="//www.mediawiki.org/"><img src="//bits.wikimedia.org/static-1.24wmf18/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" width="88" height="31" /></a>
+													</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>/*<![CDATA[*/window.jQuery && jQuery.ready();/*]]>*/</script><script>if(window.mw){
+mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","site":"loading","user":"ready","user.groups":"ready"});
+}</script>
+<script>if(window.mw){
+mw.loader.load(["ext.cite","mediawiki.toc","mobile.desktop","mediawiki.action.view.postEdit","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.eventLogging.subscriber","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","wikimediaBadges.default"],null,true);
+}</script>
+<script src="//bits.wikimedia.org/en.wikipedia.org/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=vector&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgBackendResponseTime":297,"wgHostname":"mw1042"});
+}</script>
+	</body>
+</html>
+	

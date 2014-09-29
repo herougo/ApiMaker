@@ -1,0 +1,2268 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:c="http://s.opencalais.com/1/pred/"
+  xmlns:sys="http://s.opencalais.com/1/type/sys/"
+  xmlns:lid="http://s.opencalais.com/1/type/lid/"
+  xmlns:cat="http://s.opencalais.com/1/type/cat/"
+  xmlns:resolved="http://s.opencalais.com/1/type/er/"
+  xmlns:cgeo="http://s.opencalais.com/1/type/er/Geo/"
+  xmlns:eventfact="http://s.opencalais.com/1/type/em/r/"
+  xmlns:entity="http://s.opencalais.com/1/type/em/e/"
+  xmlns:cld="http://s.opencalais.com/1/linkeddata/pred/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta charset="utf-8" />
+<meta property="og:url" content="http://www.billboard.com/charts/2014-07-19/hot-100" />
+<meta content="The Hot 100" about="/charts/2014-07-19/hot-100" property="dc:title" />
+<meta property="og:site_name" content="Billboard" />
+<meta property="dcterms.format" content="text/html" />
+<meta property="dcterms.type" content="Text" />
+<meta about="/charts/2014-07-19/hot-100" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://www.billboard.com/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed-retina.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="/sites/all/themes/bb/images/billboard-touch-icon-precomposed-phone.png" />
+<meta name="sailthru.date" content="2014-07-19T00:00:00-04:00" />
+<meta name="sailthru.tags" content="" />
+<link rel="shortlink" href="http://www.billboard.com/node/6150756" />
+<link rel="canonical" href="http://www.billboard.com/archive/charts/2014/hot-100" />
+<meta property="og:title" content="The Hot 100 : Jul 19, 2014  | Billboard Chart Archive" />
+<meta property="og:type" content="website" />
+<link rel="prev" href="/charts/2014-07-12/hot-100" />
+<link rel="next" href="/charts/2014-07-26/hot-100" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+<meta name="robots" content="noindex" />
+<meta property="dcterms.title" content="The Hot 100" />
+<meta property="dcterms.creator" content="Anonymous" />
+<meta property="dcterms.language" content="und" />
+<meta property="dcterms.identifier" content="http://www.billboard.com/charts/2014-07-19/hot-100" />
+<meta property="dcterms.date" content="2014-07-19T00:00-04:00" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+  <title>The Hot 100 : Jul 19, 2014  | Billboard Chart Archive</title>
+  <link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_H2Ds0Szmus79ZU6G0Gv8be7ZJhXfUee6g7XMh6DqVAQ.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_ORRc_naReGXEkqBIlDDnVSNB2eVFthhc0CJak4LYcRA.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_Xkh56x18OQOO6bmdLTc0N2fqVfkphiWlunmYTx7MoPs.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="http://www.billboard.com/files/css/css_FRQpstQ8OED9VvjfiyKU8ZYdKVo5xcI-392bBfmcYdM.css" media="print" />
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-1266747-9";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_Fk2EtWXE7LCynSwKaRdAXUBdaCDoMujrnIEpGHWyzko.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+    (function() {
+      var useSSL = "https:" == document.location.protocol;
+      var src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+    })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_PdiuypZMI8o81AYEdTHwjRslVPEF69JFzr7Y9sMWt4s.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+    function DARTLegolasGetCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+          var c = ca[i];
+          while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+    var segments = [];
+    //Read the cookie
+    var lsg = DARTLegolasGetCookie('lsg');
+    if (lsg) {
+      //Tokenize
+      var cookieTokens = this.lsg.split('s');
+
+      //Build string for dart requests
+      for(var i=0; i < cookieTokens.length; i++) {
+        if (cookieTokens[i] != '0') { 
+          segments.push(cookieTokens[i]); 
+        }
+      }
+    }
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_BOf-FR7Wm4w7K3OBdPkmXp2iRQpRf-PeYx-FfmQKi-c.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_-jenMcWHoY-_YofME9QdfIdN78Hvtfo2npip2cxdObU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/charts/hot-100", [[970, 250], [970, 90], [970, 66]], "dfp-ad-t")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "t")
+  .setTargeting("chart", "hot-100");
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/charts/hot-100", [[300, 250], [300, 600], [300, 1050], [300, 251]], "dfp-ad-m1")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "m1")
+  .setTargeting("dartlegolas", segments)
+  .setTargeting("chart", "hot-100");
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/charts/hot-100", [[300, 250], [300, 252]], "dfp-ad-m2")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "m2")
+  .setTargeting("dartlegolas", segments)
+  .setTargeting("chart", "hot-100");
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineSlot("/6419/billboard/charts/hot-100", [728, 90], "dfp-ad-a")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("pos", "a")
+  .setTargeting("dartlegolas", segments)
+  .setTargeting("chart", "hot-100");
+})
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+googletag.defineOutOfPageSlot("/6419/billboard/charts/hot-100", "dfp-ad-o1")
+  .addService(googletag.companionAds())
+  .addService(googletag.pubads())
+  .setTargeting("chart", "hot-100");
+})
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_EppbyVRYhU34reEYHpU3cF7DDqB8y46khqgW9yA_hAQ.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_nv44E4HYNYYXSqwFoeLwrqi_fmf_T7NZbkVMMNlNP0A.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+  googletag.pubads().collapseEmptyDivs(true);
+  googletag.pubads().setTargeting("tags_global", ["charts","2014-07-19","hot-100"]);
+});
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_9FAk48NSaNfbD2UZBqXspbKnfGGVB0XV2KWTGbssbRg.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+SA.redirection_mobile ({redirection_param : 'mobile_redirection',mobile_url   : 'm.billboard.com',cookie_hours : '2', keep_path    : true, keep_query   : true, });
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_SOvllzNvex-Qe_E0fVax0CyaJkYx3_OIFl5m9ZT2cPE.js"></script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_OJYavQinLZQHx4ZSNnrSbIwHkXW7W1zUpY1WNEqbEvU.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-1266747-9"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://" : "http://") + "stats.g.doubleclick.net/dc.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_DEgdS0g3Fwini7ePB9r8IuxpQ0teOQm7oNoXQ-QBk7A.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var dart_url = "http://ad.doubleclick.net";
+var tile = 1;
+var ord = 1000000000 + Math.floor(Math.random() * 900000000);
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_r9x8gMsVuSuZpmWNT2nPEI8tyvSSW4OHxkQ_Uwe1Gx0.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bb","theme_token":"b54UcQL53XdW-s9YxjsxEWWEBg2Axk-gW3rUQOppPBk","js":{"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"sites\/all\/modules\/jquery_update\/replace\/misc\/jquery.form.min.js":1,"misc\/ajax.js":1,"sites\/all\/modules\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contentanalysis\/contentanalysis.js":1,"sites\/all\/modules\/contentoptimizer\/contentoptimizer.js":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/user_alert\/js\/user-alert.js":1,"sites\/all\/modules\/apachesolr_autocomplete\/apachesolr_autocomplete.js":1,"sites\/all\/modules\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":1,"misc\/progress.js":1,"sites\/all\/modules\/jcarousel\/js\/jquery.jcarousel.min.js":1,"sites\/all\/modules\/jcarousel\/js\/jcarousel.js":1,"sites\/all\/modules\/billboard\/bb_chart_archived\/bb_chart_archived.js":1,"sites\/all\/modules\/billboard\/bb_mobile\/js\/redirection-mobile.js":1,"1":1,"http:\/\/admin.brightcove.com\/js\/BrightcoveExperiences.js":1,"sites\/all\/libraries\/colorbox\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.js":1,"https:\/\/apis.google.com\/js\/plusone.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"2":1,"sites\/all\/modules\/billboard\/dart\/dart.js":1,"3":1,"sites\/all\/themes\/bb\/js\/modernizr.js":1,"sites\/all\/themes\/bb\/js\/plugins\/functions.js":1,"sites\/all\/themes\/bb\/js\/plugins\/add_placeholder.js":1,"sites\/all\/themes\/bb\/js\/plugins\/jquery.client.js":1,"sites\/all\/themes\/bb\/js\/plugins\/jquery.masonry.min.js":1,"sites\/all\/themes\/bb\/js\/application.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/bbbiz.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/billboard.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/milestone_lightbox.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/listing_clicks.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/open_drawer.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/fake_header.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/my_rating.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/gallery.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/infographic.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/jcarousel.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/pinteresterize.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/breaking_news_bar.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/more_copy.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/sticky_social_links.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/reveal_hidden.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/top.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/slide_switch.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/fbc_switch.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/do_masonry.js":1,"sites\/all\/themes\/bb\/js\/vendor\/select2.min.js":1,"sites\/all\/themes\/bb\/js\/behaviors\/chart_name_search.js":1,"4":1,"\/\/ak.sail-horizon.com\/scout\/v1.js":1,"5":1,"http:\/\/platform.twitter.com\/widgets.js":1,"6":1,"http:\/\/i.po.st\/static\/v3\/post-widget.js#publisherKey=b9alt6tq217m0vjbjqtc":1,"sites\/all\/modules\/billboard\/bb_social\/js\/bb_social.js":1,"7":1,"8":1,"9":1,"10":1,"11":1,"12":1,"13":1,"14":1,"15":1,"16":1,"17":1,"18":1,"19":1,"20":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"sites\/all\/modules\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/user_alert\/css\/user-alert.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"sites\/all\/modules\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css":1,"sites\/all\/modules\/colorbox\/styles\/default\/colorbox_default_style.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/linkedin\/linkedin_auth\/linkedin_auth.css":1,"sites\/all\/modules\/linkedin\/linkedin_profile\/linkedin_profile.css":1,"sites\/all\/modules\/linkedin\/linkedin_status\/linkedin_status.css":1,"sites\/all\/modules\/print\/css\/printlinks.css":1,"sites\/all\/themes\/bb\/css\/common.css":1,"sites\/all\/themes\/bb\/css\/application.css":1,"sites\/all\/themes\/bb\/css\/header.css":1,"sites\/all\/themes\/bb\/css\/headers.css":1,"sites\/all\/themes\/bb\/css\/footer.css":1,"sites\/all\/themes\/bb\/css\/social.css":1,"sites\/all\/themes\/bb\/css\/genericons.css":1,"sites\/all\/themes\/bb\/css\/modules\/teaser.css":1,"sites\/all\/themes\/bb\/css\/modules\/gallery.css":1,"sites\/all\/themes\/bb\/css\/modules\/most_popular.css":1,"sites\/all\/themes\/bb\/css\/modules\/newsletter.css":1,"sites\/all\/themes\/bb\/css\/modules\/pull_quote.css":1,"sites\/all\/themes\/bb\/css\/modules\/rating.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart.css":1,"sites\/all\/themes\/bb\/css\/modules\/charts.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart_summary.css":1,"sites\/all\/themes\/bb\/css\/modules\/chart_legend.css":1,"sites\/all\/themes\/bb\/css\/modules\/search.css":1,"sites\/all\/themes\/bb\/css\/modules\/album.css":1,"sites\/all\/themes\/bb\/css\/modules\/on_tour.css":1,"sites\/all\/themes\/bb\/css\/modules\/forms.css":1,"sites\/all\/themes\/bb\/css\/modules\/archive.css":1,"sites\/all\/themes\/bb\/css\/modules\/linkedin.css":1,"sites\/all\/themes\/bb\/css\/modules\/inline_promo.css":1,"sites\/all\/themes\/bb\/css\/pages\/artist.css":1,"sites\/all\/themes\/bb\/css\/pages\/article.css":1,"sites\/all\/themes\/bb\/css\/pages\/tertiary.css":1,"sites\/all\/themes\/bb\/css\/pages\/landing-page.css":1,"sites\/all\/themes\/bb\/css\/pages\/landing-page-biz.css":1,"sites\/all\/themes\/bb\/css\/pages\/home-page.css":1,"sites\/all\/themes\/bb\/css\/pages\/search_results.css":1,"sites\/all\/themes\/bb\/css\/pages\/milestone.css":1,"sites\/all\/themes\/bb\/css\/pages\/bbma.css":1,"sites\/all\/themes\/bb\/css\/select2.css":1,"sites\/all\/themes\/bb\/css\/select2_overrides.css":1,"sites\/all\/themes\/bb\/css\/pages\/event-page.css":1,"sites\/all\/themes\/bb\/css\/billboard-print.css":1}},"apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"win_sonic_url":"\/milestone\/sonic","chartbeat":{"uid":3388,"domain":"billboard.com","useCanonical":true},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"100%","maxHeight":"100%","fixed":true},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","jcarousel":{"ajaxPath":"\/jcarousel\/ajax\/views"},"user_alert":{"url_prefix":""},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+  
+<!--[if lt IE 9]>
+<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+  <!--[if lte IE 6]>
+  <link rel="stylesheet" href="http://universal-ie6-css.googlecode.com/files/ie6.1.1.css" media="screen, projection">
+  <![endif]-->
+  <!--[if IE 8]><meta http-equiv="X-UA-Compatible" content="IE=7" /><![endif]-->
+  <!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7395269" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=7395269&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+<!-- Begin Legolas Tag -->
+<script type="text/javascript" src="http://rt.legolas-media.com/lgrt?ci=2&ti=1200&pbi=10805"></script>
+<!-- End Legolas Tag -->
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-6150756 node-type-chart"  data-behavior="billboard">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=340094652706297";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <div id="bb" class='bbcom' data-behavior='bbcom'>
+
+                <div class="breaking_news_bar" data-behavior="breaking_news_bar">
+      <div class="c">
+          <div class="region region-alert">
+    <div id="block-user-alert-user-alert" class="block block-user-alert">
+
+      
+  <div class="content">
+    
+<div id="user-alert-6236379" class="user-alert">
+   <i>Watch:</i>   <b><a href="http://www.billboard.com/mercedes-benz-evolution-tour-2014/#young-the-giant">Young The Giant Reimagines &#039;Mind over Matter&#039;</a></b>
+      <style type="text/css">
+     .breaking_news_bar {
+        background: #A47AE2;
+     }
+   </style>
+   </div>
+<ul class="news_bar_actions">
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.billboard.com/mercedes-benz-evolution-tour-2014/#young-the-giant"><i class="icon fb">Facebook</i></a>
+    </li>
+    <li><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fwww.billboard.com%2Fmercedes-benz-evolution-tour-2014%2F%23young-the-giant&counturl=http%3A%2F%2Fwww.billboard.com%2Fmercedes-benz-evolution-tour-2014%2F%23young-the-giant&via=billboard&text=Watch%3A+Young+The+Giant+Reimagines+%27Mind+over+Matter%27"><i class="icon tw">Twitter</i></a></li>
+    <li><a class="close" href="#" rel="6236379"><i class="icon close">Close</i></a></li>
+    <li class="clearfix"></li>
+</ul>
+<div class="clearfix"></div>
+<script type="text/javascript">
+  BB.Behaviors.breaking_news_bar(jQuery('.breaking_news_bar'));
+  function socialopen(url){
+    var width = 500;
+    var height= 400;
+    var wwidth = jQuery(window).width();
+    var left = (wwidth  - width)  / 2;
+    var opts = 'width=' + width + ',height=' + height + ',left=' + left;
+
+    window.open(url,'',opts);
+  }
+</script>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+      </div>
+    </div>
+              <div class="upper_black_nav">
+        <div class="c">
+            <div class="region region-upper-navigation">
+    <div id="block-menu-menu-secondary-menu" class="block block-menu tertiary-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/videos" title="Videos" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Videos&#039;]);">Videos</a></li>
+<li class="leaf"><a href="/articles/reviews" title="Reviews" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Reviews&#039;]);">Reviews</a></li>
+<li class="leaf"><a href="/artists/top-100" title="Top 100 Artists" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Top-100-Artists&#039;]);">Artists</a></li>
+<li class="leaf"><a href="/search/site/podcast?f%2525255B0%2525255D=ss_bb_type%3Aarticle" title="Podcasts" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Podcasts&#039;]);">Podcasts</a></li>
+<li class="leaf"><a href="/articles/columns/pop-shop" title="Pop-Shop" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Pop-Shop&#039;]);">Pop-Shop</a></li>
+<li class="leaf"><a href="/articles/columns/the-juice" title="The Juice" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;The-Juice&#039;]);">The Juice</a></li>
+<li class="leaf"><a href="/articles/columns/chart-beat" title="Chart Beat" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;Chart-Beat&#039;]);">Chart Beat</a></li>
+<li class="leaf"><a href="http://www.billboard.com/mercedes-benz-evolution-tour-2014/" title="Mercedes-Benz Evolution Tour" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;MBEvoTour&#039;]);">Mercedes-Benz Evo Tour</a></li>
+<li class="last leaf promoted-red"><a href="http://www.billboard.com/2014-mtv-video-music-awards-vma" title="MTV VMAs" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;TopNavigation&#039;,&#039;VMA&#039;]);" class="promoted-red">MTV VMAs</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+        </div>
+      </div>
+        <header id="header" role="banner"><div class="section clearfix">
+            <img src="/sites/all/themes/bb/images/bb_logo.png" class="logo" />
+              <div id="logo" class="region">
+          <a href="/" title="Billboard.com" onclick="_gaq.push(['_trackEvent','TopNavigation','Main-Logo']);" rel="home">Billboard</a>
+        </div>
+              <div class="region region-header">
+    <div id="block-billboard-blocks-bb-followus" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <div class="item-list"><ul class="follow-us"><li class="first"><a href="http://www.facebook.com/Billboard" class="genericon genericon-facebook-alt" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Facebook&#039;]);"></a></li>
+<li><a href="http://twitter.com/billboard" class="genericon genericon-twitter" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Twitter&#039;]);"></a></li>
+<li><a href="https://plus.google.com/+Billboard" class="genericon genericon-googleplus-alt" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Google+&#039;]);"></a></li>
+<li><a href="https://www.pinterest.com/billboard/" class="genericon genericon-pinterest" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Pinterest&#039;]);"></a></li>
+<li><a href="http://instagram.com/billboard" class="genericon genericon-instagram" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Instagram&#039;]);"></a></li>
+<li class="last"><a href="http://billboard.tumblr.com/" class="genericon genericon-tumblr" target="_blank" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Social&#039;,&#039;Tumblr&#039;]);"></a></li>
+</ul></div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-billboard-blocks-top-cover-art-image" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <div class="top-cover-image">
+  <div class="top-links">
+    <ul>
+      <li><a href="/newsletters">Newsletters</a></li>
+      <li><a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS01">Subscribe Now &amp; Save</a></li>
+    </ul>
+  </div>
+  <div class="top-cover-image">
+    <a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS01" target="_blank" title="Subscribe To Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Header&#039;,&#039;Subscribe-Image&#039;]);"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/top_cover/public/media/diplo-cover-2014-billboard-bb28-225.jpg" alt="Billboard Magazine" /></a>  </div>
+  <div class="clearfix"></div>
+</div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+      
+              <div class="clearfix"></div>
+          </div></header> <!-- /.section, /#header -->
+
+        <nav id="navigation" role="navigation"><div class="section links clearfix">
+        <div class="region region-navigation">
+    <div id="block-system-main-menu" class="block block-system block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first expanded"><div><a href="/articles" title="Billboard News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;News&#039;]);">News</a><ul class="menu"><li class="first leaf"><a href="/articles/columns/pop-shop" title="Pop-Shop" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Pop-Shop&#039;]);">Pop</a></li>
+<li class="leaf"><a href="/articles/columns/the-juice" title="R&amp;B/Hip-Hop" class="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;The-Juice&#039;]);">R&amp;B/Hip-Hop</a></li>
+<li class="leaf"><a href="/articles/columns/the-615" title="Country" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;615&#039;]);">Country</a></li>
+<li class="leaf"><a href="/articles/columns/code" title="EDM News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Code&#039;]);">EDM</a></li>
+<li class="leaf"><a href="/articles/columns/latin-notas" title="Latin Music News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Latin-Notas&#039;]);">Latin</a></li>
+<li class="leaf"><a href="/articles/columns/k-town" title="K-Pop News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;K-Town&#039;]);">K-Pop</a></li>
+<li class="leaf"><a href="/articles/columns/the-hook" title="Fashion/Style News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;The-Hook&#039;]);">Fashion/Style</a></li>
+<li class="last leaf"><a href="/articles/columns/music-festivals" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Music-Festivals&#039;]);">Music Festivals</a></li>
+</ul></div></li>
+<li class="leaf"><a href="/charts/hot-100" title="Hot 100" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Hot-100&#039;]);">Hot 100</a></li>
+<li class="leaf"><a href="/charts/billboard-200" title="Billboard 200" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Billboard-200&#039;]);">Billboard 200</a></li>
+<li class="expanded"><div><a href="/charts" title="All Charts" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;All-Charts&#039;]);">Charts</a><ul class="menu"><li class="first leaf"><a href="/charts/artist-100" title="Billboard Artist 100" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Artist-100-Chart&#039;]);">Artist 100</a></li>
+<li class="leaf"><a href="http://realtime.billboard.com/?chart=trending140" title="Billboard Twitter Trending 140 Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Trending-140-Chart&#039;]);">Trending 140</a></li>
+<li class="leaf"><a href="http://realtime.billboard.com/?chart=emergingartists" title="Billboard Twitter Emerging Artists" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Emerging-Artists-Chart&#039;]);">Emerging Artists</a></li>
+<li class="leaf"><a href="/charts/summer-songs" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Summer-Songs&#039;]);">Summer Songs</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-rbhip-hop" title="R&amp;B/Hip-Hop Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;RB-Hip-Hop-Chart&#039;]);">R&amp;B/Hip-Hop</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-pop" title="Pop Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Pop-Chart&#039;]);">Pop</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-danceelectronic" title="Dance/Electronic Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Dance-Electronic-Chart&#039;]);">Dance/Electronic</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-country" title="Country Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Country-Chart&#039;]);">Country</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-rock" title="Rock Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Rock-Chart&#039;]);">Rock</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-latin" title="Latin Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Latin-Chart&#039;]);">Latin</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-breaking-and-entering" title="Breaking and Entering Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Breaking-and-Entering-Chart&#039;]);">Breaking and Entering</a></li>
+<li class="leaf"><a href="/charts#id-chart-category-additional-genres" title="Additional Genres" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Additional-Genres&#039;]);">Additional Genres</a></li>
+<li class="last leaf"><a href="/charts#id-chart-category-christiangospel" title="Christian/Gospel Chart" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Christian-Gospel-Chart&#039;]);">Christian/Gospel</a></li>
+</ul></div></li>
+<li class="leaf"><a href="/articles/lists" title="Lists" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Lists&#039;]);">Lists</a></li>
+<li class="leaf"><a href="/photos" title="Billboard Photos" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Photos&#039;]);">Photos</a></li>
+<li class="last leaf"><a href="/biz" title="Music Business News" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;MainNavigation&#039;,&#039;Biz&#039;]);">Business</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/charts/2014-07-19/hot-100" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Search form</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
+ <input placeholder="Search Billboard" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="0" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-NRrFD0EcF0lqjWwQEOslXDRWCHxw0Z1x_pjF-HncVGE" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+      <div class="clearfix"></div>
+    </div></nav> <!-- /.section, /#navigation -->
+    
+        <div id="content-header"><div class="section clearfix">
+        <div class="region region-content-header">
+    <div id="block-dfp-t" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-t-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-t" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-t");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+    </div></div> <!-- /.section, /#content-header -->
+    
+    <div class="full_width">
+                        <ul class="header_meta">
+    <li class="prev"><a href="/charts/2014-07-12/hot-100">Last week</a></li>
+        <li><span class="chart_date">July 19, 2014</span></li>
+      <li class="next"><a href="/charts/2014-07-26/hot-100">Next week</a></li>
+  </ul>
+<div class="comment-print">
+  <a class="print" title="print" href="#print">Print</a>
+</div>
+      
+                <div class="page-title">
+            <h1 class="title" id="page-title">The Hot 100</h1>
+            <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="billboard" data-related=":" data-text="" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100" data-url="http://www.billboard.com/charts/2014-07-19/hot-100" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+        </div>
+                <p class="header_intro">
+    The week's most popular current songs across      <a data-behavior="more_copy" href="#"><span>...</span> more</a> 
+    <span>, ranked by radio airplay audience impressions as measured by Nielsen BDS, sales data as compiled by Nielsen SoundScan and streaming activity data from online music sources tracked by Nielsen BDS. Songs are defined as current if they are newly-released titles, or songs receiving widespread airplay and/or sales activity for the first time.</span>
+  </p>
+                    <div class="tabs"></div>
+                            </div>
+
+    
+    <div id="main-wrapper"><div id="main" class="clearfix">
+        <div id="content" class="column with_sidebar_second" role="main"><div class="section">
+              <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+      
+  <div class="content">
+    
+<div class="chart_filters top full cf">
+  
+  <div class="left next-chart">
+    <a href="http://www.billboard.com/charts/2014-07-19/billboard-200"  >Next chart</a>
+  </div>
+
+    <div class="left primary_filter play-entire-chart">
+    <div class="dd">
+      <span class="play_action">Play entire chart<i class="icon"></i></span>
+      <ul>
+                      <li>
+        <a href="/play/spotify/trackset:Spotify:3oqCnpAoHf3SDFynxx7AU4,3tCwjWLicbjsMCvXhN0WOE,0NenBmcPtlaBGYAhU798G4,5PaqFdIb4vspKAmpCqDuzz,5jZAtF5byijpW7UCJsUYK8,4B4zDmbHdkXZ1wUJv1yKFy,7b71WsDLb8gG0cSyDTFAEW,3U4isOIWM3VvDubwSI3y7a,0tJGzJjUVlEsn8s3Mn32Jb,67awxiNHNyjMXhVgsHuIrs,1BltsyC5W3SAABdxyrDXwi,6NPVjNh8Jhru9xOmyQigds,4kgsK0fftHtg9gZOzkU5T2,5x9VIW2fS21JMswOt6AORI,4E8KoNTXZnWDE3cCjjw8FU,0dIOvducp7ujHTqj66cQ3X,3D4QFgYa3P9P0gjmv4eX6I,1j8z4TTjJ1YOdoFEDwJTQa,5BJSZocnCeSNeYMj3iVqM7,63bniwRWWFGoasyhX2eQHJ,53nYJhuLN93D8WIDfJd4Rf,2xOqNojFkIYrLy37witd51,6eLrCtqlpjroAkES2EHCx0,2yFh7Oz9g0bpHp3iis2Iu2,637bsehtpL2oJruOEL6lZ7,0MHmUSirn8X5Ntw823xuUw,5dNGORzxFb5z3v7vSAFkTU,61tRRrJoargpHwT0uAEpuY,519uJbE3zyKLlToVA65PrP,7Fw5i56my24ZBnGS7hFX2n,3DmW6y7wTEYHJZlLo1r6XJ,2rJojRundKuKFgbvmCAYva,1soxUgYIZb1qx1c7o1Lc7z,5sbXP9BaCXvlZdu3Qmh0DO,6cWpj6c5pNZYEk5KYjNBji,7jT2PnjzkziqfxhiMgGs5r,2xLOMHjkOK8nzxJ4r6yOKR,2kWowW0k4oFymhkr7LmvzO,03fT3OHB9KyMtGMt2zwqCT,1l3JsYIACtqHi4LDiB7c4l,2TR7A4ulH9R1PNwMyd8o8U,3RfKoVKnHNJEEKNZdWTTMz,0hPuF2Z5fZjnuwYPvIdPC1,6dXK0YFIOZoFSgalrLpJzY,5k31cAfP8yymw8v0AYQIjr,0uRlP6bHbSgBGklmaCMqG7,0WTK0uyF22y3oZwJpzEyJa,7lP4SLXD1ZWp10huOfGozD,1zHlj4dQ8ZAtrayhuDDmkY,4u7KjVIQPdzGCcAwg4W5Kl,3s4U7OHV7gnj42VV72eSZ6,1EavLSmwRWtmkKEmlCfFzT,5E4CJfa6yZNGSKVFSUgaBt,0S5EEpFAHcT7cm5XOASc29,3Lt558KSXrSTLBr3EJ3BAe,0BhZWr9gPZNlVdWWigvYA9,6c6OMbNVGHxGZWGc9ubHwq,444P4wvSDa0SD5HE4YGx9B,6HFbq7cewJ7rPiffV0ciil,29gsi1zZrZxdStACmTQB0Z,6AwhEQqt6vhnJBc2jBYvWI,3MQv9nlTPegQJprfB1TAUy,2LX9coJz8pfFHb8AaoVhXS,3f3eGePL5Ec3wh8D6Oc6eh,3CX3WMBg6lzWk72bYL29vP,38aECKrbMv2F5FsYYCewCQ,6jizk5lOUnfpaZXYMdfeC6,2EvddT8rcO99bKH0rDHAYG,3pfdwzqLYcN20GvoYno1Oz,1vS1Rd10oLbmggo9GwOswt,6sA8As9neRuHdJtd0yjSNq,3DvXCbvkyzyfRYiWOJKWEr,2v38YLdDpheg1gOX94DcBs,1iMq1SKpMAfEDl7yh9g70j,1Kym30HhxluYlqAxyu1QqQ,47VueTChrhOjNaJTOzaskN,52gvlDnre9craz9dKGObp8,1eN27pPLzE59zuFbY8SsiT,33LSgUa20mKNgeut1XwP2E,02ILwrgX3DDx9mclP2EI41" class="sy" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Spotify']);window.open('/play/spotify/trackset:Spotify:3oqCnpAoHf3SDFynxx7AU4,3tCwjWLicbjsMCvXhN0WOE,0NenBmcPtlaBGYAhU798G4,5PaqFdIb4vspKAmpCqDuzz,5jZAtF5byijpW7UCJsUYK8,4B4zDmbHdkXZ1wUJv1yKFy,7b71WsDLb8gG0cSyDTFAEW,3U4isOIWM3VvDubwSI3y7a,0tJGzJjUVlEsn8s3Mn32Jb,67awxiNHNyjMXhVgsHuIrs,1BltsyC5W3SAABdxyrDXwi,6NPVjNh8Jhru9xOmyQigds,4kgsK0fftHtg9gZOzkU5T2,5x9VIW2fS21JMswOt6AORI,4E8KoNTXZnWDE3cCjjw8FU,0dIOvducp7ujHTqj66cQ3X,3D4QFgYa3P9P0gjmv4eX6I,1j8z4TTjJ1YOdoFEDwJTQa,5BJSZocnCeSNeYMj3iVqM7,63bniwRWWFGoasyhX2eQHJ,53nYJhuLN93D8WIDfJd4Rf,2xOqNojFkIYrLy37witd51,6eLrCtqlpjroAkES2EHCx0,2yFh7Oz9g0bpHp3iis2Iu2,637bsehtpL2oJruOEL6lZ7,0MHmUSirn8X5Ntw823xuUw,5dNGORzxFb5z3v7vSAFkTU,61tRRrJoargpHwT0uAEpuY,519uJbE3zyKLlToVA65PrP,7Fw5i56my24ZBnGS7hFX2n,3DmW6y7wTEYHJZlLo1r6XJ,2rJojRundKuKFgbvmCAYva,1soxUgYIZb1qx1c7o1Lc7z,5sbXP9BaCXvlZdu3Qmh0DO,6cWpj6c5pNZYEk5KYjNBji,7jT2PnjzkziqfxhiMgGs5r,2xLOMHjkOK8nzxJ4r6yOKR,2kWowW0k4oFymhkr7LmvzO,03fT3OHB9KyMtGMt2zwqCT,1l3JsYIACtqHi4LDiB7c4l,2TR7A4ulH9R1PNwMyd8o8U,3RfKoVKnHNJEEKNZdWTTMz,0hPuF2Z5fZjnuwYPvIdPC1,6dXK0YFIOZoFSgalrLpJzY,5k31cAfP8yymw8v0AYQIjr,0uRlP6bHbSgBGklmaCMqG7,0WTK0uyF22y3oZwJpzEyJa,7lP4SLXD1ZWp10huOfGozD,1zHlj4dQ8ZAtrayhuDDmkY,4u7KjVIQPdzGCcAwg4W5Kl,3s4U7OHV7gnj42VV72eSZ6,1EavLSmwRWtmkKEmlCfFzT,5E4CJfa6yZNGSKVFSUgaBt,0S5EEpFAHcT7cm5XOASc29,3Lt558KSXrSTLBr3EJ3BAe,0BhZWr9gPZNlVdWWigvYA9,6c6OMbNVGHxGZWGc9ubHwq,444P4wvSDa0SD5HE4YGx9B,6HFbq7cewJ7rPiffV0ciil,29gsi1zZrZxdStACmTQB0Z,6AwhEQqt6vhnJBc2jBYvWI,3MQv9nlTPegQJprfB1TAUy,2LX9coJz8pfFHb8AaoVhXS,3f3eGePL5Ec3wh8D6Oc6eh,3CX3WMBg6lzWk72bYL29vP,38aECKrbMv2F5FsYYCewCQ,6jizk5lOUnfpaZXYMdfeC6,2EvddT8rcO99bKH0rDHAYG,3pfdwzqLYcN20GvoYno1Oz,1vS1Rd10oLbmggo9GwOswt,6sA8As9neRuHdJtd0yjSNq,3DvXCbvkyzyfRYiWOJKWEr,2v38YLdDpheg1gOX94DcBs,1iMq1SKpMAfEDl7yh9g70j,1Kym30HhxluYlqAxyu1QqQ,47VueTChrhOjNaJTOzaskN,52gvlDnre9craz9dKGObp8,1eN27pPLzE59zuFbY8SsiT,33LSgUa20mKNgeut1XwP2E,02ILwrgX3DDx9mclP2EI41', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+                      <li>
+        <a href="/play/rdio?id=379&date=2014-07-19" class="ro" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Rdio']);window.open('/play/rdio?id=379&date=2014-07-19', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>
+      </ul>
+    </div>
+  </div>
+
+<div class="right">
+  Sort By:   <div class="dd">
+    <span>
+        Chart position<i class="icon"></i></span>
+    <ul>
+              <li>
+                              <a href="/charts/2014-07-19/hot-100?order=timeon" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Weeks-On-Chart']);">
+            Weeks on chart          </a>
+        </li>
+              <li>
+                              <a href="/charts/2014-07-19/hot-100?order=gainer" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Biggest-Jump']);">
+            Biggest Jump          </a>
+        </li>
+              <li>
+                              <a href="/charts/2014-07-19/hot-100?order=drop" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Biggest-Fall']);">
+            Biggest Fall          </a>
+        </li>
+          </ul>
+  </div>
+</div>
+</div>
+
+<div class="listing chart_listing">
+  <article id="node-1" class="song_review no_category chart_albumTrack_detail no_divider">
+  <a id="rank_1"></a>
+    <header>
+    <span class="chart_position position-static">1</span>
+            <h1>Fancy        </h1>
+        <p class="chart_info">
+      <a href="/artist/5694588/iggy-azalea" title="Iggy Azalea Featuring Charli XCX">Iggy Azalea Featuring Charli XCX</a>        <br>
+        Fancy          </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          1          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          1          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        18        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:3oqCnpAoHf3SDFynxx7AU4" class="sy" onclick="window.open('/play/spotify/track:3oqCnpAoHf3SDFynxx7AU4', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t44809257&artist=Iggy+Azalea+Featuring+Charli+XCX&title=Fancy" class="ro" onclick="window.open('/play/rdio?tid=t44809257&artist=Iggy+Azalea+Featuring+Charli+XCX&title=Fancy', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+          <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Fancy&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=Iggy%20Azalea%20Featuring%20Charli%20XCX&r_song=Fancy">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=1" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 1: Iggy Azalea Featuring Charli XCX - &#039;Fancy&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=1" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=1" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=1" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/i/18929830.jpg" alt="Iggy Azalea" />    </div></div>
+
+    
+    <div class="item-fan-rating">
+        </div>
+
+  </header>
+        <aside class="related_banner">
+  <a href="/articles/columns/the-juice/6150202/the-juice-podcast-7314-robin-thicke-trey-songz-nicki-minajs-2014">
+         <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_160/public/media/robin-thicke-bet-awards-billboard-2014-650x430.jpg" alt="The Juice Podcast 7/3/14: Robin Thicke, Trey Songz &amp; Nicki Minaj&#039;s 2014 BET Awards Speech" />          <h3>The Juice Podcast 7/3/14: Robin Thicke, Trey Songz & Nicki Minaj's 2014 BET Awards Speech</h3>
+            <p>Robin Thicke has been trying hard, publicly, to get back his estranged wife, actress Paula Patton.<br /></p>      </a>
+</aside>
+  </article> <!-- /.node -->
+<article id="node-2" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_2"></a>
+    <header>
+    <span class="chart_position position-static position-greatest-gains">2</span>
+            <h1>Rude        </h1>
+        <p class="chart_info">
+      <a href="/artist/6060927/magic" title="MAGIC!">MAGIC!</a>        <br>
+                  </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          2          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          2          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        11        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:3tCwjWLicbjsMCvXhN0WOE" class="sy" onclick="window.open('/play/spotify/track:3tCwjWLicbjsMCvXhN0WOE', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t34686601&artist=MAGIC%21&title=Rude" class="ro" onclick="window.open('/play/rdio?tid=t34686601&artist=MAGIC%21&title=Rude', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+          <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Rude&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=MAGIC%21&r_song=Rude">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=2" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 2: MAGIC! - &#039;Rude&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=2" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=2" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=2" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img src='/sites/all/themes/bb/images/default/no-artist.png' height='140' width='140' alt='MAGIC!' title='MAGIC!' />    </div></div>
+
+    <ul class="chart_awards chart_awards_white" style="top: 0;"><li><i class="ib airplay-gainer"></i>Airplay Gainer</li></ul>
+    <div class="item-fan-rating">
+        </div>
+
+  </header>
+    </article> <!-- /.node -->
+<article id="node-3" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_3"></a>
+    <header>
+    <span class="chart_position position-static">3</span>
+            <h1>Problem        </h1>
+        <p class="chart_info">
+      <a href="/artist/1484343/ariana-grande" title="Ariana Grande Featuring Iggy Azalea">Ariana Grande Featuring Iggy Azalea</a>        <br>
+                  </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          2          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          3          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        10        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:0NenBmcPtlaBGYAhU798G4" class="sy" onclick="window.open('/play/spotify/track:0NenBmcPtlaBGYAhU798G4', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t47579393&artist=Ariana+Grande+Featuring+Iggy+Azalea&title=Problem" class="ro" onclick="window.open('/play/rdio?tid=t47579393&artist=Ariana+Grande+Featuring+Iggy+Azalea&title=Problem', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+          <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Problem&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=Ariana%20Grande%20Featuring%20Iggy%20Azalea&r_song=Problem">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=3" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 3: Ariana Grande Featuring Iggy Azalea - &#039;Problem&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=3" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=3" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=3" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/a/11102010.jpg" alt="Ariana Grande" />    </div></div>
+
+    
+    <div class="item-fan-rating">
+        </div>
+
+  </header>
+        <aside class="related_banner">
+  <a href="/articles/columns/chart-beat/6150343/chart-highlights-usher-lands-lucky-13th-no-1-on-rbhip-hop">
+         <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_160/public/media/rock-and-roll-fame-induction-usher-650-430.jpg" alt="Chart Highlights: Usher Lands Lucky 13th No. 1 On R&amp;B/Hip-Hop Airplay" />          <h3>Chart Highlights: Usher Lands Lucky 13th No. 1 On R&B/Hip-Hop Airplay</h3>
+            <p>Chart Highlights offers a sneak peek at a select group of Billboard charts every Monday. Find out the top songs, Greatest Gainers and debuts on the surveys listed below.<br /></p>      </a>
+</aside>
+  </article> <!-- /.node -->
+<article id="node-5915910" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_4"></a>
+    <header>
+    <span class="chart_position position-static position-greatest-gains">4</span>
+            <h1>Am I Wrong        </h1>
+        <p class="chart_info">
+      <a href="/artist/5915842/nico-vinz" title="Nico &amp; Vinz">Nico &amp; Vinz</a>        <br>
+        Am I Wrong?          </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          4          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          4          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        12        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:5PaqFdIb4vspKAmpCqDuzz" class="sy" onclick="window.open('/play/spotify/track:5PaqFdIb4vspKAmpCqDuzz', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t42251508&artist=Nico+%26+Vinz&title=Am+I+Wrong" class="ro" onclick="window.open('/play/rdio?tid=t42251508&artist=Nico+%26+Vinz&title=Am+I+Wrong', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+          <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Am I Wrong&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=Nico%20%26%20Vinz&r_song=Am%20I%20Wrong">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=4" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 4: Nico &amp; Vinz - &#039;Am I Wrong&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=4" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=4" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=4" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/n/20795790.jpg" alt="Nico &amp; Vinz" />    </div></div>
+
+    
+    <div class="item-fan-rating">
+                  </div>
+
+  </header>
+        <aside class="related_banner">
+  <a href="/articles/columns/chart-beat/6128793/ask-billboard-with-nico-vinz-norway-continues-us-chart-invasion">
+         <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_160/public/media/nico-and-vinz-press-02-billboard-650.jpg" alt="Ask Billboard: With Nico &amp; Vinz, Norway Continues U.S. Chart Invasion" />          <h3>Ask Billboard: With Nico & Vinz, Norway Continues U.S. Chart Invasion</h3>
+            <p>As always, submit your questions about Billboard charts, as well as general music musings, to askbb@billboard.com. Please include your first and last name, as well as your city, state and country, if outside the U.S. Or, Tweet questions to Gary Trust: @gthot20<br /><br />NORWAY? YES, WAY!<br /></p>      </a>
+</aside>
+  </article> <!-- /.node -->
+<article id="node-6099768" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_5"></a>
+    <header>
+    <span class="chart_position position-static position-greatest-gains">5</span>
+            <h1>Stay With Me        </h1>
+        <p class="chart_info">
+      <a href="/artist/5811918/sam-smith" title="Sam Smith">Sam Smith</a>        <br>
+        In the Lonely Hour          </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          5          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          5          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        13        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:5jZAtF5byijpW7UCJsUYK8" class="sy" onclick="window.open('/play/spotify/track:5jZAtF5byijpW7UCJsUYK8', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t1170652&artist=Sam+Smith&title=Stay+With+Me" class="ro" onclick="window.open('/play/rdio?tid=t1170652&artist=Sam+Smith&title=Stay+With+Me', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+        <li>
+            <a href="/video/vevo/GBUV71400077" onclick="window.open('/video/vevo/GBUV71400077', 'Vevo', 'menubar=1,resizable=1,width=591,height=340'); return false;">
+        Watch      </a>
+    </li>
+        <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Stay With Me&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=Sam%20Smith&r_song=Stay%20With%20Me">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=5" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 5: Sam Smith - &#039;Stay With Me&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=5" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=5" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=5" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/s/15115730.jpg" alt="Sam Smith" />    </div></div>
+
+    
+    <div class="item-fan-rating">
+                  </div>
+
+  </header>
+        <aside class="related_banner">
+  <a href="/articles/columns/chart-beat/6150343/chart-highlights-usher-lands-lucky-13th-no-1-on-rbhip-hop">
+         <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_160/public/media/rock-and-roll-fame-induction-usher-650-430.jpg" alt="Chart Highlights: Usher Lands Lucky 13th No. 1 On R&amp;B/Hip-Hop Airplay" />          <h3>Chart Highlights: Usher Lands Lucky 13th No. 1 On R&B/Hip-Hop Airplay</h3>
+            <p>Chart Highlights offers a sneak peek at a select group of Billboard charts every Monday. Find out the top songs, Greatest Gainers and debuts on the surveys listed below.<br /></p>      </a>
+</aside>
+  </article> <!-- /.node -->
+<article id="node-6" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_6"></a>
+    <header>
+    <span class="chart_position position-static">6</span>
+            <h1>Wiggle        </h1>
+        <p class="chart_info">
+      <a href="/artist/304245/jason-derulo" title="Jason Derulo Featuring Snoop Dogg">Jason Derulo Featuring Snoop Dogg</a>        <br>
+                  </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          5          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          6          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        10        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:4B4zDmbHdkXZ1wUJv1yKFy" class="sy" onclick="window.open('/play/spotify/track:4B4zDmbHdkXZ1wUJv1yKFy', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t46571399&artist=Jason+Derulo+Featuring+Snoop+Dogg&title=Wiggle" class="ro" onclick="window.open('/play/rdio?tid=t46571399&artist=Jason+Derulo+Featuring+Snoop+Dogg&title=Wiggle', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+          <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Wiggle&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=Jason%20Derulo%20Featuring%20Snoop%20Dogg&r_song=Wiggle">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=6" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 6: Jason Derulo Featuring Snoop Dogg - &#039;Wiggle&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=6" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=6" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=6" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/j/9375400.jpg" alt="Jason Derulo" />    </div></div>
+
+    
+    <div class="item-fan-rating">
+        </div>
+
+  </header>
+    </article> <!-- /.node -->
+<article id="node-6032649" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_7"></a>
+    <header>
+    <span class="chart_position position-up">7</span>
+            <h1>Summer        </h1>
+        <p class="chart_info">
+      <a href="/artist/275856/calvin-harris" title="Calvin Harris">Calvin Harris</a>        <br>
+        Summer          </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          7          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          8          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        16        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:7b71WsDLb8gG0cSyDTFAEW" class="sy" onclick="window.open('/play/spotify/track:7b71WsDLb8gG0cSyDTFAEW', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t45051100&artist=Calvin+Harris&title=Summer" class="ro" onclick="window.open('/play/rdio?tid=t45051100&artist=Calvin+Harris&title=Summer', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+        <li>
+            <a href="/video/vevo/GB1101400124" onclick="window.open('/video/vevo/GB1101400124', 'Vevo', 'menubar=1,resizable=1,width=591,height=340'); return false;">
+        Watch      </a>
+    </li>
+        <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Summer&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=Calvin%20Harris&r_song=Summer">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=7" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 7: Calvin Harris - &#039;Summer&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=7" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=7" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=7" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/c/8535080.jpg" alt="Calvin Harris" />    </div></div>
+
+    
+    <div class="item-fan-rating">
+                  </div>
+
+  </header>
+        <aside class="related_banner">
+  <a href="/articles/columns/music-festivals/6128700/electric-daisy-carnival-edc-las-vegas-2014-day-1-highlights-steve-angello-diplo-steve-aoki-hardwell-afrojack">
+         <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_160/public/media/electric-daisy-las-vegas-650-430.jpg" alt="Electric Daisy Carnival 2014 Day 1 Highlights: Steve Angello, Diplo, Hardwell, Steve Aoki &amp; More" />          <h3>Electric Daisy Carnival 2014 Day 1 Highlights: Steve Angello, Diplo, Hardwell, Steve Aoki & More</h3>
+            <p>Ahead of this year’s Electric Daisy Carnival in Las Vegas, which kicked off Friday night (June 20), Insomniac CEO Pasquale Rotella told Billboard that the festival’s fourth edition would be “one for the record books.”</p>      </a>
+</aside>
+  </article> <!-- /.node -->
+<article id="node-5748299" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_8"></a>
+    <header>
+    <span class="chart_position position-down">8</span>
+            <h1>All Of Me        </h1>
+        <p class="chart_info">
+      <a href="/artist/304963/john-legend" title="John Legend">John Legend</a>        <br>
+        All of Me          </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          1          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          7          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        39        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:3U4isOIWM3VvDubwSI3y7a" class="sy" onclick="window.open('/play/spotify/track:3U4isOIWM3VvDubwSI3y7a', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t34672955&artist=John+Legend&title=All+Of+Me" class="ro" onclick="window.open('/play/rdio?tid=t34672955&artist=John+Legend&title=All+Of+Me', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+        <li>
+            <a href="/video/vevo/USSM21302088" onclick="window.open('/video/vevo/USSM21302088', 'Vevo', 'menubar=1,resizable=1,width=591,height=340'); return false;">
+        Watch      </a>
+    </li>
+        <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=All Of Me&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=John%20Legend&r_song=All%20Of%20Me">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=8" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 8: John Legend - &#039;All Of Me&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=8" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=8" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=8" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/j/6010960.jpg" alt="John Legend" />    </div></div>
+
+    
+    <div class="item-fan-rating">
+                  </div>
+
+  </header>
+        <aside class="related_banner">
+  <a href="/articles/review/5901147/kanye-wests-the-college-dropout-at-10-classic-track-by-track-review">
+         <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_160/public/kanye-west-college-dropout-650-430.jpg" alt="Kanye West&#039;s &#039;The College Dropout&#039; at 10: Classic Track-by-Track Review" />          <h3>Kanye West's 'The College Dropout' at 10: Classic Track-by-Track Review</h3>
+            <p>In the late 90s and early aughts, before the world ever really knew who he was, Kanye West was merely just a record producer.</p>      </a>
+</aside>
+  </article> <!-- /.node -->
+<article id="node-6121739" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_9"></a>
+    <header>
+    <span class="chart_position position-up position-greatest-gains">9</span>
+            <h1>Maps        </h1>
+        <p class="chart_info">
+      <a href="/artist/309663/maroon-5" title="Maroon 5">Maroon 5</a>        <br>
+        Maps          </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          9          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          13          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        3        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:0tJGzJjUVlEsn8s3Mn32Jb" class="sy" onclick="window.open('/play/spotify/track:0tJGzJjUVlEsn8s3Mn32Jb', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t2732739&artist=Maroon+5&title=Maps" class="ro" onclick="window.open('/play/rdio?tid=t2732739&artist=Maroon+5&title=Maps', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+        <li>
+            <a href="/video/vevo/USUV71401130" onclick="window.open('/video/vevo/USUV71401130', 'Vevo', 'menubar=1,resizable=1,width=591,height=340'); return false;">
+        Watch      </a>
+    </li>
+        <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Maps&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=Maroon%205&r_song=Maps">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=9" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 9: Maroon 5 - &#039;Maps&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=9" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=9" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=9" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/m/4799710.jpg" alt="Maroon 5" />    </div></div>
+
+    <ul class="chart_awards chart_awards_white" style="top: 0;"><li><i class="ib streaming-gainer"></i>Streaming Gainer</li></ul>
+    <div class="item-fan-rating">
+                  </div>
+
+  </header>
+        <aside class="related_banner">
+  <a href="/articles/columns/chart-beat/6128777/chart-highlights-maroon-5s-maps-makes-record-start-michael">
+         <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_160/public/media/maroon-5-roseland-650.jpg" alt="Chart Highlights: Maroon 5&#039;s &#039;Maps&#039; Makes Record Start; Michael Jackson, Justin Timberlake Top Adult R&amp;B Songs" />          <h3>Chart Highlights: Maroon 5's 'Maps' Makes Record Start; Michael Jackson, Justin Timberlake Top Adult R&B Songs</h3>
+            <p>Chart Highlights offers a sneak peek at a select group of Billboard charts every Monday. Find out the top songs, Greatest Gainers and debuts on the surveys listed below.<br /></p>      </a>
+</aside>
+  </article> <!-- /.node -->
+<article id="node-10" class="song_review no_category chart_albumTrack_detail">
+  <a id="rank_10"></a>
+    <header>
+    <span class="chart_position position-down">10</span>
+            <h1>Turn Down For What        </h1>
+        <p class="chart_info">
+      <a href="/artist/1488413/dj-snake" title="DJ Snake &amp; Lil Jon">DJ Snake &amp; Lil Jon</a>        <br>
+                  </p>
+
+    <ul class="chart_stats">
+      <li>
+        <i class="icon peak"></i>
+          4          <span class="tt">Peak position</span>
+      </li>
+      <li >
+        <i class="icon shift"></i>
+          9          <span class="tt">Last week's position</span>
+      </li>
+      <li>
+        <i class="icon duration"></i>
+        28        <span class="tt">Weeks on chart</span>
+      </li>
+    </ul>
+
+    <ul class="options">
+        <li class="dd">
+      <span>Listen</span>
+      <ul>
+        <li>
+        <a href="/play/spotify/track:67awxiNHNyjMXhVgsHuIrs" class="sy" onclick="window.open('/play/spotify/track:67awxiNHNyjMXhVgsHuIrs', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+      <li>
+        <a href="/play/rdio?tid=t41582156&artist=DJ+Snake+%26+Lil+Jon&title=Turn+Down+For+What" class="ro" onclick="window.open('/play/rdio?tid=t41582156&artist=DJ+Snake+%26+Lil+Jon&title=Turn+Down+For+What', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>      </ul>
+    </li>
+          <li><a target="_blank" href="http://ax.search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?term=Turn Down For What&entity=music&partnerId=30&partnerId=30&siteID=vTVmmw.7aSE-GmwXTAQ4E7n7OCT5kOrNug">Buy</a></li>
+            <li><a target="_blank" href="http://api.ringtonematcher.com/senduser/?sid=BOARros&r_artist=DJ%20Snake%20%26%20Lil%20Jon&r_song=Turn%20Down%20For%20What">Send Ringtone</a></li>
+  </ul>
+
+    <div  class="social">
+  <ul class="with_buttons">
+            <li>
+      <span class="ib fb">0</span>
+      <div class="fb-like" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=10" data-send="false" data-layout="button_count" data-width="300" data-show-faces="true"></div>    </li>
+            <li>
+      <span class="ib tw">0</span>
+      <div class="tweetbutton-tweet tweetbutton"><a href="http://twitter.com/share" data-size="medium" data-count="none" data-via="" data-related=":" data-text="Jul. 19, 2014: @Billboard #Hot100 No. 10: DJ Snake &amp; Lil Jon - &#039;Turn Down For What&#039;" data-counturl="http://www.billboard.com/charts/2014-07-19/hot-100?i=10" data-url="http://www.billboard.com/charts/2014-07-19/hot-100?i=10" data-lang="en" class="twitter-share-button"></a></div>    </li>
+            <li>
+      <span class="ib gplus">0</span>
+      <div class="g-plusone-wrapper"  ><div class="g-plusone" data-href="http://www.billboard.com/charts/2014-07-19/hot-100?i=10" data-size="medium" data-annotation="none" ></div></div>    </li>
+          </ul>
+  <div class="cleaner"></div>
+</div>
+    <div class="img-wrap"><div>
+    <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_140/public/artists/d/2320200.jpg" alt="DJ Snake" />    </div></div>
+
+    
+    <div class="item-fan-rating">
+        </div>
+
+  </header>
+        <aside class="related_banner">
+  <a href="/articles/columns/chart-beat/6092137/anatomy-of-a-hit-turn-down-for-what">
+         <img typeof="foaf:Image" src="http://www.billboard.com/files/styles/thumbnail_160/public/media/dj-snake-press-2014-650.jpg" alt="Anatomy Of A Hit: &#039;Turn Down For What&#039;" />          <h3>Anatomy Of A Hit: 'Turn Down For What'</h3>
+            <p>How has DJ Snake and Lil Jon's "Turn Down for What" ruled Billboard's Hot Dance/Electronic Songs chart for seven weeks running and reached No. 5 on the Billboard Hot 100? The song's stars and talents behind the scenes explain.<br /><br /><br /><br /><br />The DJ: DJ Snake</p>      </a>
+</aside>
+  </article> <!-- /.node -->
+
+  <div class="chart_pager_bottom next-chart">
+    <a href="http://www.billboard.com/charts/2014-07-19/billboard-200"  >Next chart</a>
+  </div>
+
+  <div class="chart_pager_bottom chart_filters full cf">
+      <div class="left primary_filter play-entire-chart">
+    <div class="dd">
+      <span class="play_action">Play entire chart<i class="icon"></i></span>
+      <ul>
+                      <li>
+        <a href="/play/spotify/trackset:Spotify:3oqCnpAoHf3SDFynxx7AU4,3tCwjWLicbjsMCvXhN0WOE,0NenBmcPtlaBGYAhU798G4,5PaqFdIb4vspKAmpCqDuzz,5jZAtF5byijpW7UCJsUYK8,4B4zDmbHdkXZ1wUJv1yKFy,7b71WsDLb8gG0cSyDTFAEW,3U4isOIWM3VvDubwSI3y7a,0tJGzJjUVlEsn8s3Mn32Jb,67awxiNHNyjMXhVgsHuIrs,1BltsyC5W3SAABdxyrDXwi,6NPVjNh8Jhru9xOmyQigds,4kgsK0fftHtg9gZOzkU5T2,5x9VIW2fS21JMswOt6AORI,4E8KoNTXZnWDE3cCjjw8FU,0dIOvducp7ujHTqj66cQ3X,3D4QFgYa3P9P0gjmv4eX6I,1j8z4TTjJ1YOdoFEDwJTQa,5BJSZocnCeSNeYMj3iVqM7,63bniwRWWFGoasyhX2eQHJ,53nYJhuLN93D8WIDfJd4Rf,2xOqNojFkIYrLy37witd51,6eLrCtqlpjroAkES2EHCx0,2yFh7Oz9g0bpHp3iis2Iu2,637bsehtpL2oJruOEL6lZ7,0MHmUSirn8X5Ntw823xuUw,5dNGORzxFb5z3v7vSAFkTU,61tRRrJoargpHwT0uAEpuY,519uJbE3zyKLlToVA65PrP,7Fw5i56my24ZBnGS7hFX2n,3DmW6y7wTEYHJZlLo1r6XJ,2rJojRundKuKFgbvmCAYva,1soxUgYIZb1qx1c7o1Lc7z,5sbXP9BaCXvlZdu3Qmh0DO,6cWpj6c5pNZYEk5KYjNBji,7jT2PnjzkziqfxhiMgGs5r,2xLOMHjkOK8nzxJ4r6yOKR,2kWowW0k4oFymhkr7LmvzO,03fT3OHB9KyMtGMt2zwqCT,1l3JsYIACtqHi4LDiB7c4l,2TR7A4ulH9R1PNwMyd8o8U,3RfKoVKnHNJEEKNZdWTTMz,0hPuF2Z5fZjnuwYPvIdPC1,6dXK0YFIOZoFSgalrLpJzY,5k31cAfP8yymw8v0AYQIjr,0uRlP6bHbSgBGklmaCMqG7,0WTK0uyF22y3oZwJpzEyJa,7lP4SLXD1ZWp10huOfGozD,1zHlj4dQ8ZAtrayhuDDmkY,4u7KjVIQPdzGCcAwg4W5Kl,3s4U7OHV7gnj42VV72eSZ6,1EavLSmwRWtmkKEmlCfFzT,5E4CJfa6yZNGSKVFSUgaBt,0S5EEpFAHcT7cm5XOASc29,3Lt558KSXrSTLBr3EJ3BAe,0BhZWr9gPZNlVdWWigvYA9,6c6OMbNVGHxGZWGc9ubHwq,444P4wvSDa0SD5HE4YGx9B,6HFbq7cewJ7rPiffV0ciil,29gsi1zZrZxdStACmTQB0Z,6AwhEQqt6vhnJBc2jBYvWI,3MQv9nlTPegQJprfB1TAUy,2LX9coJz8pfFHb8AaoVhXS,3f3eGePL5Ec3wh8D6Oc6eh,3CX3WMBg6lzWk72bYL29vP,38aECKrbMv2F5FsYYCewCQ,6jizk5lOUnfpaZXYMdfeC6,2EvddT8rcO99bKH0rDHAYG,3pfdwzqLYcN20GvoYno1Oz,1vS1Rd10oLbmggo9GwOswt,6sA8As9neRuHdJtd0yjSNq,3DvXCbvkyzyfRYiWOJKWEr,2v38YLdDpheg1gOX94DcBs,1iMq1SKpMAfEDl7yh9g70j,1Kym30HhxluYlqAxyu1QqQ,47VueTChrhOjNaJTOzaskN,52gvlDnre9craz9dKGObp8,1eN27pPLzE59zuFbY8SsiT,33LSgUa20mKNgeut1XwP2E,02ILwrgX3DDx9mclP2EI41" class="sy" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Spotify-Bottom']);window.open('/play/spotify/trackset:Spotify:3oqCnpAoHf3SDFynxx7AU4,3tCwjWLicbjsMCvXhN0WOE,0NenBmcPtlaBGYAhU798G4,5PaqFdIb4vspKAmpCqDuzz,5jZAtF5byijpW7UCJsUYK8,4B4zDmbHdkXZ1wUJv1yKFy,7b71WsDLb8gG0cSyDTFAEW,3U4isOIWM3VvDubwSI3y7a,0tJGzJjUVlEsn8s3Mn32Jb,67awxiNHNyjMXhVgsHuIrs,1BltsyC5W3SAABdxyrDXwi,6NPVjNh8Jhru9xOmyQigds,4kgsK0fftHtg9gZOzkU5T2,5x9VIW2fS21JMswOt6AORI,4E8KoNTXZnWDE3cCjjw8FU,0dIOvducp7ujHTqj66cQ3X,3D4QFgYa3P9P0gjmv4eX6I,1j8z4TTjJ1YOdoFEDwJTQa,5BJSZocnCeSNeYMj3iVqM7,63bniwRWWFGoasyhX2eQHJ,53nYJhuLN93D8WIDfJd4Rf,2xOqNojFkIYrLy37witd51,6eLrCtqlpjroAkES2EHCx0,2yFh7Oz9g0bpHp3iis2Iu2,637bsehtpL2oJruOEL6lZ7,0MHmUSirn8X5Ntw823xuUw,5dNGORzxFb5z3v7vSAFkTU,61tRRrJoargpHwT0uAEpuY,519uJbE3zyKLlToVA65PrP,7Fw5i56my24ZBnGS7hFX2n,3DmW6y7wTEYHJZlLo1r6XJ,2rJojRundKuKFgbvmCAYva,1soxUgYIZb1qx1c7o1Lc7z,5sbXP9BaCXvlZdu3Qmh0DO,6cWpj6c5pNZYEk5KYjNBji,7jT2PnjzkziqfxhiMgGs5r,2xLOMHjkOK8nzxJ4r6yOKR,2kWowW0k4oFymhkr7LmvzO,03fT3OHB9KyMtGMt2zwqCT,1l3JsYIACtqHi4LDiB7c4l,2TR7A4ulH9R1PNwMyd8o8U,3RfKoVKnHNJEEKNZdWTTMz,0hPuF2Z5fZjnuwYPvIdPC1,6dXK0YFIOZoFSgalrLpJzY,5k31cAfP8yymw8v0AYQIjr,0uRlP6bHbSgBGklmaCMqG7,0WTK0uyF22y3oZwJpzEyJa,7lP4SLXD1ZWp10huOfGozD,1zHlj4dQ8ZAtrayhuDDmkY,4u7KjVIQPdzGCcAwg4W5Kl,3s4U7OHV7gnj42VV72eSZ6,1EavLSmwRWtmkKEmlCfFzT,5E4CJfa6yZNGSKVFSUgaBt,0S5EEpFAHcT7cm5XOASc29,3Lt558KSXrSTLBr3EJ3BAe,0BhZWr9gPZNlVdWWigvYA9,6c6OMbNVGHxGZWGc9ubHwq,444P4wvSDa0SD5HE4YGx9B,6HFbq7cewJ7rPiffV0ciil,29gsi1zZrZxdStACmTQB0Z,6AwhEQqt6vhnJBc2jBYvWI,3MQv9nlTPegQJprfB1TAUy,2LX9coJz8pfFHb8AaoVhXS,3f3eGePL5Ec3wh8D6Oc6eh,3CX3WMBg6lzWk72bYL29vP,38aECKrbMv2F5FsYYCewCQ,6jizk5lOUnfpaZXYMdfeC6,2EvddT8rcO99bKH0rDHAYG,3pfdwzqLYcN20GvoYno1Oz,1vS1Rd10oLbmggo9GwOswt,6sA8As9neRuHdJtd0yjSNq,3DvXCbvkyzyfRYiWOJKWEr,2v38YLdDpheg1gOX94DcBs,1iMq1SKpMAfEDl7yh9g70j,1Kym30HhxluYlqAxyu1QqQ,47VueTChrhOjNaJTOzaskN,52gvlDnre9craz9dKGObp8,1eN27pPLzE59zuFbY8SsiT,33LSgUa20mKNgeut1XwP2E,02ILwrgX3DDx9mclP2EI41', 'Spotify', 'location=1,status=1,scrollbars=0,height=450,width=400');return false;">
+      Spotify    </a>
+  </li>
+                      <li>
+        <a href="/play/rdio?id=379&date=2014-07-19" class="ro" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Rdio-Bottom']);window.open('/play/rdio?id=379&date=2014-07-19', 'Rdio', 'location=1,status=1,scrollbars=0,height=387,width=314');return false;">
+      Rdio    </a>
+  </li>
+      </ul>
+    </div>
+  </div>
+
+<div class="right">
+  Sort By:   <div class="dd">
+    <span>
+        Chart position<i class="icon"></i></span>
+    <ul>
+              <li>
+                              <a href="/charts/2014-07-19/hot-100?order=timeon" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Weeks-On-Chart-Bottom']);">
+            Weeks on chart          </a>
+        </li>
+              <li>
+                              <a href="/charts/2014-07-19/hot-100?order=gainer" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Biggest-Jump-Bottom']);">
+            Biggest Jump          </a>
+        </li>
+              <li>
+                              <a href="/charts/2014-07-19/hot-100?order=drop" onclick="_gaq.push(['_trackEvent','ChartNavigation','Hot-100','Biggest-Fall-Bottom']);">
+            Biggest Fall          </a>
+        </li>
+          </ul>
+  </div>
+</div>
+  </div>
+
+</div>
+
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+                    </div></div> <!-- /.section, /#content -->
+                <aside id="sidebar-second" class="column sidebar" role="complementary"><div class="section">
+              <div class="region region-sidebar-second">
+    <section id="block-multiblock-19" class="block block-multiblock">
+
+        <h2>Real-Time Charts </h2>
+    
+  <div class="content">
+     <!--smart_paging_autop_filter--><!--smart_paging_filter--><p><iframe style="height: 390px;" src="http://realtime.billboard.com/?chart=trending140&amp;widget=true&amp;mode=internal&amp;count=3" frameborder="no" scrolling="no"></iframe></p>   </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div id="block-dfp-m1" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-m1-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-m1" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-m1");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-block-3" class="block block-block module_chart_legend">
+
+      
+  <div class="content">
+     <!--smart_paging_autop_filter--><!--smart_paging_filter--><h3>Chart Legend</h3><ul><li><div class="icon peak"> </div>Peak Position</li><li><div class="icon shift"> </div>Last Weeks Position</li><li><div class="icon duration"> </div>Weeks on Chart</li><li><div class="icon greatest-gainer"> </div>Greatest Gainer</li><li><div class="icon airplay-gainer"> </div>Airplay Gainer</li><li><div class="icon digital-gainer"> </div>Digital Sales Gainer</li><li><div class="icon streaming-gainer"> </div>Streaming Gainer</li><li><div class="icon pacesetter"> </div>Pace Setter</li><li class="mB"><div class="icon heatseeker"> </div>Heatseeker Graduate</li><li><div class="icon position-down-small"> </div>Position has dropped relative to last week</li><li><div class="icon position-up-small"> </div>Position has increased relative to last week</li><li><div class="icon position-static-small"> </div>Position has stayed relative to last week</li><li><div class="icon hot-shot-small"> </div>Hot shot debut</li><li><div class="icon greatest-airplay-small"> </div>Titles with the greatest airplay and sales gains this week</li><li><div class="icon new-small"> </div>New</li><li><div class="icon re-small"> </div>Re-Entry</li></ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-billboard-blocks-gravity-widget" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <!-- ================================================ -->
+<!-- GRAVITY PLUGIN -->
+<!-- ================================================ -->
+
+
+  <div id="grv-personalization-36"></div>
+<script type='text/javascript'>
+  //<![CDATA[
+    (function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '339db668c63acf75d5bcc8be7728b693'
+    };
+    var adServerReq,bUrl,cburl,doUseGravityUserGuid,includeJs,jq,pfurl,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+    wlUrl=(wlPrefix="http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",cburl=gravityInsightsParams.cburl||"",pfurl=gravityInsightsParams.pfurl||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id=grv-personalization-36&pl=36"+("&type="+type+"&ad="+adServerReq+"&cburl=")+encodeURIComponent(cburl)+"&pfurl="+
+    encodeURIComponent(pfurl)+("&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):"")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+  //]]>
+</script>
+
+<!-- ================================================ -->
+<!-- END // GRAVITY PLUGIN -->
+<!-- ================================================ -->
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-dfp-m2" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-m2-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-m2" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-m2");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<section id="block-multiblock-10" class="block block-multiblock">
+
+        <h2>Related Articles</h2>
+    
+  <div class="content">
+    <!-- ================================================ -->
+<!-- GRAVITY PLUGIN -->
+<!-- ================================================ -->
+
+
+  <div id="grv-personalization-14"></div>
+<script type='text/javascript'>
+  //<![CDATA[
+    (function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '339db668c63acf75d5bcc8be7728b693'
+    };
+    var adServerReq,bUrl,doUseGravityUserGuid,includeJs,jq,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+    wlUrl=(wlPrefix="http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id=grv-personalization-14&pl=14"+("&type="+type+"&ad="+adServerReq+"&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):
+    "")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+  //]]>
+</script>
+
+<!-- ================================================ -->
+<!-- END // GRAVITY PLUGIN -->
+<!-- ================================================ -->
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-billboard-blocks-sidebar-promo" class="block block-billboard-blocks">
+
+        <h2>VMA Award Styles</h2>
+    
+  <div class="content">
+     <!--smart_paging_autop_filter--><!--smart_paging_filter--><p><a onclick="_gaq.push(['_trackEvent','SideBar','VMA']);" href="http://www.billboard.com/photos/6229178/2014-mtv-vma-red-carpet-photos?i=529647"><img height="465" width="310" alt="2014 MTV VMA Red Carpet Gallery" title="2014 MTV VMA Red Carpet Gallery" class="media-element file-media-original" typeof="foaf:Image" src="http://www.billboard.com/files/media/310_vma_gallery.jpg" /></a></p><p>&nbsp;</p>   </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+  </div>
+        </div></aside> <!-- /.section, /#sidebar-second -->
+                <div class="cleaner"></div>
+    </div></div> <!-- /#main, /#main-wrapper -->
+
+            <div id="content-after">
+          <div class="region region-content-after">
+    <div id="block-multiblock-9" class="block block-multiblock">
+
+      
+  <div class="content">
+    <!-- ================================================ -->
+<!-- GRAVITY PLUGIN -->
+<!-- ================================================ -->
+
+
+  <div id="grv-personalization-17"></div>
+<script type='text/javascript'>
+  //<![CDATA[
+    (function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '339db668c63acf75d5bcc8be7728b693'
+    };
+    var adServerReq,bUrl,doUseGravityUserGuid,includeJs,jq,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;includeJs=function(a){var b;b=document.createElement("script");b.async=!0;b.src=a;a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(b,a)};bUrl="";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";
+    wlUrl=(wlPrefix="http://rma-api.gravity.com/v1/api/intelligence",jq=(null!=(_ref1=window.jQuery)?null!=(_ref2=_ref1.fn)?_ref2.jquery:void 0:void 0)||"",type="iframe",adServerReq=gravityInsightsParams.ad||"",""+wlPrefix+"/wl?jq="+jq+"&sg="+gravityInsightsParams.site_guid+"&ug="+ug+"&ugug="+doUseGravityUserGuid+"&id=grv-personalization-17&pl=17"+("&type="+type+"&ad="+adServerReq+"&x="+(new Date).getTime())+("undefined"!==typeof forceArticleIds&&null!==forceArticleIds&&forceArticleIds.join?"&ai="+forceArticleIds.join(","):
+    "")+("undefined"!==typeof apids&&null!==apids&&""!==apids?"&apids="+encodeURIComponent(apids):""));bUrl&&includeJs(bUrl);wlUrl&&(window.gravityInsightsParams.sidebar&&(window.gravityInsightsParams.wlStartTime=(new Date).getTime()),includeJs(wlUrl));})();
+  //]]>
+</script>
+
+<!-- ================================================ -->
+<!-- END // GRAVITY PLUGIN -->
+<!-- ================================================ -->
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-bb-chart-archived-bb-chart-archived-browsing" class="block block-bb-chart-archived">
+
+      
+  <div class="content">
+    <div class="chart_archives_container">
+
+  <h1>Browse the The Hot 100 Archives</h1>
+  <nav class="teritary archive_nav">
+    <form id="bb-chart-archived-form" action="/charts/2014-07-19/hot-100" method="post" accept-charset="UTF-8"><div><div class="form-item form-type-select form-item-archived-year">
+ <select id="edit-archived-year" class="form-item-select form-select" name="archived_year"><option value="2014" selected="selected">2014</option><option value="2013">2013</option><option value="2012">2012</option><option value="2011">2011</option><option value="2010">2010</option><option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option></select>
+</div>
+<div id="edit-archived-month" class="form-radios form-item-radios"><div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-1--2" name="archived_month" value="1" checked="checked" />  <label class="option" for="edit-archived-month-1--2">Jan </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-2--2" name="archived_month" value="2" />  <label class="option" for="edit-archived-month-2--2">Feb </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-3--2" name="archived_month" value="3" />  <label class="option" for="edit-archived-month-3--2">Mar </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-4--2" name="archived_month" value="4" />  <label class="option" for="edit-archived-month-4--2">Apr </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-5--2" name="archived_month" value="5" />  <label class="option" for="edit-archived-month-5--2">May </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-6--2" name="archived_month" value="6" />  <label class="option" for="edit-archived-month-6--2">Jun </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-7--2" name="archived_month" value="7" />  <label class="option" for="edit-archived-month-7--2">Jul </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-8--2" name="archived_month" value="8" />  <label class="option" for="edit-archived-month-8--2">Aug </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-9--2" name="archived_month" value="9" />  <label class="option" for="edit-archived-month-9--2">Sep </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-10--2" name="archived_month" value="10" />  <label class="option" for="edit-archived-month-10--2">Oct </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-11--2" name="archived_month" value="11" />  <label class="option" for="edit-archived-month-11--2">Nov </label>
+
+</div>
+<div class="form-item form-type-radio form-item-archived-month">
+ <input class="form-item-radios form-radio" type="radio" id="edit-archived-month-12--2" name="archived_month" value="12" />  <label class="option" for="edit-archived-month-12--2">Dec </label>
+
+</div>
+</div><input type="hidden" name="form_build_id" value="form-VOBJXMWxN0AcPjXNfqlk8KzA4gZfmGBxvXeld5dtdUc" />
+<input type="hidden" name="form_id" value="bb_chart_archived_form" />
+</div></form>  </nav>
+
+  <div id="chart-browsing-year-loading">Loading...</div>
+    <div id="chart-browsing-year">
+
+    <nav class="paginator">
+      <ul>
+        <li class="next"><a href="/%23">Next</a></li>
+        <li class="prev"><a href="/%23">Prev</a></li>
+          <!-- <a href class="disabled" -->
+        <li class="current"><span class="month">January</span>, 2014</li>
+      </ul>
+    </nav>
+
+    <ul id="module_chart_archived_carousel"><li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140104 month_1 0104 ">
+  <p>
+    <span class="chart_date">Jan 4th</span>
+    <span class="chart_name"><a href="/charts/2014-01-04/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>The Monster</b>
+              <a href="/artist/301722/eminem">
+        <b>Eminem Featuring Rihanna</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140111 month_1 0111 ">
+  <p>
+    <span class="chart_date">Jan 11th</span>
+    <span class="chart_name"><a href="/charts/2014-01-11/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>The Monster</b>
+              <a href="/artist/301722/eminem">
+        <b>Eminem Featuring Rihanna</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140118 month_1 0118 ">
+  <p>
+    <span class="chart_date">Jan 18th</span>
+    <span class="chart_name"><a href="/charts/2014-01-18/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-up position-greatest-gains">1</span>              <b>Timber</b>
+              <a href="/artist/1490081/pitbull">
+        <b>Pitbull Featuring Ke$ha</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140125 month_1 0125 ">
+  <p>
+    <span class="chart_date">Jan 25th</span>
+    <span class="chart_name"><a href="/charts/2014-01-25/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Timber</b>
+              <a href="/artist/1490081/pitbull">
+        <b>Pitbull Featuring Ke$ha</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140201 month_2 0201 ">
+  <p>
+    <span class="chart_date">Feb 1st</span>
+    <span class="chart_name"><a href="/charts/2014-02-01/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Timber</b>
+              <a href="/artist/1490081/pitbull">
+        <b>Pitbull Featuring Ke$ha</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140208 month_2 0208 ">
+  <p>
+    <span class="chart_date">Feb 8th</span>
+    <span class="chart_name"><a href="/charts/2014-02-08/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-up position-greatest-gains">1</span>              <b>Dark Horse</b>
+              <a href="/artist/305595/katy-perry">
+        <b>Katy Perry Featuring Juicy J</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140215 month_2 0215 ">
+  <p>
+    <span class="chart_date">Feb 15th</span>
+    <span class="chart_name"><a href="/charts/2014-02-15/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Dark Horse</b>
+              <a href="/artist/305595/katy-perry">
+        <b>Katy Perry Featuring Juicy J</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140222 month_2 0222 ">
+  <p>
+    <span class="chart_date">Feb 22nd</span>
+    <span class="chart_name"><a href="/charts/2014-02-22/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Dark Horse</b>
+              <a href="/artist/305595/katy-perry">
+        <b>Katy Perry Featuring Juicy J</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140301 month_3 0301 ">
+  <p>
+    <span class="chart_date">Mar 1st</span>
+    <span class="chart_name"><a href="/charts/2014-03-01/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Dark Horse</b>
+              <a href="/artist/305595/katy-perry">
+        <b>Katy Perry Featuring Juicy J</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140308 month_3 0308 ">
+  <p>
+    <span class="chart_date">Mar 8th</span>
+    <span class="chart_name"><a href="/charts/2014-03-08/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-up position-greatest-gains">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140315 month_3 0315 ">
+  <p>
+    <span class="chart_date">Mar 15th</span>
+    <span class="chart_name"><a href="/charts/2014-03-15/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140322 month_3 0322 ">
+  <p>
+    <span class="chart_date">Mar 22nd</span>
+    <span class="chart_name"><a href="/charts/2014-03-22/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140329 month_3 0329 ">
+  <p>
+    <span class="chart_date">Mar 29th</span>
+    <span class="chart_name"><a href="/charts/2014-03-29/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140405 month_4 0405 ">
+  <p>
+    <span class="chart_date">Apr 5th</span>
+    <span class="chart_name"><a href="/charts/2014-04-05/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140412 month_4 0412 ">
+  <p>
+    <span class="chart_date">Apr 12th</span>
+    <span class="chart_name"><a href="/charts/2014-04-12/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140419 month_4 0419 ">
+  <p>
+    <span class="chart_date">Apr 19th</span>
+    <span class="chart_name"><a href="/charts/2014-04-19/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140426 month_4 0426 ">
+  <p>
+    <span class="chart_date">Apr 26th</span>
+    <span class="chart_name"><a href="/charts/2014-04-26/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140503 month_5 0503 ">
+  <p>
+    <span class="chart_date">May 3rd</span>
+    <span class="chart_name"><a href="/charts/2014-05-03/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140510 month_5 0510 ">
+  <p>
+    <span class="chart_date">May 10th</span>
+    <span class="chart_name"><a href="/charts/2014-05-10/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Happy</b>
+              <a href="/artist/332084/pharrell-williams">
+        <b>Pharrell Williams</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140517 month_5 0517 ">
+  <p>
+    <span class="chart_date">May 17th</span>
+    <span class="chart_name"><a href="/charts/2014-05-17/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-up position-greatest-gains">1</span>              <b>All Of Me</b>
+              <a href="/artist/304963/john-legend">
+        <b>John Legend</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140524 month_5 0524 ">
+  <p>
+    <span class="chart_date">May 24th</span>
+    <span class="chart_name"><a href="/charts/2014-05-24/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>All Of Me</b>
+              <a href="/artist/304963/john-legend">
+        <b>John Legend</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140531 month_5 0531 ">
+  <p>
+    <span class="chart_date">May 31st</span>
+    <span class="chart_name"><a href="/charts/2014-05-31/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>All Of Me</b>
+              <a href="/artist/304963/john-legend">
+        <b>John Legend</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140607 month_6 0607 ">
+  <p>
+    <span class="chart_date">Jun 7th</span>
+    <span class="chart_name"><a href="/charts/2014-06-07/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-up position-greatest-gains">1</span>              <b>Fancy</b>
+              <a href="/artist/5694588/iggy-azalea">
+        <b>Iggy Azalea Featuring Charli XCX</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140614 month_6 0614 ">
+  <p>
+    <span class="chart_date">Jun 14th</span>
+    <span class="chart_name"><a href="/charts/2014-06-14/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Fancy</b>
+              <a href="/artist/5694588/iggy-azalea">
+        <b>Iggy Azalea Featuring Charli XCX</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140621 month_6 0621 ">
+  <p>
+    <span class="chart_date">Jun 21st</span>
+    <span class="chart_name"><a href="/charts/2014-06-21/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Fancy</b>
+              <a href="/artist/5694588/iggy-azalea">
+        <b>Iggy Azalea Featuring Charli XCX</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140628 month_6 0628 ">
+  <p>
+    <span class="chart_date">Jun 28th</span>
+    <span class="chart_name"><a href="/charts/2014-06-28/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Fancy</b>
+              <a href="/artist/5694588/iggy-azalea">
+        <b>Iggy Azalea Featuring Charli XCX</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140705 month_7 0705 ">
+  <p>
+    <span class="chart_date">Jul 5th</span>
+    <span class="chart_name"><a href="/charts/2014-07-05/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Fancy</b>
+              <a href="/artist/5694588/iggy-azalea">
+        <b>Iggy Azalea Featuring Charli XCX</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140712 month_7 0712 ">
+  <p>
+    <span class="chart_date">Jul 12th</span>
+    <span class="chart_name"><a href="/charts/2014-07-12/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Fancy</b>
+              <a href="/artist/5694588/iggy-azalea">
+        <b>Iggy Azalea Featuring Charli XCX</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140719 month_7 0719 ">
+  <p>
+    <span class="chart_date">Jul 19th</span>
+    <span class="chart_name"><a href="/charts/2014-07-19/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Fancy</b>
+              <a href="/artist/5694588/iggy-azalea">
+        <b>Iggy Azalea Featuring Charli XCX</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140726 month_7 0726 ">
+  <p>
+    <span class="chart_date">Jul 26th</span>
+    <span class="chart_name"><a href="/charts/2014-07-26/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-up position-greatest-gains">1</span>              <b>Rude</b>
+              <a href="/artist/5874338/magic">
+        <b>MAGIC!</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140802 month_8 0802 ">
+  <p>
+    <span class="chart_date">Aug 2nd</span>
+    <span class="chart_name"><a href="/charts/2014-08-02/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static position-greatest-gains">1</span>              <b>Rude</b>
+              <a href="/artist/5874338/magic">
+        <b>MAGIC!</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140809 month_8 0809 ">
+  <p>
+    <span class="chart_date">Aug 9th</span>
+    <span class="chart_name"><a href="/charts/2014-08-09/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Rude</b>
+              <a href="/artist/5874338/magic">
+        <b>MAGIC!</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140816 month_8 0816 ">
+  <p>
+    <span class="chart_date">Aug 16th</span>
+    <span class="chart_name"><a href="/charts/2014-08-16/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Rude</b>
+              <a href="/artist/5874338/magic">
+        <b>MAGIC!</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140823 month_8 0823 ">
+  <p>
+    <span class="chart_date">Aug 23rd</span>
+    <span class="chart_name"><a href="/charts/2014-08-23/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Rude</b>
+              <a href="/artist/5874338/magic">
+        <b>MAGIC!</b>
+      </a>
+      </p>
+</section>
+</li>
+<li>
+<section class="module module_chart_summary module_chart_archived item_hidden month_group month_group_20140830 month_8 0830 ">
+  <p>
+    <span class="chart_date">Aug 30th</span>
+    <span class="chart_name"><a href="/charts/2014-08-30/hot-100">The Hot 100</a></span>
+    <span class="chart_position position-static">1</span>              <b>Rude</b>
+              <a href="/artist/5874338/magic">
+        <b>MAGIC!</b>
+      </a>
+      </p>
+</section>
+</li>
+</ul> <div class="groups" style="display: none;">20140104,20140111,20140118,20140125,20140201,20140208,20140215,20140222,20140301,20140308,20140315,20140322,20140329,20140405,20140412,20140419,20140426,20140503,20140510,20140517,20140524,20140531,20140607,20140614,20140621,20140628,20140705,20140712,20140719,20140726,20140802,20140809,20140816,20140823,20140830</div><div class="years" style="display: none;">2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003,2002,2001,2000,1999,1998,1997,1996,1995,1994,1993,1992,1991,1990,1989,1988,1987,1986,1985,1984,1983,1982,1981,1980,1979,1978,1977,1976,1975,1974,1973,1972,1971,1970,1969,1968,1967,1966,1965,1964,1963,1962,1961,1960,1959,1958</div><div class="year" style="display: none;">2014</div>
+</div>
+
+  <div class="data" style="display: none;">
+    <div class="site">bbcom</div>
+    <div class="chart_code">379</div>
+  </div>
+
+</div>
+
+<script type="text/javascript">
+  function chart_archived_onliad_init() {
+    chart_archived_binds();
+    chart_archived_show_rand_items_year(true);
+  }
+
+  var chart_archived_onliad_init_var=self.setInterval(
+    function(){
+      if (typeof window.jQuery != 'undefined') {
+        clearInterval(chart_archived_onliad_init_var);
+        chart_archived_onliad_init();
+      }
+    }
+  ,1000);
+</script>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+    </div>
+    
+    
+        <div id="footer-top" role="contentinfo"><div class="section">
+          <div class="region region-footer-top">
+    <section id="block-billboard-blocks-news-features" class="block block-billboard-blocks">
+
+        <h2>News and Features</h2>
+    
+  <div class="content">
+    <div class="sitewide-news-features">
+  <div class="view-gallery" data-behavior="listing_clicks">
+    <div class="view-content">
+    
+<article id="node-6221800" class="promo   node-article">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/news/6221800/fan-army-face-off-winner"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/billboard-fan-army-face-off-2014-650.jpg" alt="Fan Army Face-Off: And the Winner Is ..." /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">News</div>
+                <h1><a href="/articles/news/6221800/fan-army-face-off-winner"  title="Fan Army Face-Off: And the Winner Is ...">Fan Army Face-Off: And the Winner Is ...</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-6214412" class="promo   node-article">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/on-the-road/6214412/austin-mahone-on-tour-behind-the-scenes-interview-live-performance"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/austin-mahone-day-in-the-life-01b-2014-billboard-650-logo.jpg" alt="Austin Mahone on Tour: Behind-The-Scenes Q&amp;A and Live Performances" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">On The Road</div>
+                <h1><a href="/articles/on-the-road/6214412/austin-mahone-on-tour-behind-the-scenes-interview-live-performance"  title="Austin Mahone on Tour: Behind-The-Scenes Q&A and Live Performances">Austin Mahone on Tour: Behind-The-Scenes Q&A and Live Performances</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-513488" class="promo   node-article">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/articles/events/vma/513488/mtv-vmas-15-craziest-moments-of-all-time"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/miley-cyrus-robin-thicke-vmas-650-430.jpg" alt="MTV VMAs&#039; 15 Craziest Moments of All Time" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">List</div>
+                <h1><a href="/articles/events/vma/513488/mtv-vmas-15-craziest-moments-of-all-time"  title="MTV VMAs' 15 Craziest Moments of All Time">MTV VMAs' 15 Craziest Moments of All Time</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+
+<article id="node-427560" class="promo   node-photo_gallery">
+  <div class="content-wrapper">
+        <div class="content-image">
+              <a href="/photos/427560/music-photos-of-the-week"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/promo_225/public/media/ed-sheeran-2014-billboard-650x430_0.jpg" alt="Music Photos of the Week" /></a>          </div>
+        <div class="content">
+      <header>
+                  <div class="category">Photos</div>
+                <h1><a href="/photos/427560/music-photos-of-the-week"  title="Music Photos of the Week">Music Photos of the Week</a></h1>
+      </header>
+
+      
+    </div> <!-- /.content -->
+    <div class="clearfix"></div>
+  </div>
+</article> <!-- /.node -->
+   </div>
+  </div>
+</div>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div id="block-dfp-a" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-a-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-a" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-a");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+    </div>
+    </div></div><!-- /.section, /#footer-top -->
+    
+    <footer id="footer" role="contentinfo"><div class="section">
+          <div class="region region-footer">
+    <div id="block-billboard-blocks-cover-art-image" class="block block-billboard-blocks">
+
+      
+  <div class="content">
+    <a href="https://subscribe.billboard.com/sub/?p=BBL&amp;f=sale&amp;s=IB1404NS04" target="_blank" title="Subscribe To Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;Subscribe-Image&#039;]);"><img typeof="foaf:Image" src="http://www.billboard.com/files/styles/magazine_cover/public/media/diplo-cover-2014-billboard-bb28-225.jpg" alt="Billboard Magazine" /></a>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<section id="block-billboard-blocks-footer-subscribe" class="block block-billboard-blocks footer-magazine">
+
+        <h2>Magazine</h2>
+    
+  <div class="content">
+    <ul>
+  <li>
+    <a href="https://subscribe.billboard.com/sub/?p=BBL&f=landing" title="Customer Service"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Customer-Service']);">Customer Service</a>
+    <br />
+    <a href="https://subscribe.billboard.com/sub/?p=BBL&f=sale&s=IB1404NS03" class="subscribe" title="Subscribe"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Subscribe-Bottom-Left']);">Subscribe</a>
+    <br />
+    <a href="http://shop.billboard.com/" class="buy" title="Buy this issue"  onclick="_gaq.push(['_trackEvent', 'Footer', 'Buy-This-Issue']);">Buy this issue</a>
+  </li>
+</ul>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-billboard-blocks-footer-industry" class="block block-billboard-blocks">
+
+        <h2>Billboard biz</h2>
+    
+  <div class="content">
+    
+
+<div id="block-billboard_blocks_1" class="billboard_blocks">
+    <div class="footer_industry">
+                    <p>The online extension of Billboard magazine, Billboard.biz is the essential online destination for the music business.</p>
+                            <a href="/biz" title="Learn more" onclick="_gaq.push(['_trackEvent', 'Footer', 'Biz-Learn-More']);">Learn more</a>
+            </div>
+</div>
+  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-explore-billboard" class="block block-menu">
+
+        <h2>Explore Billboard</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/articles/news/467859/about-us" title="About Billboard" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;About-Billboard&#039;]);">About Billboard</a></li>
+<li class="leaf"><a href="http://shop.billboard.com/" title="Shop" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Shop&#039;]);">Shop</a></li>
+<li class="leaf"><a href="/archive/article" title="News Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;News-Archive&#039;]);">News Archive</a></li>
+<li class="leaf"><a href="/photos" title="Photos Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Photos-Archive&#039;]);">Photos Archive</a></li>
+<li class="leaf"><a href="/archive/video_item" title="Videos Archive" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Videos-Archive&#039;]);">Videos Archive</a></li>
+<li class="leaf"><a href="http://www.billboard.com/magazine-archive">Magazine Archive</a></li>
+<li class="last leaf"><a href="/archive/charts">Charts Archive</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-informations" class="block block-menu">
+
+        <h2>Information</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://m.billboard.com/" title="Mobile" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Mobile&#039;]);">Mobile</a></li>
+<li class="leaf"><a href="http://www.billboardevents.com/">Billboard Events</a></li>
+<li class="leaf"><a href="/articles/news/468196/contact-us" title="Contact Us" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;contact-us&#039;]);">Contact Us</a></li>
+<li class="leaf"><a href="/sitemap" title="Sitemap" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;sitemap&#039;]);">Sitemap</a></li>
+<li class="leaf"><a href="/faq" title="FAQ" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;faq&#039;]);">FAQ</a></li>
+<li class="leaf"><a href="https://docs.google.com/spreadsheet/viewform?formkey=dDZ1RmJPWndBRmc0cThUOEMwMXhLMXc6MQ#gid=0" title="Feedback" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Feedback&#039;]);">Feedback</a></li>
+<li class="last leaf"><a href="http://www.metrolyrics.com/" target="_blank">Lyrics</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<section id="block-menu-menu-sharing-billboard" class="block block-menu">
+
+        <h2>Sharing Billboard</h2>
+    
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="http://www.facebook.com/Billboard" title="Facebook" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Facebook&#039;]);" class="fb" target="_blank">Facebook</a></li>
+<li class="leaf"><a href="https://twitter.com/billboard" title="Twitter" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Twitter&#039;]);" class="tw" target="_blank">Twitter</a></li>
+<li class="leaf"><a href="https://plus.google.com/+Billboard/posts" title="Google+" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;GooglePlus&#039;]);" class="gplus" target="_blank">Google+</a></li>
+<li class="leaf"><a href="http://youtube.com/billboard" title="YouTube" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;YouTube&#039;]);" class="yt" target="_blank">YouTube</a></li>
+<li class="leaf"><a href="http://instagram.com/billboard" title="Instagram" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Instagram&#039;]);" class="ig" target="_blank">Instagram</a></li>
+<li class="leaf"><a href="http://billboard.tumblr.com/" title="Tumblr" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Tumblr&#039;]);" class="tb" target="_blank">Tumblr</a></li>
+<li class="leaf"><a href="http://pintrest.com/billboard" title="Pinterest" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Pinterest&#039;]);" class="pi" target="_blank">Pinterest</a></li>
+<li class="leaf"><a href="http://open.spotify.com/app/billboard" title="Spotify" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Spotify&#039;]);" class="sp" target="_blank">Spotify</a></li>
+<li class="leaf"><a href="/newsletters" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Newsletter&#039;]);" class="nsl com">Newsletter</a></li>
+<li class="last leaf"><a href="/biz/newsletters" title="Newsletter" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;SharingBillboard&#039;,&#039;Newsletter&#039;]);" class="nsl biz">Newsletter</a></li>
+</ul>  </div> <!-- /.content -->
+
+</section> <!-- /.block -->
+<div id="block-imageblock-2" class="block block-imageblock footer-logo">
+
+      
+  <div class="content">
+      <div class="block-image">
+    <img class="imageblock-image" typeof="foaf:Image" src="http://www.billboard.com/files/imageblock/logo_footer.png" alt="Billboard" />  </div>
+
+  <div class="block-body">
+     <!--smart_paging_autop_filter--><!--smart_paging_filter--><p style="margin-top: 20px;"><a title="Sonicbids Gigs" href="http://www.sonicbids.com" target="_blank"><img height="30" width="120" style="float: right;" alt="Sonicbids - bands apply to play gigs" title="Sonicbids Gigs" class="media-element file-media-original" typeof="foaf:Image" src="http://www.billboard.com/files/media/logo_sonicbids.png" /></a><a title="Backstage Casting" href="http://www.backstage.com/" target="_blank"><img height="30" width="145" style="float: right;" alt="Backstage Casting for Actors" title="Backstage Casting" class="media-element file-media-original" typeof="foaf:Image" src="http://www.billboard.com/files/media/logo_backstage.png" /></a></p>   </div>
+  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-menu-menu-footer-links" class="block block-menu">
+
+      
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/terms-of-use" title="Terms of Use" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Terms-Of-Use&#039;]);">Terms of Use</a></li>
+<li class="leaf"><a href="/privacy-policy" title="Privacy Policy" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Privacy-Policy&#039;]);">Privacy Policy    </a></li>
+<li class="last leaf"><a href="http://advertising.billboard.com/" title="Advertising" onclick="_gaq.push([&#039;_trackEvent&#039;,&#039;Footer&#039;,&#039;ExploreBillboard&#039;,&#039;Advertising&#039;]);" class="item-advertising" style="color:#1cace2 !important;">     Advertising</a></li>
+</ul>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+<div id="block-dfp-o1" class="block block-dfp">
+
+      
+  <div class="content">
+    <div id="dfp-ad-o1-wrapper" class="dfp-tag-wrapper">
+<div  id="dfp-ad-o1" class="dfp-tag-wrapper">
+  <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-o1");
+    });
+  </script>
+</div>
+</div>  </div> <!-- /.content -->
+
+</div> <!-- /.block -->
+  </div>
+        <div id="copy">&copy; 2014 Billboard. All Rights Reserved.</div>
+    </div></footer> <!-- /.section, /#footer -->
+</div> <!-- /#bb -->    <div class="region region-page-bottom">
+    <script type="text/javascript">
+  var _sf_async_config=Drupal.settings.chartbeat;
+  (function(){
+    function loadChartbeat() {
+      window._sf_endpt=(new Date()).getTime();
+      var e = document.createElement('script');
+      e.setAttribute('language', 'javascript');
+      e.setAttribute('type', 'text/javascript');
+      e.setAttribute('src',
+         (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+         "static.chartbeat.com/js/chartbeat.js");
+      document.body.appendChild(e);
+    }
+    var oldonload = window.onload;
+    window.onload = (typeof window.onload != 'function') ?
+       loadChartbeat : function() { oldonload(); loadChartbeat(); };
+  })();
+</script><script>(function() {var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;po.src = 'https://apis.google.com/js/plusone.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);})();</script>  </div>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+                    function loadHorizon() {
+                          var s = document.createElement('script');
+                          s.type = 'text/javascript';
+                          s.async = true;
+                          s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+                          var x = document.getElementsByTagName('script')[0];
+                          x.parentNode.insertBefore(s, x);
+                      }
+                      loadHorizon();
+                      var oldOnLoad = window.onload;
+                      window.onload = function() {
+                          if (typeof oldOnLoad === 'function') {
+                              oldOnLoad();
+                          }
+                          if (typeof Sailthru !== 'undefined') {
+                          Sailthru.setup({
+        domain: 'horizon.billboard.com',
+      }); 
+                          }
+                      };
+
+        
+//--><!]]>
+</script>
+<script type="text/javascript" src="//ak.sail-horizon.com/scout/v1.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+
+      if (typeof SailthruScout != 'undefined') {
+          SailthruScout.setup({
+            domain: 'horizon.billboard.com',
+            numVisible: '10',
+            includeConsumed: 'false',
+            
+          });
+      }
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+              var s = document.createElement('script'); s.async = true;
+                  s.type = 'text/javascript';
+                  s.src = 'http://cdn.taboolasyndication.com/libtrc/billboard/loader.js';
+                  s.defer = 'true';
+              document.getElementsByTagName('BODY')[0].appendChild(s);
+              window._taboola = window._taboola || [];
+              _taboola.push({category:'auto'});
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://i.po.st/static/v3/post-widget.js#publisherKey=b9alt6tq217m0vjbjqtc"></script>
+<script type="text/javascript" src="http://www.billboard.com/files/js/js_iNTKzGXhPkErEPVwhEeb7A8QEK12864csPIR-8FvEVE.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+_sf_async_config.sections = "BBcom,BBcom Charts"
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(){
+    window.gravityInsightsParams = {
+      'type': 'content',
+      'action': '',
+      'site_guid': '339db668c63acf75d5bcc8be7728b693'
+    };
+    window.GravityUtils||(window.GravityUtils={});
+    window.GravityUtils.includeJs||(window.GravityUtils.includeJs=function(b,e,c){var d,f,a;null==e&&(e=function(){});null==c&&(c=function(){});a=document.createElement("script");a.async=!0;d=!1;f=function(){d=!0;a.onreadystatechange=a.onload=null;return e()};a.onreadystatechange=function(){if(!d&&(!this.readyState||"complete"===this.readyState||"loaded"===this.readyState))return f()};a.onload=function(){if(!d)return f()};a.addEventListener?a.addEventListener("error",c,!1):a.attachEvent&&a.attachEvent("onerror",
+    c);a.src=b;b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)});
+    var adServerReq,bUrl,doUseGravityUserGuid,jq,type,ug,wlPrefix,wlUrl,_ref,_ref1,_ref2;bUrl="https:"===document.location.protocol?"https://b-ssl.grvcdn.com/moth-min.js":"http://b.grvcdn.com/moth-min.js";ug=(doUseGravityUserGuid=!0===gravityInsightsParams.useGravityUserGuid?1:0)?"":gravityInsightsParams.user_guid||(null!=(_ref=/grvinsights=([^;]+)/.exec(document.cookie))?_ref[1]:void 0)||"";wlUrl=(wlPrefix="","");bUrl&&window.GravityUtils.includeJs(bUrl);wlUrl&&window.GravityUtils.includeJs(wlUrl);})();
+//--><!]]>
+</script>
+    <script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/6696.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>    <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
+
+
+</body>
+</html>

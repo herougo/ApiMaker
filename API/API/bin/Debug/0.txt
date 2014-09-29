@@ -1,0 +1,1495 @@
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
+	<meta name="language" content="en" />
+	
+    <title>Bell TV Online</title>
+    
+    
+    <!-- 2011-03-01 new templates::START -->
+    
+    <link href="../btvostyle/web/css/bell_master.css" media="all" type="text/css" rel="stylesheet" />
+    <link href="../btvostyle/web/css/bell_tvonline_custom.css" media="all" type="text/css" rel="stylesheet" />
+	<!--[if IE 6]><link href="../btvostyle/web/css/bell_ie6.css" type="text/css" media="all" rel="stylesheet"><![endif]-->
+	<!--[if IE 7]><link href="../btvostyle/web/css/bell_ie7.css" type="text/css" media="all" rel="stylesheet"><![endif]-->
+	<!--[if IE 8]><link href="../btvostyle/web/css/bell_ie8.css" type="text/css" media="all" rel="stylesheet"><![endif]-->
+	<!--[if IE 7]><link href="../btvostyle/web/css/bell_tvonline_ie7.css" type="text/css" media="all" rel="stylesheet"><![endif]-->
+	<link href="../btvostyle/web/css/bell_print.css" media="print" type="text/css" rel="stylesheet" />
+	<link href="../btvostyle/web/css/jquery.jscrollpane.css" media="all" type="text/css" rel="stylesheet">
+    
+	
+	<script src="../btvostyle/web/js/jquery.js" type="text/javascript"></script>
+	<script src="../btvostyle/web/js/tvonline-init.js" type="text/javascript"></script>
+    <script src="../btvostyle/web/js/jquery-ui.custom.min.js" type="text/javascript"></script>        
+	<script src="../btvostyle/web/js/cufon-yui.js" type="text/javascript"></script>
+	<script src="../btvostyle/web/js/bellSlimMedium504_500.font.js" type="text/javascript"></script>
+
+	<script src="../btvostyle/web/js/bell.plugins.js" type="text/javascript"></script>    
+	<script src="../btvostyle/web/js/bell.utils.js" type="text/javascript"></script>
+	<script src="../btvostyle/web/js/bell.resources.js" type="text/javascript"></script>
+    <script src="../btvostyle/web/js/bell_master.js" type="text/javascript"></script>
+    
+    <script src="../btvostyle/web/js/jquery.mousewheel.js" type="text/javascript"></script>
+    <script src="../btvostyle/web/js/mwheelIntent.js" type="text/javascript"></script>
+    <script src="../btvostyle/web/js/jquery.jscrollpane.min.js" type="text/javascript"></script>
+    
+    <!-- 2011-03-01 new templates::END -->
+    
+    <!-- <link rel="stylesheet" type="text/css" href="../css/bell.css" media="screen" /> -->
+    <!-- <script type="text/javascript" src="../js/jquery.js"></script> -->
+    <script type="text/javascript" src="../js/jquery.hoverIntent.js"></script>
+    
+	<!--  
+	<script type="text/javascript" src="../js/sifr.js"></script>
+	<script type="text/javascript" src="../js/sifr-config.js"></script>
+	-->
+    <!--[if IE 6]>
+        <link rel='stylesheet' type='text/css' href='../css/IE6.css' media='screen' />
+    <![endif]-->
+    <!--[if IE 7]>
+    	<link rel="stylesheet" type="text/css" href="../css/IE7.css" media="screen" />
+    <![endif]-->
+    <!--[if IE 8]>
+    <![endif]-->
+    <script src="../js/functions.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../js/tooltip.js"></script>
+    
+    <script type="text/javascript">
+		var _thumb = true;		// Thumbnail view
+		var _list = false;		// List view
+		var _filterRequest = null; // apply filter webservice call
+		var t = null; // timeout object for filter request
+		var _filterRequestDelay = 1500;	// millisecond delay to make filter request
+		var sortbyOption = 'title'; //default sort by option
+		var sortbyDirection = 'asc'; //default sort by direction
+		var showType = '';
+		var affiliateType = '';
+		var filterOpenned = false;
+		var url = "/tvonline/servlet/com.visionmax.servlet.CommandServlet?command=ppv&action=getPPVFilterableWidget";
+
+		var languageCode = 'EN';
+		if(!languageCode)
+			languageCode = 'en';
+		languageCode = languageCode.toLowerCase();
+		var loaderSettings = {modal: true, overlayId: 'ajaxLoaderOverlay', text: this.bellResources[languageCode].ajaxLoader};
+		
+		setFilterState = function(stateChanged) {
+			if(stateChanged)
+				filterOpenned = !filterOpenned;
+		};
+
+		showFilters = function() {
+			$(".toggleJs").toggleShowHide(filterOpenned);
+			if(filterOpenned){
+				filterOpenned = !filterOpenned;
+				$(".toggleJs").trigger('click', false);
+			}
+		};
+		
+		getParam = function(optionId) {
+			var values = [];
+			$('#' + optionId + ' :checked').each(function() {
+				values.push($(this).val());
+			});
+			console.info(values.toString());
+			return values.toString();
+		};
+
+		getSlashSeperatedParamList = function(optionId) {
+			var values = "";
+			$('#' + optionId + ' :checked + label').each(function() {
+				if(values)
+					values += "/" + $.trim($(this).text());
+				else
+					values = $.trim($(this).text());
+			});
+			console.info(values.toString());
+			return values;
+		};
+
+		sortResult = function(sortOption, direction) {
+			sortbyOption = sortOption;
+			sortbyDirection = direction;
+			var services = getParam('serviceFilterOptions');
+			var availabilities = getParam('availabilityFilterOptions');
+			var categories = getParam('categoryFilterOptions');
+			var genres = getParam('genreFilterOptions');
+			var titles = getParam('titleFilterOptions');
+			$.ajaxLoader.show(loaderSettings);
+			$.ajax ({
+				url: url,
+				type: 'GET',
+				data : {
+					services: services,
+					availabilities: availabilities,
+					categories: categories,
+					genres: genres,
+					titles: titles,
+					sortby: sortbyOption,
+					sortbyDirection: sortbyDirection,
+					affiliateType: affiliateType,
+					showType: showType
+				}, 
+				contentType: "application/x-www-form-urlencoded;charset=UTF-8",
+				success: function(data, textStatus) {
+					$.ajaxLoader.hide();
+					document.getElementById('filterableWidget').innerHTML = data;
+					Cufon.replace($.bell.page.elementFinder(".txtRep"));
+					initializeFilterOptions();
+					$('.fBody').jScrollPane();
+					$(".toolTipJs").toolTip();
+					showFilters();
+					if(_list)
+						switchToListView();
+					updateOmnitureValues();
+				}
+			}); // end if
+		};
+
+		getPage = function(pageNumber) {
+			var services = getParam('serviceFilterOptions');
+			var availabilities = getParam('availabilityFilterOptions');
+			var categories = getParam('categoryFilterOptions');
+			var genres = getParam('genreFilterOptions');
+			var titles = getParam('titleFilterOptions');
+			$.ajaxLoader.show(loaderSettings);
+			$.get(
+				url,
+				{
+					services: services,
+					availabilities: availabilities,
+					categories: categories,
+					genres: genres,
+					titles: titles,
+					sortby: sortbyOption,
+					sortbyDirection: sortbyDirection,
+					affiliateType: affiliateType,
+					showType: showType,
+					pageNumber: pageNumber
+				}, 
+				function(data, textStatus) {
+					$.ajaxLoader.hide();
+					document.getElementById('filterableWidget').innerHTML = data;
+					Cufon.replace($.bell.page.elementFinder(".txtRep"));
+					initializeFilterOptions();
+					$('.fBody').jScrollPane();
+					$(".toolTipJs").toolTip();
+					showFilters();
+					if(_list)
+						switchToListView();
+				}
+			); // end if
+		};
+		
+		resetFilters = function() {
+			sortbyOption = 'title'; //default sort by option
+			sortbyDirection = 'asc'; //default sort by direction
+			$.ajaxLoader.show(loaderSettings);
+			$.get(
+				url,
+				{
+					showType: showType,
+					affiliateType: affiliateType,
+					languageCode: languageCode,
+				}, 
+				function(data, textStatus) {
+					$.ajaxLoader.hide();
+					document.getElementById('filterableWidget').innerHTML = data;
+					Cufon.replace($.bell.page.elementFinder(".txtRep"));
+					initializeFilterOptions();
+					$('.fBody').jScrollPane();
+					$(".toolTipJs").toolTip();
+					showFilters();
+					if(_list)
+						switchToListView();
+					updateOmnitureValues();
+				}
+			); // end if
+		};
+		
+		applyFilter = function() {
+			var services = getParam('serviceFilterOptions');
+			var availabilities = getParam('availabilityFilterOptions');
+			var categories = getParam('categoryFilterOptions');
+			var genres = getParam('genreFilterOptions');
+			var titles = getParam('titleFilterOptions');
+			
+			if(_filterRequest != null) {
+				_filterRequest.abort();
+			}
+			$.ajaxLoader.show(loaderSettings);
+			_filterRequest = $.get(
+				url,
+				{
+					services: services,
+					availabilities: availabilities,
+					categories: categories,
+					genres: genres,
+					titles: titles,
+					sortby: sortbyOption,
+					sortbyDirection: sortbyDirection,
+					affiliateType: affiliateType,
+					showType: showType
+				}, 
+				function(data, textStatus) {
+					$.ajaxLoader.hide();
+					document.getElementById('filterableWidget').innerHTML = data;
+					Cufon.replace($.bell.page.elementFinder(".txtRep"));
+					initializeFilterOptions();
+					$('.fBody').jScrollPane();
+					$(".toolTipJs").toolTip();
+					showFilters();
+					if(_list)
+						switchToListView();
+					updateOmnitureValues();
+				}); // end if
+		}; // end applyFilter
+
+		//Switch to list view mode if current view mode is list
+		switchToListView = function() {
+			$("#thumbView").hide();
+			$("#listView").show();
+			$("#thumbListToggle").toggleClass('tlActive');
+			//$("#thumbListToggle").removeClass('s_thumbnailsview');
+			//$("#thumbListToggle").addClass('s_listview');
+		};
+
+		updateOmnitureValues = function() {
+			var categories = getSlashSeperatedParamList('categoryFilterOptions');
+			var genres = getSlashSeperatedParamList('genreFilterOptions');
+			var titles = getSlashSeperatedParamList('titleFilterOptions');
+			var services = getSlashSeperatedParamList('serviceFilterOptions');
+			var availabilities = getSlashSeperatedParamList('availabilityFilterOptions');
+			var language = 'EN';
+			if(language.toLowerCase() == 'en')
+				language = 'English';
+			if(language.toLowerCase() == 'fr')
+				language = 'French';
+			var sortby = sortbyOption;
+			if(sortby == 'title')
+				sortby = 'Title A-Z';
+			if(sortby == 'release_date')
+				sortby = 'Release Date';
+			if(sortby == 'ContentRate')
+				sortby = 'Content Rate';
+			s_oTrackPage({
+				s_oAPT : '351-0-0',
+				s_fSort : sortby,
+				s_fChannel : '',
+				s_fView : categories,
+				s_fGenres : genres,
+				s_fAlphabetical : titles,
+				s_fService : services,
+				s_fAvailability : availabilities,
+				s_fLanguage : language
+			});
+			
+		};
+
+		initializeFilterOptions = function() {
+			// ********** Event handlers **********	
+			$(".tlToggle").click(function(){
+				// toggle button
+				$(this).toggleClass('tlActive')
+				switch(_thumb)
+				{
+					case true:
+						_thumb = !_thumb;
+						_list = !_list;
+						$("#thumbView").hide();
+						$("#listView").show();
+						//$("#thumbListToggle").removeClass('s_thumbnailsview');
+						//$("#thumbListToggle").addClass('s_listview');
+						
+						break;
+					default:
+						_thumb = !_thumb;
+						_list = !_list;
+						$("#listView").hide();
+						$("#thumbView").show();
+						//$("#thumbListToggle").addClass('s_thumbnailsview');
+						//$("#thumbListToggle").removeClass('s_listview');
+						
+						break;
+				}
+			}); // end .tlToggle
+
+			$(".chkHandlerClass").click(function(){
+				if(t != null) {
+					clearTimeout(t);
+					t = null;
+				}
+				if(_filterRequest != null) {
+					_filterRequest.abort();
+					_filterRequest = null;
+				}
+				t = setTimeout("applyFilter()",_filterRequestDelay);
+			}); // end .chkHandlerClass
+			
+			$(".chkGroup1All").click(function(){
+				$('.chkGroup1').attr('checked', false);
+			}); // end .chkGroup1All
+			
+			$(".chkGroup1").click(function(){
+				$('.chkGroup1All').attr('checked', false);
+			}); // end .chkGroup1
+			
+			$(".chkGroup2All").click(function(){
+				$('.chkGroup2').attr('checked', false);
+			}); // end .chkGroup2All
+			
+			$(".chkGroup2").click(function(){
+				$('.chkGroup2All').attr('checked', false);
+			}); // end .chkGroup2
+			
+			$(".chkGroup3All").click(function(){
+				$('.chkGroup3').attr('checked', false);
+			}); // end .chkGroup3All
+			
+			$(".chkGroup3").click(function(){
+				$('.chkGroup3All').attr('checked', false);
+			}); // end .chkGroup3
+
+			$(".chkGroup4All").click(function(){
+				$('.chkGroup4').attr('checked', false);
+			}); // end .chkGroup4All
+			
+			$(".chkGroup4").click(function(){
+				$('.chkGroup4All').attr('checked', false);
+			}); // end .chkGroup4
+			
+			$(".chkGroup5All").click(function(){
+				$('.chkGroup5').attr('checked', false);
+			}); // end .chkGroup5All
+			
+			$(".chkGroup5").click(function(){
+				$('.chkGroup5All').attr('checked', false);
+			}); // end .chkGroup5
+			$("#thumbListToggle").click(function(){
+				if(_thumb)
+					s_oTrackPage({s_pState : "s_thumbnailsview"});
+				else
+					s_oTrackPage({s_pState : "s_listview"});
+					
+			}); // end .chkHandlerClass
+		};
+		$(document).ready(function(){
+			initializeFilterOptions();
+		});
+	</script>
+    
+    
+    <script type="text/javascript">
+    var currentToolTip = ""; 
+	var xmlhttp;
+	function fullScreen(url, assetType) {
+		 params  = 'width='+screen.width;
+		 params += ', height='+screen.height;
+		 params += ', top=0, left=0'
+		 //params += ', fullscreen=yes'
+		 params += ', scrollbars=yes';
+		 newwin=window.open(url, assetType, params); 
+	}
+	function gotoProcess(processid) {
+		var pid = document.getElementById('cmdprocessid');
+		pid.value = processid;
+		document.commandform.submit();
+	}
+	
+	function gotoProcessWithParameter(processid, key, value) {
+		var submitForm = document.commandform;
+		var param = document.createElement("input");
+  		param.type = "hidden";
+   		param.name = key;
+   		param.value = value;
+   		submitForm.appendChild(param);
+		gotoProcess(processid);
+	}
+	
+	function gotoProcessWith5Parameter(processid, key, value, key1, value1) {
+		var submitForm = document.commandform;
+		var param = document.createElement("input");
+  		param.type = "hidden";
+   		param.name = key;
+   		param.value = value;
+   		submitForm.appendChild(param);
+   		var param1 = document.createElement("input")
+   		param1.type = "hidden";
+   		param1.name = key1;
+   		param1.value = value1;
+   		submitForm.appendChild(param1);
+   		var param2 = document.createElement("input")
+   		param2.type = "hidden";
+   		param2.name = "BEP_Pagination_Page_Num";
+   		param2.value = "1";
+   		submitForm.appendChild(param2);
+		gotoProcess(processid);
+	}
+	
+	function gotoChangeLanguageProcess(processid, langCd) {
+		var pid = document.getElementById('lprocessid');
+		pid.value = processid;
+		var lid = document.getElementById('langid');
+		lid.value = langCd;
+		document.changelanguageform.submit();
+	}
+	
+	function gotoFAQCategoryProcess(processid, faqCatID) {
+		var pid = document.getElementById('faqprocessid');
+		pid.value = processid;
+		var lid = document.getElementById('faqcatid');
+		lid.value = faqCatID;
+		document.changefaqCategoryform.submit();
+	}
+	
+	function gotoSecureProcess(processid) {
+		var pid = document.getElementById('sprocessid');
+		pid.value = processid;
+		document.secureform.submit();
+	}
+
+	function validateSurveyInput()
+	{
+	    var favTeam;
+	    var elem
+        if( document.getElementById ) {// standards compliant
+            favTeam = document.getElementById( 'ddlTeams' );
+            elem = document.getElementById( 'imgSurveySubmit' );
+        }else if( document.all ) {// IE4 or older
+            favTeam = document.all['ddlTeams'];
+            elem = document.all['imgSurveySubmit'];
+        }else if( document.layers ) {// Netscape 4
+            favTeam = document.layers['ddlTeams'];
+            elem = document.layers['imgSurveySubmit'];
+        }
+        
+        if(favTeam.selectedIndex > 0){
+			elem.src = "../images/en/btnSubmit_en.gif";	
+		}else{
+			elem.src = "../images/en/btnSubmit_d_en.gif";
+		}
+	}
+	
+	function submitNHLSurvey()
+	{
+		if(document.getElementById('ddlTeams').selectedIndex > 0){
+			xmlhttp=null;
+			if (window.XMLHttpRequest)
+			  {// code for IE7, Firefox, Opera, etc.
+			  xmlhttp=new XMLHttpRequest();
+			  }
+			else if (window.ActiveXObject)
+			  {// code for IE6, IE5
+			  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+			  }
+			if (xmlhttp!=null)
+			{
+			  var favTeam = document.getElementById('ddlTeams').value;
+			  var shareWithNHL = document.getElementById('NHL_Survey_ShareWithNHL').checked;
+			  var optInPromos = document.getElementById('NHL_Survey_OptInPromos').checked;
+			  var command = 'flow';
+		      var pid = 85;
+			  url = "/tvonline/servlet/CommandServlet?command=" + command + "&processid=" + pid + "&NHL_Survey_FavTeam=" + favTeam + 
+			  		"&NHL_Survey_ShareWithNHL=" + shareWithNHL + "&NHL_Survey_OptInPromos=" + optInPromos;
+			  xmlhttp.onreadystatechange=state_Change;
+			  xmlhttp.open("GET",url,true);
+			  xmlhttp.send(null);
+			 }
+			 tweenHideDiv('surveyContainer');
+		}
+		else {
+			tweenShowDiv('surveyError');
+		}
+	}
+	
+	function state_Change()
+	{
+	if (xmlhttp.readyState==4)
+	  {// 4 = "loaded"
+	  if (xmlhttp.status==200)
+	    {// 200 = "OK"
+	    }
+	  else
+	    {
+	    }
+	  }
+	}
+	
+	function supressEnter(e) {
+		var characterCode;
+		
+		if(e && e.which){
+			e = e
+			characterCode = e.which 
+		}
+		else{
+			e = event
+			characterCode = e.keyCode
+		}
+		
+		if(characterCode == 13){ //if generated character code is equal to ascii 13 (if enter key)
+			return false 
+		}
+		return true;
+	}	
+	</script>
+</head>
+ 	
+	<body class="noJs en" onLoad="keepaliveTimeout()">
+ 	
+<div id="nojavascript">
+    <noscript>
+        <div id="Div1" style="width: 96%; margin-bottom: 5px; padding: 2px 20px 0 20px; background: #ffffcc;border-bottom: 2px solid #eee; overflow: hidden; height: 50px">
+            <div style="text-align: left; display: table; height: 50px; position: relative; overflow: hidden">
+                <div style="position: absolute; top: 50%; display: table-cell; vertical-align: middle;">
+                    <div style="position: relative; top: -50%">
+                        We have detected that JavaScript is disabled in your browser. Since JavaScript is used throughout bell.ca, enabling it will result in the best possible experience for you. You can make this change without compromising your security. See <a href="http://bell.ca/support/PrsCSrvGnl_FAQ_Detail.page?FAQ_ID=1622"> how to enable JavaScript</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </noscript>
+</div>
+
+<div class="wrapper shopSection">
+    
+		
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/JavaScript">
+	
+    var currentSessionTimeZone = 'America/Toronto';
+    
+    if ( currentSessionTimeZone == null || currentSessionTimeZone == "" )
+    {
+    	var myDate = new Date();
+    	var tzo = myDate.getTimezoneOffset();
+    	
+    	var req = new Image();
+		req.src = "/tvonline/servlet/CommandServlet?command=flow&processid=200&gmtOffsetInMinutes="+tzo;
+	}
+	
+	
+		
+	
+			
+	$(document).ready(function(){
+		simple_tooltip("a._tooltip_narrow","tooltip_narrow");
+		simple_tooltip("a._tooltip","tooltip");
+
+		accountMenuCfg = {
+				sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)
+				interval: 10, // number = milliseconds for onMouseOver polling interval
+				timeout: 300, // number = milliseconds delay before onMouseOut
+				over: function() {	$('#accountMenuFramework').show(400); }, // function = onMouseOver callback (REQUIRED)
+				out: function() {  $('#accountMenuFramework').hide(400); } // function = onMouseOut callback (REQUIRED)
+			}
+			$('#myaccount').hoverIntent(accountMenuCfg);
+
+			watchNowMenuCfg = {
+				sensitivity: 1, // number = sensitivity threshold (must be 1 or higher)
+				interval: 10, // number = milliseconds for onMouseOver polling interval
+				timeout: 300, // number = milliseconds delay before onMouseOut
+				over: function() {	$('#watchNowList').show(400);
+									 easeIn('tabWN','../images/en/bt_WatchNowHover.gif');}, // function = onMouseOver callback (REQUIRED)
+				out: function() {  $('#watchNowList').hide(400);
+									 easeOut('tabWN','../images/en/bt_WatchNow.gif');
+				} // function = onMouseOut callback (REQUIRED)
+			}
+			$('#watchNowButton').hoverIntent(watchNowMenuCfg);
+		
+	});
+	
+	 
+</script>
+<!-- TimeZone End -->
+
+
+
+
+<!-- Relaunch code::START -->
+<script src="../btvostyle/web/js/bell.init.js" type="text/javascript"></script>
+
+<div class="wrapHeader">
+     <div class="subWrap header">
+     
+         <p class="accessAlt"><a href="#content">Skip to main content</a> | <a href="#">Go to site map</a> | <a href="#">Read our accessibility commitment</a></p>
+         
+         <a href="CommandServlet?command=watchonline&pageId=89&lang=en" title="Home page" class="accessAlt mainBranding"><img src="../btvostyle/web/common/all_languages/all_regions/skin/lg_mainBranding.gif" alt="Bell" width="92" height="55" ></a>
+
+         <div class="clearer"><!-- --></div>
+         
+         <div class="topNav">
+             <ul>
+             	 <li id="topNavCartItem" style="padding-left:0px;">
+                    
+                    
+                       <a href="http://www.bell.ca/" style="padding-left:15px;" title="bell.ca">bell.ca</a>
+                    
+                 </li>
+                        
+                 <li id="topNavLanguageItem">
+                 	<a href="CommandServlet?command=watchonline&pageId=89&lang=fr" title=""><span class="accessAlt">Change language to </span>Fran�ais</a>
+                 </li>
+                        
+                 <li id="topNavSelectProvinceItem">
+                 	<a href="javascript:gotoFAQCategoryProcess(87,0)" title="Need help?" class="padRight15">Need help?</a>
+                 </li>
+           
+                 <li id="topNavSearchItem">
+                     <form action="/tvonline/servlet/CommandServlet?command=flow&processid=165" method="get" id="topNavSearchForm">
+                         <div>
+                             <label for="topNavSearch" class="labelOver">Search Bell TV Online</label>
+                             <input type="hidden" name="command" value="flow" />
+                        	 <input type="hidden" name="processid" value="165" />
+                        	 <input type="hidden" name="requestedPage" value="0" />
+                        	 <input type="hidden" name="requestedSortMethod" value="0" />
+                        	 <input type="hidden" name="requestedSearchMethod" value="0" />
+                        	 <input type="hidden" name="filterProgramMethod" value="0" />
+                        	 <input type="hidden" name="filterProgramType" value="0" />
+                             <!-- <input id="txt_topSearch" name="simpleSearchKeyWord" type="text" value="Search Bell TV Online" onfocus="clearOnFocus(this);" maxlength="150" /> -->
+                             <input type="text" name="simpleSearchKeyWord" id="topNavSearch" maxlength="150" > 
+                             <!-- <input type="text" name="topNavSearch" id="topNavSearch"> -->
+                             <button value="GO">GO</button>
+							<div class="clearer"><!-- --></div>
+                          </div>
+							<input type="hidden" name="charset" value="UTF-8" />
+                      </form>
+                  </li>
+                
+                  
+					  <li id="topNavLogInItem">
+	                  	<a href="https://www.bell.ca/mybell/resources/login/invisibleLogin/loginSSO.jsp?action=idsp&SPID=urn:belltv:entityid&RelayState=http://tvonline.bell.ca/tvonline/servlet/CommandServlet?command%3Dflow%26processid%3D165%26simpleSearchKeyWord%3Dagents%26requestedPage%3D0%26requestedSortMethod%3D0%26requestedSearchMethod%3D0%26filterProgramMethod%3D0%26filterProgramType%3D0%26useRelayState=Y&language=en">Log in</a> <span class="itemExtra"><!-- --></span>
+	                  </li>
+	              
+                  
+                </ul>
+            </div> <!-- topNav::END -->
+
+<div class="clearer"><!-- --></div>	
+         
+         <div id="mainNav">
+         	<div id="mainNavHome"><a href="http://www.bell.ca/" title="Home" id="mainNavHomeButton"></a></div>
+             <div id="mainNavMenu">
+                 
+                <div class="menuToggleContainer">
+                     <div class="menuToggle">
+                         <ul>
+                             <li class="first tabBorderRight"><a class="first" href="CommandServlet?command=watchonline&pageId=89&lang=en" title="">Watch online<span><!-- --></span></a></li>
+                             <li class="tabBorderRight"><a class="middle" href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'PPV')" title="">What's on TV<span><!-- --></span></a></li>
+							 <li class="last"><a class="last" href="javascript:gotoProcess(201)" title="">Remote PVR<span><!-- --></span></a></li>
+                        </ul>
+                     </div>
+              	</div>
+                 <div class="clearer"><!-- --></div>
+         
+         
+             </div>
+             <div id="mainNavRight"></div>
+     	</div><!--end of mainNav-->                
+         
+         <div class="clearer"><!-- --></div>	
+         
+     </div><!-- end of header -->
+ </div><!--end of wrapHeader-->
+
+<!-- Relaunch code::END -->
+
+<!-- Original code::START -->
+
+<!-- Original code::END -->
+
+<!-- Live Person -->
+<script type="text/JavaScript">
+	if (typeof(lpUnit)=="undefined") var lpUnit='tvonline-general';
+	if (typeof(lpProvince)=="undefined") var lpProvince='NA'; 
+	if (typeof(lpLanguage)=="undefined")	var lpLanguage="english"; // Use <english> Or <french>
+
+	var lpUASemailAddress = "";
+	var lpUAScustomername = "";
+	var lpUASaccountid = "";
+
+
+</script>
+
+<script src="/tvonline/web/common/all_languages/all_regions/js/livepersonEMT/mtagconfig.js" type="text/Javascript"></script>
+
+<script type="text/JavaScript">
+// Variables submission using lpAddVars
+
+//On page load: lpAddVars('<Scope:page/session/visitor>','<Variable Name>','<Variable Value>');
+lpAddVars('page','Language',lpLanguage);
+lpAddVars('page','Province',lpProvince);
+lpAddVars('page','BusinessUnit','Personal');
+lpAddVars('page','Category','tvonline');
+lpAddVars('page','Section','Default');
+lpAddVars('page','Subsection','');
+lpAddVars('page','PageName','');
+lpAddVars('page','ErrorFlag','');
+lpAddVars('page','Global_SearchValue','');
+lpAddVars('page','FAQ_SearchValue','');
+lpAddVars('page','AccountId',lpUASaccountid);
+lpAddVars('page','CustomerName',lpUAScustomername);
+lpAddVars('page','EmailAddress',lpUASemailAddress);
+
+
+</script>
+
+<!-- End Live Person -->
+
+<script type="text/javascript">
+function keepaliveTimeout(){
+
+	
+}
+</script>
+<div style:visibility="hidden">
+<iframe id="keepaliveframeO" src="https://www.bell.ca/mybell/keepalive.jsp" width="0" height="0" FRAMEBORDER="0"></iframe>
+</div>
+
+		
+
+
+		
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+
+	function submitSelectionLINK(assetType, assetId)
+	{
+		document.location.href="/tvonline/servlet/CommandServlet?command=flow&processid=100&PPV_ASSET_ID="+assetId+"&MOVIE_MENU_ASSETTYPE="+assetType+"&INT=internalSearch";
+	}
+</script>
+<!-- Omniture -->
+	<script language="JavaScript" type="text/javascript">
+  		s_lId=""
+  		s_sSection1="search"; 
+  		s_sSection2=""; 
+  		s_sSection3="";
+  		s_pName="search result";
+  		s_fRefine="";
+  		s_fProgram="";
+	</script>
+    
+<div class="wrapMain">
+  <div class="subWrap main">
+    <div class="content" id="content">		
+      <div class="cWrap pgTitle">
+		<h1 class="floatLeft" style="width:200px;">Search</h1>                  
+      </div><!-- end of cWrap -->			
+	  <div class="clearer"><!-- --></div>	
+      <div class="cWrapNB noPadBottom">
+        <div class="cBox">
+          <div class="padder pgResultsContent">
+            <div class="pgSearch"> 
+              <div class="cBox"> 
+                <form action="/tvonline/servlet/CommandServlet?command=flow&processid=165" method="get"> 
+                  <div class="padder pgSearchItem"> 
+                    <label class="labelOver" for="supportSearch">Search </label> 
+                    <div class="pgSearchInput" style="width: 740px;"> 
+                        <input type="hidden" name="command" value="flow" />
+                        <input type="hidden" name="processid" value="165" />
+                      	<input type="text" id="supportSearch" name="simpleSearchKeyWord" style="width: 720px;" value=""> 
+                      	<input type="hidden" name="requestedPage" value="0" />
+                  		<input type="hidden" name="requestedSortMethod" value="0" />
+                  		<input type="hidden" name="requestedSearchMethod" value="0" />
+                  		<input type="hidden" name="filterProgramMethod" value="0" />
+                  		<input type="hidden" name="filterProgramType" value="0" />
+                    </div> 
+                    <button class="button buttonThemeA" title="">Search</button> 
+                    <div class="clearer"></div> 
+                  </div> 
+                </form> 
+              </div> 
+            </div> 
+          </div>
+  			<script language="JavaScript" type="text/javascript">
+s_pState="115-0-1";s_kw="agents"</script>					<div class="sFilter padBottom15 padTop15">
+						<div class="lining">
+							<div class="lining padTop15 gHead">
+								<div class="sCol1">Refine your results:</div>
+								<div class="sCol2">Program type:</div>
+								<div class="sCol3"><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=0&filterProgramType=0&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">Reset filter</a></div>
+							</div><!-- end of lining -->
+							<div class="clearer"><!-- --></div>
+							<div class="lining">
+								<div class="sCol1 padTop15">
+									<ul>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=1&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">Watch online (15)</a></li>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=2&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">Pay-per-view (1)</a></li>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=3&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">Satellite TV Guide (30)</a></li>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=202">Fibe TV Guide</a></li>
+									</ul>
+								</div><!-- end of gCol1 -->
+								<div class="sCol2 padTop15">
+									<ul>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=0&filterProgramType=1&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">TV (32)</a></li>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=0&filterProgramType=2&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">Movie (14)</a></li>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=0&filterProgramType=3&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">Music Video (0)</a></li>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=0&filterProgramType=4&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">Music Video Playlist (0)</a></li>
+										<li><a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=0&filterProgramType=5&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents">Web Radio(0)</a></li>
+									</ul>
+								</div><!-- end of gCol2 -->
+								<div class="sCol3 padTop15"></div>
+							</div>
+							<div class="clearer"><!-- --></div>
+						</div>
+					</div> <!-- end of sFilter -->
+					<div class="clearer"><!-- --></div>
+					<div class="lining cHead" style="margin-top:0px;">
+						<div class="col9"><h2 class="txtRep">15 programs available to watch online</h2></div>
+						<div class="colRight"><a href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=1&requestedPage=0&filterProgramType=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents" title="" class="seeMoreLink">View all</a></div>
+						<div class="clearer"><!-- --></div>
+					</div>  <!-- end of sFilter -->
+					<div class="lining padBottom30">
+						<div class="refLine mGrid6">
+							<div class="mCol2">
+								<div class="thumbCell">
+									<a href="CommandServlet?command=watchonline&fromSearchPage=true&showType=Movie&assetId=117538" title=""><img src="http://images.tvonline.bell.ca/Artwork/SEC/se_r_e_2_thumbnail.jpg" alt=""></a>
+								</div>
+								<div class="thumbDetailsCell">
+									<h5>R.E.D. 2</h5>
+									<h5 class="hProvider">Movie - Super Ecran</h5>
+									<p><a href="CommandServlet?command=watchonline&fromSearchPage=true&showType=Movie&assetId=117538" title="">Watch now</a></p>
+								</div>
+							</div>
+							<div class="mCol2">
+								<div class="thumbCell">
+									<a href="CommandServlet?command=watchonline&fromSearchPage=true&showType=KidsSuite&assetId=72972" title=""><img src="http://images.tvonline.bell.ca/Artwork/KDS/DGW01003_thumbnail.jpg" alt=""></a>
+								</div>
+								<div class="thumbDetailsCell">
+									<h5>Di-Gata Defenders 03</h5>
+									<h5 class="hProvider">KidsSuite - Kids Suite</h5>
+									<p><a href="CommandServlet?command=watchonline&fromSearchPage=true&showType=KidsSuite&assetId=72972" title="">Watch now</a></p>
+								</div>
+							</div>
+							<div class="mCol2 colLast">
+								<div class="thumbCell">
+									<a href="CommandServlet?command=watchonline&fromSearchPage=true&showType=KidsSuite&assetId=77404" title=""><img src="http://images.tvonline.bell.ca/Artwork/KDS/FDGW01003_thumbnail.jpg" alt=""></a>
+								</div>
+								<div class="thumbDetailsCell">
+									<h5>Les Defenseurs Di-Gata 03</h5>
+									<h5 class="hProvider">KidsSuite - Club Junior</h5>
+									<p><a href="CommandServlet?command=watchonline&fromSearchPage=true&showType=KidsSuite&assetId=77404" title="">Watch now</a></p>
+								</div>
+							</div>
+							</div>
+						<div class="clearer"><!-- --></div>
+					</div>
+					<div class="clearer"><!-- --></div>
+					<div class="lining cHead borderTop" style="margin-top:0px;">
+					<div class="col9"><h2 class="txtRep">1 programs available to order on your TV</h2></div>
+					<div class="colRight"></div>
+					<div class="clearer"><!-- --></div>
+				</div>  <!-- end of sFilter -->
+					<div class="lining padBottom30">
+						<div class="refLine mGrid6">
+							<div class="mCol2">
+								<div class="thumbCell">
+									<a href="javascript:submitSelectionLINK('VOD' ,6295)" title=""><img src="http://images.tvonline.bell.ca/artwork/ppv/mbius_small.jpg" alt=""></a>
+								</div>
+								<div class="thumbDetailsCell">
+									<h5>M�bius</h5>
+									<h5 class="hProvider">Movie</h5>
+				<a href="#" title="<center>Available on Fibe</center>" class="toolTipJs ">
+				<img src="../btvostyle/web/common/all_languages/all_regions/skin/imgAvailFibe.png" alt="" /></a>
+									<p><a href="javascript:submitSelectionLINK('VOD' ,6295)" title="">Order now</a></p>
+								</div>
+							</div>
+							<div class="mCol2">
+<div class="thumbCell"></div>
+<div class="thumbDetailsCell"></div>
+</div>
+							<div class="mCol2 colLast">
+<div class="thumbCell"></div>
+<div class="thumbDetailsCell"></div>
+</div>
+							</div>
+						<div class="clearer"><!-- --></div>
+					</div>
+					<div class="clearer"><!-- --></div>
+				<div class="clearer"><!-- --></div>
+				<div class="lining cHead borderTop" style="margin-top:0px;margin-bottom:0px;">
+					<div class="col9"><h2 class="txtRep">30 programs found in the Bell Satellite TV guide</h2></div>
+					<div class="colRight"><a href="/tvonline/servlet/CommandServlet?command=flow&processid=165&filterProgramMethod=3&filterProgramType=0&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&simpleSearchKeyWord=agents" title="" class="seeMoreLink">View all</a></div>
+					<div class="clearer"><!-- --></div>
+				</div>  <!-- end of sFilter -->
+<script type="text/javascript">
+   s_pTab = 'Satellite TV Guide';
+function toggleDivHTML(divId, accountType) {
+var dthDivHTML = '<ul>'+
+		'<li id="seriesItem">'+
+			'Satellite TV Guide<span class="itemExtra"></span>'+
+		'</li>'+
+		'<li>'+
+			'<a href="#searchAccountType" onClick="toggleDivHTML(\'searchAccountType\',\'FIBE\')">Fibe TV Guide</a>'+
+		'</li>'+
+	'</ul>';
+var fibeDivHTML = '<ul>'+
+		'<li>'+
+			'<a href="#searchAccountType" onClick="toggleDivHTML(\'searchAccountType\',\'DTH\')">Satellite TV Guide</a>'+
+		'</li>'+
+		'<li id="seriesItem">'+
+			'Fibe TV guide<span class="itemExtra"></span>'+
+		'</li>'+
+	'</ul>';
+if(accountType=='FIBE') {
+   s_pTab = 'Fibe TV Guide';
+	document.getElementById(divId).innerHTML=fibeDivHTML;
+	var elFibe = document.getElementById('fibeSection');
+	var elDth = document.getElementById('dthSection');
+	var elDthPagination = document.getElementById('dthPageSection');
+	elFibe.style.display = 'none';
+	elDth.style.display = 'none';
+	if(elDthPagination != null) {
+		elDthPagination.style.display = 'none';
+	}
+	elFibe.style.display = 'block';
+}
+else if(accountType=='DTH') {   s_pTab = 'Satellite TV Guide';
+	document.getElementById(divId).innerHTML=dthDivHTML;
+	var elFibe = document.getElementById('fibeSection');
+	var elDth = document.getElementById('dthSection');
+	var elDthPagination = document.getElementById('dthPageSection');
+	elFibe.style.display = 'none';
+	elDth.style.display = 'none';
+	if(elDthPagination != null) {
+		elDthPagination.style.display = 'none';
+		elDthPagination.style.display = 'block';
+	}
+	elDth.style.display = 'block';
+}
+}
+</script><div id="searchAccountType" class="seriesNav searchFilter">
+<ul>
+		<li id="seriesItem">
+Satellite TV guide<span class="itemExtra"></span>
+		</li>
+		<li>
+			<a href="#searchAccountType" onClick="toggleDivHTML('searchAccountType','FIBE')">Fibe TV Guide</a>
+		</li>
+	</ul>
+</div>
+<div class="clearer"></div><div id="fibeSection" style='display:none;' class="lining">
+	<div class="floatLeft padTop30 padLeft30">
+		<img alt="" src="../btvostyle/web/common/all_languages/all_regions/skin/img_FibeGuide.jpg">
+	</div>
+	<div class="floatLeft padTop150 padLeft30">
+		<p>Please log in to see your Fibe TV Guide.</p>
+		<p class="clearLeft padTop7">		<a class="buttonize btnDftAct" href="/tvonline/servlet/CommandServlet?command=flow&processid=202">		<span>Log in to My Bell<span><!-- --></span></span>		.</a></p>
+	</div>
+<div class="clearer"><!-- --></div>
+</div>
+
+<div id="dthSection" style='display:block;'>
+				<table id="guideSResults" style="margin-bottom:0px;">
+					<tr>
+						<th>
+							<div style="float:left;">
+								<h5>Title</h5> 
+							</div>							<div style="float:left;padding:3px 0 0 7px;">
+								<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=1&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0">									<img src="../btvostyle/web/common/all_languages/all_regions/skin/arrow_Up.gif" alt="Ascending" />
+								</a>
+							</div>
+							<div style="float:left;padding:3px 0 0 2px;">
+								<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=2&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0">									<img src="../btvostyle/web/common/all_languages/all_regions/skin/arrow_Down.gif" alt="Descending" />
+								</a>
+							</div>
+						</th>
+						<th style="padding-left:0px;">
+							<div style="float:left;">
+									<h5>Category</h5>
+							</div>
+							<div style="float:left;padding:3px 0 0 7px;">
+								<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=5&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0">									<img src="../btvostyle/web/common/all_languages/all_regions/skin/arrow_Up.gif" alt="Ascending" />								</a>
+							</div>
+							<div style="float:left;padding:3px 0 0 2px;">
+								<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=6&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0">									<img src="../btvostyle/web/common/all_languages/all_regions/skin/arrow_Down.gif" alt="Descending" />								</a>
+							</div>
+						</th>
+						<th colspan="2" style="padding-left:0px;">
+							<div style="float:left;">
+								<h5>Next start time</h5>
+							</div>
+							<div style="float:left;padding:3px 0 0 7px;">
+								<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0">									<img src="../btvostyle/web/common/all_languages/all_regions/skin/arrow_Up.gif" alt="Ascending" />								</a>
+							</div>
+							<div style="float:left;padding:3px 0 0 2px;">
+								<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=4&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0">									<img src="../btvostyle/web/common/all_languages/all_regions/skin/arrow_Down.gif" alt="Descending" />								</a>
+							</div>
+						</th>
+						<th style="padding-left:0px;">
+							<div style="float:left;">
+								<h5>Channel</h5>
+							</div>
+							<div style="float:left;padding:3px 0 0 7px;">
+								<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=7&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0">									<img src="../btvostyle/web/common/all_languages/all_regions/skin/arrow_Up.gif" alt="Ascending" />								</a>
+							</div>
+							<div style="float:left;padding:3px 0 0 2px;">
+								<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=8&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0">									<img src="../btvostyle/web/common/all_languages/all_regions/skin/arrow_Down.gif" alt="Descending" />								</a>
+							</div>
+						</th>
+					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Agentstvo Zolotaya Pulya&simpleSearchSelectedResultEpisodeTitle=null&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Agentstvo Zolotaya Pulya</a></td>						<td class="stCol2">
+N/A - N/A</td>
+						<td class="stCol31">
+Mon, Sep 08</td>						<td class="stCol32">
+8:00 PM</td>						<td class="stCol4">
+722 RTVi</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=HULK and the Agents Of S.M.A.S.H.&simpleSearchSelectedResultEpisodeTitle=Free preview until September 30th.&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">HULK and the Agents Of S.M.A.S.H.</a></td>						<td class="stCol2">
+Series - N/A</td>
+						<td class="stCol31">
+Fri, Sep 05</td>						<td class="stCol32">
+7:30 PM</td>						<td class="stCol4">
+1653 TTHD</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Hulk et les agents du S.M.A.S.H&simpleSearchSelectedResultEpisodeTitle=Gratuit jusqu%27au 30 septembre.&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Hulk et les agents du S.M.A.S.H</a></td>						<td class="stCol2">
+Series - N/A</td>
+						<td class="stCol31">
+Fri, Sep 05</td>						<td class="stCol32">
+8:00 PM</td>						<td class="stCol4">
+139 TOONF</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Whatever Happened To...%3F&simpleSearchSelectedResultEpisodeTitle=Undercover Agents&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Whatever Happened To...?</a></td>						<td class="stCol2">
+Series, News - Biographical</td>
+						<td class="stCol31">
+Mon, Sep 08</td>						<td class="stCol32">
+9:30 AM</td>						<td class="stCol4">
+636 DEJA</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Skyfall&simpleSearchSelectedResultEpisodeTitle=Skyfall&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Skyfall</a></td>						<td class="stCol2">
+Movie - Action</td>
+						<td class="stCol31">
+Sun, Aug 31</td>						<td class="stCol32">
+8:50 AM</td>						<td class="stCol4">
+1253 MXSHD</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Risky Listing&simpleSearchSelectedResultEpisodeTitle=That%27s Not How Real Estate Works%2C Babe&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Risky Listing</a></td>						<td class="stCol2">
+Series - Reality</td>
+						<td class="stCol31">
+Mon, Sep 01</td>						<td class="stCol32">
+1:00 PM</td>						<td class="stCol4">
+605 FTV</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Border Wars">Border Wars (6)</a></td>						<td class="stCol2">
+Series - Reality</td>
+						<td class="stCol31">
+Sun, Aug 31</td>						<td class="stCol32">
+5:00 AM</td>						<td class="stCol4">
+828 GEOHD</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=The Avengers&simpleSearchSelectedResultEpisodeTitle=The Avengers&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">The Avengers</a></td>						<td class="stCol2">
+Movie - Action</td>
+						<td class="stCol31">
+Mon, Sep 08</td>						<td class="stCol32">
+7:30 PM</td>						<td class="stCol4">
+1270 WBHD</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Line Walker&simpleSearchSelectedResultEpisodeTitle=null&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Line Walker</a></td>						<td class="stCol2">
+N/A - Comedy</td>
+						<td class="stCol31">
+Mon, Sep 01</td>						<td class="stCol32">
+1:00 PM</td>						<td class="stCol4">
+721 FAIR2</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=CSI%3A Miami&simpleSearchSelectedResultEpisodeTitle=Sex %26 Taxes&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">CSI: Miami</a></td>						<td class="stCol2">
+Series - Drama</td>
+						<td class="stCol31">
+Tue, Sep 09</td>						<td class="stCol32">
+12:00 PM</td>						<td class="stCol4">
+615 A&E</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Redemption Inc.&simpleSearchSelectedResultEpisodeTitle=Episode %23102&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Redemption Inc.</a></td>						<td class="stCol2">
+N/A - Reality</td>
+						<td class="stCol31">
+Tue, Sep 09</td>						<td class="stCol32">
+8:00 PM</td>						<td class="stCol4">
+811 radX</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=NCIS">NCIS (2)</a></td>						<td class="stCol2">
+Series - Drama</td>
+						<td class="stCol31">
+Tue, Sep 02</td>						<td class="stCol32">
+1:00 PM</td>						<td class="stCol4">
+335 LTIME</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Red 2 %28v.f.%29&simpleSearchSelectedResultEpisodeTitle=Red 2 %28v.f.%29&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Red 2 (v.f.)</a></td>						<td class="stCol2">
+Movie - Action</td>
+						<td class="stCol31">
+Sun, Aug 31</td>						<td class="stCol32">
+7:00 PM</td>						<td class="stCol4">
+1892 SE3HD</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Chasing Liberty&simpleSearchSelectedResultEpisodeTitle=Chasing Liberty&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Chasing Liberty</a></td>						<td class="stCol2">
+Movie - Romance</td>
+						<td class="stCol31">
+Tue, Sep 09</td>						<td class="stCol32">
+8:00 AM</td>						<td class="stCol4">
+1305 WMOVH</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Criminal Minds&simpleSearchSelectedResultEpisodeTitle=52 Pickup&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Criminal Minds</a></td>						<td class="stCol2">
+Series - Drama</td>
+						<td class="stCol31">
+Sun, Sep 07</td>						<td class="stCol32">
+10:00 AM</td>						<td class="stCol4">
+615 A&E</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=MetaJets&simpleSearchSelectedResultEpisodeTitle=New Recruit&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">MetaJets</a></td>						<td class="stCol2">
+Children - N/A</td>
+						<td class="stCol31">
+Sat, Sep 06</td>						<td class="stCol32">
+6:30 AM</td>						<td class="stCol4">
+564 CN</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=World%27s Scariest Police Shootouts&simpleSearchSelectedResultEpisodeTitle=World%27s Scariest Police Shootouts&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">World's Scariest Police Shootouts</a></td>						<td class="stCol2">
+Series - Drama</td>
+						<td class="stCol31">
+Thu, Sep 11</td>						<td class="stCol32">
+1:25 PM</td>						<td class="stCol4">
+628 SPIKE</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=New Addams Family&simpleSearchSelectedResultEpisodeTitle=Undercover Man&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">New Addams Family</a></td>						<td class="stCol2">
+Series - Comedy</td>
+						<td class="stCol31">
+Tue, Sep 09</td>						<td class="stCol32">
+8:00 AM</td>						<td class="stCol4">
+609 OUTTV</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Duplicit�&simpleSearchSelectedResultEpisodeTitle=Duplicit�&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Duplicit�</a></td>						<td class="stCol2">
+Movie - N/A</td>
+						<td class="stCol31">
+Sun, Aug 31</td>						<td class="stCol32">
+3:00 PM</td>						<td class="stCol4">
+136 ADDIK</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Million Dollar Listing Miami&simpleSearchSelectedResultEpisodeTitle=The Ultimate Luxury Playground&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Million Dollar Listing Miami</a></td>						<td class="stCol2">
+Series - Reality</td>
+						<td class="stCol31">
+Mon, Sep 01</td>						<td class="stCol32">
+10:00 PM</td>						<td class="stCol4">
+27 SLCDv</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Border Rico&simpleSearchSelectedResultEpisodeTitle=null&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Border Rico</a></td>						<td class="stCol2">
+Series - Reality</td>
+						<td class="stCol31">
+Thu, Sep 04</td>						<td class="stCol32">
+2:00 PM</td>						<td class="stCol4">
+91 DTRDV</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Inspecteur Gadget">Inspecteur Gadget (3)</a></td>						<td class="stCol2">
+Children - N/A</td>
+						<td class="stCol31">
+Fri, Sep 05</td>						<td class="stCol32">
+3:30 PM</td>						<td class="stCol4">
+186 TTRF</td>					</tr>
+					<tr>
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=Esprits criminels&simpleSearchSelectedResultEpisodeTitle=La m�moire des sens&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0">Esprits criminels</a></td>						<td class="stCol2">
+Series - Drama</td>
+						<td class="stCol31">
+Sun, Aug 31</td>						<td class="stCol32">
+6:00 AM</td>						<td class="stCol4">
+874 ADDHD</td>					</tr>
+					<tr class="altRow">
+						<td class="stCol1">
+<a class="bwao_search" href="/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=U.S. Drug Wars">U.S. Drug Wars (3)</a></td>						<td class="stCol2">
+Series - Documentary</td>
+						<td class="stCol31">
+Tue, Sep 02</td>						<td class="stCol32">
+11:00 AM</td>						<td class="stCol4">
+631 AHC</td>					</tr>
+				</table>
+</div>
+
+	    </div><!-- end of cBox -->
+	  </div><!-- end of cWrapNB -->
+	   
+
+<div class="cWrap cWrapAlt footerDivider">
+	<div class="lining">
+		<h2 class="hType3 sTitle">What is Bell TV Online?</h2>
+	</div><!-- end of lining -->
+	<div class="refLine">
+		
+		<div class="TwoColumns">
+			<div class="lining">
+				<div class="itemGroup itemGroupAlt">
+	             		<p>
+	                		As a Bell Satellite or Fibe TV client, you'll enjoy access to some of the premium content that you already subscribe to, on demand, on your computer.
+	                	</p>
+	                	<p>
+	                	    You can also manage your Bell TV services online. Check out the online guide to find out what's on TV, program your recordings with the Remote PVR service, and order* Pay-per-view movies and events online.<br /> *Only available to Satellite TV clients.
+	                	</p>
+				</div>
+			</div>	         
+		</div><!-- end of TwoColumns -->
+                            
+		<div class="TwoColumns">
+			<div class="lining">
+				<div class="itemGroupAlt">
+					
+	               	<p><a href="https://mybell.bell.ca/Registration?lang=en">Register</a> or <a href="https://www.bell.ca/mybell/resources/login/invisibleLogin/loginSSO.jsp?action=idsp&SPID=urn:belltv:entityid&RelayState=http://tvonline.bell.ca/tvonline/servlet/CommandServlet?command%3Dflow%26processid%3D165%26simpleSearchKeyWord%3Dagents%26requestedPage%3D0%26requestedSortMethod%3D0%26requestedSearchMethod%3D0%26filterProgramMethod%3D0%26filterProgramType%3D0%26useRelayState=Y">log in</a> to your My Bell account to watch and manage.
+	     				</p>
+	                   <p>
+	                    	<b>Not a Bell Satellite or Fibe TV client?</b><br />
+	                    	You can catch up on popular TV shows from CTV, without logging in.
+	                  	</p>
+				</div>
+			</div>
+		</div><!-- end of TwoColumns -->
+	</div><!-- end of refLine-->
+	<div class="clearer"><!-- --></div>
+</div><!-- end of cWrap-->     
+	</div><!-- end of content -->
+	<div class="clearer"><!-- --></div>	
+	<div class="mainExtra1"><!-- --></div>
+	<div class="mainExtra2"><!-- --></div>
+	<div class="mainExtra3"><!-- --></div>
+	<div class="mainExtra4"><!-- --></div>
+  </div><!-- end subWrap main -->
+</div><!-- end wrapMain -->
+
+		<form name="commandform" method="post" action="/tvonline/servlet/CommandServlet">
+			<input type="hidden" id="command" name="command" value="flow" />
+			<input type="hidden" id="cmdprocessid" name="BEP_HttpProcessID" />
+			<input type="hidden" id="pid" name="processid" value="82"/>
+		</form>
+		
+		<form name="changelanguageform" method="post" action="/tvonline/servlet/CommandServlet">
+			<input type="hidden" id="command" name="command" value="flow" />
+			<input type="hidden" id="lprocessid" name="BEP_HttpProcessID" />
+			<input type="hidden" id="pid" name="processid" value="82"/>
+			<input type="hidden" id="langid" name="lang"/>
+		</form>
+		
+		<form name="changefaqCategoryform" method="post" action="/tvonline/servlet/CommandServlet">
+			<input type="hidden" id="command" name="command" value="flow" />
+			<input type="hidden" id="faqprocessid" name="BEP_HttpProcessID" />
+			<input type="hidden" id="pid" name="processid" value="82"/>
+			<input type="hidden" id="faqcatid" name="FAQ_CAT_ID"/>
+		</form>
+		
+		<form name="secureform" method="post" action="https://tvonline.bell.ca:443/tvonline/servlet/CommandServlet">
+			<input type="hidden" id="command" name="command" value="flow" />
+			<input type="hidden" id="sprocessid" name="processid" />
+		</form>
+		
+			
+
+  
+
+
+
+
+
+<script language=JavaScript> 
+s_cType="";
+function linkCodeTermAndCond(obj) { 
+	s_sSection1=""; 
+	s_sSection2=""; 
+	s_sSection3="legal";
+	s_pName="term and conditions";
+}
+
+function linkCodePrivacy(obj) { 
+	s_sSection1=""; 
+	s_sSection2=""; 
+	s_sSection3="legal";
+	s_pName="privacy policy";
+}    
+
+function newFooterLinkWindow(url,name) 
+{
+	 params  = 'width='+800;
+	 params += ', height='+700;	 
+	 params += ', top=0, left=0'
+	 params += ', modal=yes'
+	 params += ', resizable=yes'
+	 params += ', scrollbars=yes';
+	 if(name == 'BellTVBEPLegalTermAndConditions'){
+		 s_pName = 'BellTV:BEP:Legal:TermAndConditions';		 
+	 }else{
+		 s_pName='BellTV:BEP:Legal:PrivacyPolicy';		
+	 }
+	 newwin=window.open(url,name,params);	 
+}
+</script>
+
+<div class="wrapFooter">
+	<div class="subWrap superFooter">
+			<div class="shell shellThemeA">
+				<div class="colGroup" style="text-align:left;">
+					<div class="col3">
+						<div class="padder">
+							<h2 class="headingType4">Bell TV Online</h2>
+							<p>Watch movies or TV shows online and record and manage your shows from anywhere.</p>
+							<div class="clearer"></div>
+						</div>
+					</div>
+					<div class="col3">
+						<div class="padder">
+							<h2 class="headingType4">Watch Online</h2>
+							<ul>
+								
+											<li><a href="CommandServlet?command=watchonline&pageId=89" title="">Home</a></li>
+								
+											<li><a href="CommandServlet?command=watchonline&pageId=90" title="">TV Shows</a></li>
+								
+											<li><a href="CommandServlet?command=watchonline&pageId=91" title="">Movies</a></li>
+								
+											<li><a href="CommandServlet?command=watchonline&pageId=228" title="">Kids Suite</a></li>
+								
+											<li><a href="CommandServlet?command=watchonline&pageId=128&channelLanguageCode=en" title="">Music</a></li>
+								
+											<li><a href="CommandServlet?command=watchonline&pageId=92" title="">Channels</a></li>
+								
+											<li><a href="CommandServlet?command=watchonline&pageId=135" title="">Watch List</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<div class="col3">
+						<div class="padder">
+							<h2 class="headingType4">What's on TV</h2>
+							<ul>
+								<li><a href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'PPV');" title="">Home</a></li>
+								<li><a href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'PPV');" title="">Pay-per-view</a></li>
+								<li><a href="javascript:gotoProcessWithParameter(357, 'VOD_MOVIE_ASSET_TYPE', 'VOD');" title="">On Demand</a></li>
+								
+                                			<li><a href="javascript:gotoProcess(152)" title="">TV Guide</a></li>
+					            	
+									<li><a href="javascript:gotoProcess(201)" title="">Remote PVR</a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clearer"></div>
+			</div>
+		</div>
+		
+	<div class="subWrap footer fullWidth alignRight">				
+				<div class="lining">               
+                    <ul class="pipeSpacer">
+						<li><a title="" href="javascript:gotoProcess(39)">Send us your feedback</a></li>
+						<li><a title="" href="javascript:gotoFAQCategoryProcess(87,0)">Help</a></li>
+						<li><a title="" href="javascript:newFooterLinkWindow('http://www.bell.ca/Legal_and_terms','BellTVBEPLegalTermAndConditions');">Legal</a></li>
+						<li class="last"><a title="" href="javascript:newFooterLinkWindow('http://support.bell.ca/Customer_service/Security_and_privacy/How_does_Bell_respect_my_privacy' ,'BellTVBEPLegalPrivacyPolicy');">Privacy</a></li>
+					</ul>
+                    
+					<p class="unaccent floatRight alignRight">Please note that the use of Bell TV Online will count towards your Internet usage.<br/>� Bell Canada, 2011. All rights reserved.</p>
+					<div class="clearer"><!-- --></div>
+				</div>
+            </div><!--end of footer-->
+	
+</div><!--end of wrapFooter-->	
+	
+
+		
+	
+</div><!--end of wrapper-->
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+/* <![CDATA[ */
+s_account="belltvportal";
+s_pLang="en";
+s_lStatus="NotLoggedIn";
+s_lId="";
+s_sId="23905213";
+s_cType="";
+/* ]]> */
+</script> 
+
+<script language="JavaScript" src="/tvonline/js/s_code_bell_tv.js?v=12020901"></script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') //-->
+</script>
+
+<!-- End SiteCatalyst code version: H.22.0. -->
+</body>
+</html>

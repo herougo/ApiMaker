@@ -1,0 +1,26 @@
+1 - http://tvonline.bell.ca/tvonline/servlet/CommandServlet?command=flow&processid=165&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=0&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0
+2 - http://tvonline.bell.ca/tvonline/servlet/CommandServlet?command=flow&processid=167&simpleSearchKeyWord=agents&requestedPage=0&requestedSortMethod=3&requestedSearchMethod=0&filterProgramMethod=0&filterProgramType=0&simpleSearchSelectedResultTitle=The%20Avengers&simpleSearchSelectedResultEpisodeTitle=The%20Avengers&occurences=1&prevRequestedPageNum=0&prevRequestedSortMethod=0
+
+3 - http://yugioh.tcgplayer.com/db/deck.asp?deck_id=99372
+
+4 - http://yugioh.tcgplayer.com/db/deck_search.asp
+
+5 - http://yugioh.tcgplayer.com/all_yugioh_sets.asp
+
+6 - http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure+Deck%3A+Realm+of+Light
+
+7 - http://yugioh.tcgplayer.com/db/deck_search_result.asp?Location=YCS%20-%202013-12-01%20Turin%20Italy
+
+8 - http://en.wikipedia.org/wiki/Billy_Talent_discography
+
+9 - http://www.billboard.com/charts/2014-07-19/hot-100
+
+10 - http://www.billboard.com/charts/2014-07-19/hot-mainstream-rock-tracks
+
+11 - http://www.billboard.com/charts/2014-07-19/hard-rock-albums
+
+12 - http://www.billboard.com/charts/2014-07-19/alternative-songs
+
+13 - http://www.imdb.com/title/tt1646971/
+
+14 - http://www.imdb.com/movies-coming-soon/2014-07/

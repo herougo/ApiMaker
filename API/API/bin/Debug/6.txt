@@ -1,0 +1,849 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+	<html xmlns:fb="http://www.facebook.com/2008/fbml">
+	<head>
+	
+	<title>YCS - 2013-12-01 Turin Italy - Yugioh Decklists</title>
+	<META name="Description" content="YCS - 2013-12-01 Turin Italy : Yugioh TCG (YGO)">
+	<META name="keywords" content="YCS - 2013-12-01 Turin Italy, yugioh, store, online, single, card, booster, box, pack, brick, game, mtg, TCG, CCG, CMG, deck, card game, decklist, spoiler, magic, gathering, world, warcraft, wow, mini, miniature, pokemon, trading, collectible">
+
+	<meta property="fb:admins" content="643675054"/>
+	<meta property="fb:app_id" content="136270296395166">
+
+	
+	
+	<link rel="image_src" href="http://yugioh.tcgplayer.com/images/Cards/.jpg" />
+  		<link rel="STYLESHEET" type="text/css" href="/includes/newsite.css"> 
+		<link rel="STYLESHEET" type="text/css" href="/includes/style.css">   
+		<link rel="stylesheet" type="text/css" href="http://yugioh.tcgplayer.com/css/megamenu.css" type="text/css" media="screen"/>
+		<link rel="stylesheet" type="text/css" href="http://yugioh.tcgplayer.com/css/master.css" type="text/css" media="screen"/>
+
+	
+
+  
+    <!--TCG_SLIDER-->
+		<link href='/includes/tcg_slider.css' rel='stylesheet' type='text/css'>
+		<script src="includes/prefixfree.min.js" type="text/javascript"></script> 
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+		<script src="/includes/vticker.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+		<script src="/includes/allinone_thumbnailsBanner.js" type="text/javascript"></script>
+		<!--[if IE]><script src="/includes/excanvas.compiled.js" type="text/javascript"></script><![endif]-->
+		<!-- must have -->
+		<script>
+			jQuery(function() {
+				jQuery('#allinone_thumbnailsBanner_simple').allinone_thumbnailsBanner({
+					skin: 'simple',
+					numberOfThumbsPerScreen:5,
+					width: 645,
+					height: 174,
+			    	thumbsReflection:0,
+					showCircleTimer:false,
+					showNavArrows:false,
+					enableTouchScreen:false,
+					thumbsOnMarginTop:0,
+					effectDuration:0.3, 
+					autoPlay:7
+				});		
+			});
+		</script>
+		<!--TCG_SLIDER_END-->
+		<script language="Javascript">
+<!--
+var axel = Math.random() + "";
+var ord = axel * 1000000000000000000;
+var counter_url = 'http://ad.doubleclick.net/ad/gr.tcgplayer/skin_174_kia;sz=1x2;ord=' + ord;
+//-->
+</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-7438596835425041");
+  GS_googleEnableAllServices();
+</script>
+<script language="JavaScript">
+    GA_googleAddAttr("GameName", "yugioh");
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-7438596835425041", "_TCGplayerOnly_728x90");
+  GA_googleAddSlot("ca-pub-7438596835425041", "_TCGplayerOnly_300x250");
+  GA_googleAddSlot("ca-pub-7438596835425041", "_TCGplayerOnly_160x600");
+  GA_googleAddSlot("ca-pub-7438596835425041", "TCGplayer_Homepage_300x250");
+  GA_googleAddSlot("ca-pub-7438596835425041", "TCGplayer_Homepage_728x90");    
+  GA_googleAddSlot("ca-pub-7438596835425041", "CPM_Tracking_Pixel");
+  GA_googleAddSlot("ca-pub-7438596835425041", "Click_Tracking_Pixel");   
+  GA_googleAddSlot("ca-pub-7438596835425041", "Intergi_728x90");
+  GA_googleAddSlot("ca-pub-7438596835425041", "Intergi_300x250");   
+  GA_googleAddSlot("ca-pub-7438596835425041", "Intergi_160x600");   
+  GA_googleAddSlot("ca-pub-7438596835425041", "GorillaNation_160x600");
+  GA_googleAddSlot("ca-pub-7438596835425041", "GorillaNation_300x250");
+  GA_googleAddSlot("ca-pub-7438596835425041", "GorillaNation_728x90");    
+  GA_googleAddSlot("ca-pub-7438596835425041", "PubGears_160x600");
+  GA_googleAddSlot("ca-pub-7438596835425041", "PubGears_300x250");
+  GA_googleAddSlot("ca-pub-7438596835425041", "PubGears_728x90"); 
+GA_googleAddSlot("ca-pub-7438596835425041", "TCGplayerOnly_545x100");
+GA_googleAddSlot("ca-pub-7438596835425041", "YGO maxpoint");
+GA_googleAddSlot("ca-pub-7438596835425041", "_TCGplayerOnly_Yugioh");
+GA_googleAddSlot("ca-pub-7438596835425041", "YGO-645x100");
+    
+  </script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+
+		<script language="javascript" src="/includes/expandmenu.js" ></script>
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<!--MAIN_HEADER_SECTION_CODE-->
+		<script type="text/javascript">
+			$(document).ready(function() {
+				//start hover function for Products rollover
+				$('div#products-wrapper').hover(
+				 	function() {
+						$('#vertical-navigation').show();
+						//add vn hover
+						$('#vertical-navigation').hover(
+							function() { 
+							$('#vertical-navigation').show();
+							$('.secondary-nav').show();
+						},
+						function() {
+							$('#vertical-navigation').hide();
+						});
+					},
+			    	//end hover function for Products rollover			 
+			    	function () {
+			         	$('div#products-wrapper').hover(
+			         		function() {
+			         			$('#vertical-navigation').show();
+			         		},
+			         		function() {
+								$('#vertical-navigation').hide();
+							});
+					    $('#vertical-navigation').hide();
+			    	});
+				//end document ready	
+			});
+		<!--RESOLCES IE7 ZINDEX BUG-->
+		</script>
+		<script language="javascript" type="text/javascript">    
+    		$(function() {
+       			var zIndexNumber = 1000;
+       			// Put your target element(s) in the selector below!
+       			$("div").each(function() {
+               		$(this).css('zIndex', zIndexNumber);
+               		zIndexNumber -= 10;
+       			});
+			});
+		</script>
+		<!--MAIN_HEADER_SECTION_CODE-->
+		<script src="/includes/jquery.cluetip.js" type="text/javascript"></script>
+		<script type="text/javascript"> $(document).ready(function() {   $('a.tips').cluetip(); $('.hover').cluetip({arrows: true, showTitle: false, dropShadow: false, clickThrough: true, width: 437});}); </script>
+	</head>
+	
+	<body style="background: #ffffff url('http://img.tcgplayer.com/tcg_img/mtg_page/bg.jpg') repeat-y center top;" id="tcg_yugioh_page">
+<table width="975" cellspacing="0" cellpadding=0 valign="top" align=center>
+<tr valign="top" align=center>
+	<td width=975 valign="top" align=center>
+		<table width="975" height="109" cellspacing="0" cellpadding="0" border="0" class=default_7>
+		<tr>
+			<td rowspan="3" valign="top">
+				<table height="109" cellspacing="0" cellpadding="0" border="0" valign="top" id="leader_board_holder">
+				<tr valign="top">
+					<td height="100" valign="top">
+						<div id="logo_holder">
+							<a href="/">
+							<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/tcg_player_logo.jpg" width="206" height="100" border="0" alt="">
+							</a>
+						</div>
+						<div id="leaderboard_top">
+							
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: TCGplayer.com // Page: tcgplayer // Placement: tcgplayer_728x90 (1172126) // created at: Apr 28, 2011 9:24:24 AM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1172126/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=115;misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/1172126/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=115" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/1172126/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=115" border="0" width="728" height="90"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+						</div>
+					</div>
+				</td>
+			</tr>
+			</table>
+			<table width=975 cellspacing="0" cellpadding="0" valign="top">
+			<tr>
+				<td>
+					<!--HOVER NAV STARTS HERE-->
+					<div id="black_top">
+						<!--SHOP_TCG_START-->
+						<div id="products-wrapper">
+							<a href="http://www.tcgplayer.com/" id="products">SHOP</a>
+						</div>
+						<div id="tcg_shop">
+							<ul id="vertical-navigation" class="megamenu">
+								<li class="nav_main first_btn">
+								<!-- CARD SECTION BEGINS HERE -->
+								<div id="tcg_shop_dropdown" class="drop10columns dropcontent width_760">
+									<!-- SHOP CONTENT STARTS HERE -->
+									<div class="col_3">
+										<h4>Latest Sets</h4>
+										<ul class="image_list">
+											<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/duelist-alliance">Duelist Alliance</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/duelist-alliance">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/duelist-alliance?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/battle-pack-3-monster-league">Battle Pack 3: Monster League</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/battle-pack-3-monster-league">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/battle-pack-3-monster-league?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/astral-pack-5">Astral Pack 5</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/astral-pack-5">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/astral-pack-5?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown">Super Starter: Space-Time Showdown</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown">SS: Space-Time Showdown Power-up Pack</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown-power-up-pack">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown-power-up-pack?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://store.tcgplayer.com/yugioh/primal-origin">SD: Realm of Light</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://store.tcgplayer.com/yugioh/structure-deck-realm-of-light">Singles</a></span>
+                        						<span><a href="http://store.tcgplayer.com/yugioh/structure-deck-realm-of-light?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					
+                        					
+											
+											
+										</ul>
+									</div>
+									<div class="col_3">
+										<div style="height:24px; margin-bottom:5px">
+										</div>
+										<ul class="image_list">
+											<li>
+                        					<a href="http://store.tcgplayer.com/yugioh/primal-origin">Primal Origin</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://store.tcgplayer.com/yugioh/primal-origin">Singles</a></span>
+                        						<span><a href="http://store.tcgplayer.com/yugioh/primal-origin?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://store.tcgplayer.com/yugioh/dragons-of-legend">Dragons of Legend</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://store.tcgplayer.com/yugioh/dragons-of-legend">Singles</a></span>
+                        						<span><a href="http://store.tcgplayer.com/yugioh/dragons-of-legend?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+											<a href="http://store.tcgplayer.com/yugioh/premium-gold">Premium Gold</a>
+											<div class="singles_sealed_wrapper">
+												<span><a href="http://store.tcgplayer.com/yugioh/premium-gold">Singles</a></span>
+												<span><a href="http://store.tcgplayer.com/yugioh/premium-gold?IsSealed=True">Sealed</a></span>
+											</div>
+											</li>
+											<li>
+											<a href="http://store.tcgplayer.com/yugioh/structure-deck-cyber-dragon-revolution">SD: Cyber Dragon Revolution</a>
+											<div class="singles_sealed_wrapper">
+												<span><a href="http://store.tcgplayer.com/yugioh/structure-deck-cyber-dragon-revolution">Singles</a></span>
+												<span><a href="http://store.tcgplayer.com/yugioh/structure-deck-cyber-dragon-revolution?IsSealed=True">Sealed</a></span>
+											</div>
+											</li>
+											<li>
+											<a href="http://store.tcgplayer.com/yugioh/astral-pack-4">Astral Pack 4</a>
+											<div class="singles_sealed_wrapper">
+												<span><a href="http://store.tcgplayer.com/yugioh/astral-pack-4">Singles</a></span>
+												<span><a href="http://store.tcgplayer.com/yugioh/astral-pack-4?IsSealed=True">Sealed</a></span>
+											</div>
+											</li>
+											<li>
+											<a href="http://store.tcgplayer.com/yugioh/legacy-of-the-valiant">Legacy of the Valiant</a>
+											<div class="singles_sealed_wrapper">
+												<span><a href="http://store.tcgplayer.com/yugioh/legacy-of-the-valiant">Singles</a></span>
+												<span><a href="http://store.tcgplayer.com/yugioh/legacy-of-the-valiant?IsSealed=True">Sealed</a></span>
+											</div>
+											</li>
+											
+											
+											<li>
+											<a href="http://store.tcgplayer.com/yugioh/battle-pack-2-war-of-the-giants">Advanced Search &#8594;</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+								</li>
+								<!-- CARD SECTION ENDS HERE -->
+							</ul>
+						</div>
+						<!--TCG_SHOP_END-->
+						<div id="tcg_drop_viewer" class="megamenu_container menu_grey">
+							<!-- Begin Menu Container -->
+							<ul class="megamenu">
+								<!-- Begin Mega Menu -->
+								<!--SELL ON TCG END-->
+								<li class="nav_main first_btn">
+								<a href="http://store.tcgplayer.com/help/sellwithtcgplayer" class="drop">SELL WITH US</a>
+								</li>
+								<!--SELL ON TCG END-->
+								<li class="nav_main">
+								<a href="http://yugioh.tcgplayer.com/db/Search.asp" class="drop">CARDS<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/down.png" alt="" class="down_pointer"/></a>
+								<!-- CARD SECTION BEGINS HERE -->
+								<div id="cards" class="drop10columns dropcontent width_760">
+									<!-- CARDS CONTENT BEGINS HERE -->
+									<div class="col_3">
+										<h4>Latest Sets</h4>
+										<ul class="image_list">
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Duelist+Alliance">Duelist Alliance</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Battle+Pack+3%3A+Monster+League">Battle Pack 3: Monster League</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Astral+Pack+5">Astral Pack 5</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Super+Starter%3A+Space-Time+Showdown">Super Starter: Space-Time Showdown</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Super+Starter%3A+Space-Time+Showdown+Power-Up+Pack">SS: Space-Time Showdown Power-up Pack</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Structure+Deck%3A+Realm+of+Light">SD: Realm of Light</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Primal%20Origin">Primal Origin</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Dragons%20of%20Legend">Dragons of Legend</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Premium%20Gold">Premium Gold</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Structure%20Deck:%20Cyber%20Dragon%20Revolution">SD: Cyber Dragon Revolution</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Astral%20Pack%204">Astral Pack 4</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Legacy%20of%20the%20Valiant">Legacy of the Valiant</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter+Deck%3A+Kaiba+Reloaded">Starter Deck: Kaiba Reloaded</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter+Deck%3A+Yugi+Reloaded">Starter Deck: Yugi Reloaded</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2013+Collectors+Tins+Wave+2">2013 Collectors Tins Wave 2</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Shadow%20Specters">Shadow Specters</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Legendary%20Collection%204:%20Joey%27s%20World">Legendary Collection 4</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Structure%20Deck:%20Saga%20of%20Blue-Eyes%20White%20Dragon">SD: Saga of Blue-Eyes White Dragon</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=2013%20Collectible%20Tins%20Wave%201">2013 Collectors Tins</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Judgment%20of%20the%20Light">Judgment of the Light</a></li>
+										</ul>
+									</div>
+									<div class="col_3 width_204">
+										<div class="list_container width_204 no_border round_4">
+											<a href="http://yugioh.tcgplayer.com/all_yugioh_sets.asp" class="grey_text">Card Search &#8594;</a>
+										</div>
+										<div class="col_3 width_204 zero_margin">
+											<hr/>
+										</div>
+										<!--MEGA PROMO 204x90 BEGINS-->
+										<div class="col_3 width_204 row_3">
+											<div class="image_holder">
+												<a href="http://store.tcgplayer.com/yugioh/primal-origin">
+												<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/primal-org.jpg" class="first_in_row" alt=""/>
+												</a>
+											</div>
+										</div>
+										<div class="col_3 width_204 zero_margin">
+											<hr/>
+										</div>
+									</div>
+									<!--MEGA PROMO 204x90 BEGINS-->
+									<div class="col_3 width_204 row_3">
+										<div class="image_holder">
+											<a href="http://store.tcgplayer.com/yugioh/dragons-of-legend">
+											<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/dragons-of-legend-1.jpg" class="first_in_row" alt=""/>
+											</a>
+										</div>
+									</div>
+								</div>
+								</li>
+								<!-- CARD SECTION ENDS HERE -->
+								<li class="nav_main">
+								<a href="http://yugioh.tcgplayer.com/db/deck_search.asp" class="drop">Decks<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/down.png" alt="" class="down_pointer"/></a>
+								<!-- DECK BEGINS HERE -->
+								<div id="decks" class="drop10columns dropcontent">
+									<!-- DECKS CONTENT BEGINS HERE -->
+									<div class="col_4 row_1 width_336">
+										<h4>Deck Formats</h4>
+										<ul>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?format=Advanced">Advanced Decks</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?format=Traditional">Traditional Decks</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?MDA=1">My Public Decks</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?PC=1">My Private Decks</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search.asp">View All Decks &#8594;</a></li>
+										</ul>
+										<div class="clear">
+										</div>
+										<hr class="blank_rule"/>
+									</div>
+									<div class="col_3 row_1 ">
+										<h4>Latest Tournament Decks</h4>
+										<ul>
+											<li><a href="/db/deck_search_result.asp?Location=YCS%20-%202013-12-01%20Turin%20Italy">YCS - 2013-12-01 Turin Italy</a></li>
+											<li><a href="/db/deck_search_result.asp?Location=Regional%20-%202013-12-07%20Mesa%20Arizona">Regional - 2013-12-07 Mesa Arizona</a></li>
+											<li><a href="/db/deck_search_result.asp?Location=Regional%20-%202013-12-08%20Norcross%20Georgia">Regional - 2013-12-08 Norcross Georgia</a></li>
+											<li><a href="/db/deck_search_result.asp?Location=Regional%20-%202013-12-07%20Miami%20Florida">Regional - 2013-12-07 Miami Florida</a></li>
+										</ul>
+									</div>
+									<hr/>
+									<!--DECK SERCH BOTTOM-->
+									<div class="col_8">
+										<ul class="float_left">
+											<li class="dk_first"><a href="http://yugioh.tcgplayer.com/db/deck_search.asp">Deck Search &#8594;</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/SubmitDeck.asp">Submit a Deck &#8594;</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?PC=1">View My Private Deck &#8594;</a></li>
+											<li class="dk_last"><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?MDA=1">View My Public Deck &#8594;</a></li>
+										</ul>
+									</div>
+									<!--DECK SERCH BOTTOM-->
+									<!--<hr/>-->
+									<!--<div class="col_9 row_3">
+                    											<div class="image_holder">
+                    												<a href="#"><img src="http://yugioh.tcgplayer.com/reno/images/TID_1/764x80_promo.jpg"  class="first_in_row" alt="" /></a>
+                    											</div>
+                											</div>-->
+								</div>
+								<!-- End Item container -->
+								</li>
+								<!-- DECKS SECTION ENDS HERE -->
+								<li class="nav_main">
+								<a href="http://yugioh.tcgplayer.com/db/article_search.asp" class="drop">ARTICLES<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/down.png" alt="" class="down_pointer"/></a>
+								<!-- >ARTICLES BEGINS HERE -->
+								<div id="articles" class="drop8columns dropcontent">
+									<!-- ARTICLES CONTENT BEGINS HERE -->
+									<div class="col_2">
+										<h4>Reports</h4>
+										<ul>
+											<li><a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=Tourney%20Reports">Tourney Reports</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=Deck%20Strategy">Deck Strategy</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=Limited%20Strategy">Sealed Pack</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=Card+Set%20Reviews">Card Reviews</a></li>
+										</ul>
+									</div>
+									<div class="col_2">
+										<div class="list_container width_130 no_border round_4">
+											<a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=news" class="main_link last_item view_more">News &#8594;</a>
+										</div>
+										<hr class="blank_rule"/>
+										<div class="list_container width_130 no_border round_4">
+											<a href="http://yugioh.tcgplayer.com/db/article_search.asp" class="main_link last_item view_more">Article Search &#8594;</a>
+										</div>
+									</div>
+								</div>
+								</li>
+								<li class="nav_main">
+								<a href="http://magic.tcgplayer.com/draft/" class="drop apps_and_uti">APPS<img src="http://img.tcgplayer.com/tcg_img/nav/media/down.png" alt="" class="down_pointer"/></a>
+								<!-- APPS SECTION BEGINS HERE -->
+								<div id="apps" class="drop8columns dropcontent">
+									<!-- APPS CONTENT BEGINS HERE -->
+									<div class="col_3">
+										<h4>Android Apps</h4>
+										<ul class="image_list">
+											<li><a href="https://play.google.com/store/apps/details?id=com.littlepancake.quicktrader.yugioh">
+											<img src="http://img.tcgplayer.com/tcg_img/nav/media/icons/apps/quicktrader.png" class="list_image" alt=""/>YuGiOh! Quick Trader</a></li>
+											<li><a href="https://play.google.com/store/apps/details?id=com.themunsonsapps.yugiohwishlist">
+											<img src="http://img.tcgplayer.com/tcg_img/nav/media/icons/apps/wishlist.png" class="list_image" alt=""/>YuGiOh! Wishlist</a></li>
+										</ul>
+										<h4>Windows Phone</h4>
+										<ul class="image_list">
+											<li><a href="http://www.windowsphone.com/en-us/store/app/yu-gi-oh-duel-disk/07438eb9-378d-422e-903a-de2b35885b25">
+											<img src="http://img.tcgplayer.com/tcg_img/nav/media/icons/apps/dualdisk.png" class="list_image" alt=""/>Yu-Gi-Oh's Duel Disk</a></li>
+										</ul>
+									</div>
+									<div class="appImg">
+										<a href="http://store.tcgplayer.com/faq.aspx#Q9"><img src="http://img.tcgplayer.com/tcg_img/nav/media/icons/apps/yugioh-apps.jpg" /></a>
+									</div>
+									<div class="clear">
+									</div>
+								</div>
+								</li>
+								<!-- ARTICLES ENDS HERE -->
+							</ul>
+							<!-- End Mega Menu -->
+							<!-- SEARCH FORM BEGINS HERE -->
+							<div class="float_right_mga">
+								<div class="megamenu top_nave_search no_bg">
+									<form id="autofill_search" action="/db/search_result.asp" method="POST">
+										<input id="Name" class="ac_input" type="text" onblur="if (this.value == '') {this.value = 'Enter a Card Name';}" onfocus="if(this.value == 'Enter a Card Name') {this.value = '';}" value="Enter a Card Name" size="30" name="Name" autocomplete="off">
+										<input class="search_btn" type="submit" value="Search" name="submit_button">
+									</form>
+								</div>
+								<!-- FORMS END -->
+								<!-- SOCIAL LINK BEGINS HERE-->
+								<div class="social_container">
+									<ul class="megamenu">
+										<li class="sm_facebook social_btn"><a href="http://www.facebook.com/YGOatTCGplayer">facebook</a></li>
+										<li class="sm_twitter social_btn"><a href="https://twitter.com/YGOatTCGplayer">twitter</a></li>
+									</ul>
+								</div>
+								<!-- SOCIAL LINK ENDS -->
+							</div>
+						</div>
+						<!-- End Menu Container -->
+					</div>
+					<!--HOVER NAV ENDS HERE-->
+					<div style="clear:both; height:0px">
+					</div>
+				</td>
+			</tr>
+			</table>
+			<table width=975 cellspacing="0" cellpadding="0" valign="top" id="main_page_content">
+			<tr>
+				<!-- End Menu -->
+				<td width="645" valign="top" class=default_8 align=left>
+	<div class="bodyWrap">
+	
+
+<h4><B>Location: YCS - 2013-12-01 Turin Italy</b></h4>
+
+
+
+	<TABLE WIDTH="630"  bgcolor="#0E5B93" CELLPADDING=1 CELLSPACING=0 HEIGHT=28 ALIGN=left ID="Table1">
+		<TR>
+			<TD style="padding-left:5px;" WIDTH=140 ALIGN=left VALIGN=middle><A HREF="deck_search_result.asp?Location=YCS - 2013-12-01 Turin Italy&order_by=style, deck_name"><FONT FACE=arial SIZE=2 COLOR=WHITE>Title</font></A></TD>
+			<TD WIDTH=155 ALIGN=left VALIGN=middle><A HREF="deck_search_result.asp?Location=YCS - 2013-12-01 Turin Italy&order_by=style,creator"><FONT FACE=arial SIZE=2 COLOR=WHITE>Player</font></A></TD>
+			<TD WIDTH=70 ALIGN=left VALIGN=middle><A HREF="deck_search_result.asp?Location=YCS - 2013-12-01 Turin Italy&order_by=style,EnteredDate Desc"><FONT FACE=arial SIZE=2 COLOR=WHITE>Date</font></A></TD>
+			<TD WIDTH=60 ALIGN=left VALIGN=middle><A HREF="deck_search_result.asp?Location=YCS - 2013-12-01 Turin Italy&order_by=style,Place"><FONT FACE=arial SIZE=2 COLOR=WHITE>Place</font></A></TD>
+			<TD WIDTH=50 ALIGN=left VALIGN=middle><A HREF="deck_search_result.asp?Location=YCS - 2013-12-01 Turin Italy&order_by=style, Avg_Rating Desc"><FONT FACE=arial SIZE=2 COLOR=WHITE>Rating</font></A></TD>
+		</TR>
+	</TABLE>
+
+			
+			<TABLE WIDTH=630 CELLPADDING=1 CELLSPACING=0 BORDER=0 ALIGN=left>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99014">Karakuri Geargia</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Samuel Pedigo">Samuel Pedigo</A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>12/6/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>1st</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle bgcolor=efefef>
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99035">Mythic Rulers</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Konrad Grunewald ">Konrad Grunewald </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>12/7/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>2nd</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle >
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99037">Dragon Rulers w/ Influence Dragon</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Joshua Schmidt ">Joshua Schmidt </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>12/7/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>3rd - 4th</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle bgcolor=efefef>
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99036">Dragunity Rulers</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Jan Oliver Gross ">Jan Oliver Gross </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>12/7/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>3rd - 4th</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle >
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99055">Dragon Rulers</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Alpay Engin ">Alpay Engin </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>12/8/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>5th - 8th</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle bgcolor=efefef>
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99040">Evilswarm</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Aris Samaras ">Aris Samaras </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>12/7/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>5th - 8th</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle >
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99039">Dragon Rulers w/ Influence Dragon</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Michel Gruner ">Michel Gruner </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>12/7/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>5th - 8th</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle bgcolor=efefef>
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99038">4-Axis Fire Fist</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Kevin Langenberg ">Kevin Langenberg </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>12/7/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>5th - 8th</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle >
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99101">Geargia Karakuri</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Matej Jakob">Matej Jakob</A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>12/12/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>9th - 16th</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle bgcolor=efefef>
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99042">Dragon Rulers</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle ><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Michele Bergamasco ">Michele Bergamasco </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>12/7/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle ><FONT FACE=arial SIZE=2>9th - 16th</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle >
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+			<TR>
+				<TD WIDTH=140 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck.asp?deck_id=99041">Bujins</A></FONT></TD>
+				<TD WIDTH=155 ALIGN=left VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2><A HREF="/db/deck_search_result.asp?Creator=Dustin Sembach ">Dustin Sembach </A></FONT></TD>
+				<TD WIDTH=70 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>12/7/2013</FONT></TD>
+				<TD WIDTH=60 ALIGN=left  VALIGN=middle bgcolor=efefef><FONT FACE=arial SIZE=2>m17th - 32nd</FONT></TD>
+				<TD WIDTH=50 ALIGN=left  VALIGN=middle bgcolor=efefef>
+					<TABLE width=100% CELLPADDING=0 CELLSPACING=0><TR><TD ALIGN=left><FONT FACE=arial SIZE=1>0 / 0</FONT></TD>
+						
+					</TR></TABLE>
+				</TD>
+			</TR>
+
+		</TABLE>
+
+
+<br>
+</div>
+<div class="sidebarWrap">
+	<script type="text/javascript" src="http://maxpoint.tcgplayer.com/api/upcomingeventswidget?category=ygo&partnerKey=TCGTEST"></script>
+	
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: TCGplayer.com // Page: tcgplayer // Placement: tcgplayer_300x250 (1172125) // created at: May 12, 2010 3:10:41 AM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1172125/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/1172125/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/1172125/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag -->
+<div>
+	<div class="infoboxHeader" >
+		<h1><a href="http://shop.tcgplayer.com/yugioh/duelist-alliance">Duelist Alliance</a></h1>
+	</div>
+	<div class="infoboxContent">
+		<B>
+		<div class=default_8>
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Dante, Traveler of the Burning Abyss"><img src='/images/hover-arrow-fill.gif' border=0>Dante, Traveler of the Burning Abyss </a> - as low as <font color=red>$42.95</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Satellarknight Deneb"><img src='/images/hover-arrow-fill.gif' border=0>Satellarknight Deneb </a> - as low as <font color=red>$35.09</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=El Shaddoll Winda"><img src='/images/hover-arrow-fill.gif' border=0>El Shaddoll Winda </a> - as low as <font color=red>$29.49</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Sinister Shadow Games"><img src='/images/hover-arrow-fill.gif' border=0>Sinister Shadow Games </a> - as low as <font color=red>$26.00</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Yang Zing Path"><img src='/images/hover-arrow-fill.gif' border=0>Yang Zing Path </a> - as low as <font color=red>$18.91</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Odd-Eyes Pendulum Dragon"><img src='/images/hover-arrow-fill.gif' border=0>Odd-Eyes Pendulum Dragon </a> - as low as <font color=red>$16.01</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Stellarnova Alpha"><img src='/images/hover-arrow-fill.gif' border=0>Stellarnova Alpha </a> - as low as <font color=red>$16.00</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Time-Space Trap Hole"><img src='/images/hover-arrow-fill.gif' border=0>Time-Space Trap Hole </a> - as low as <font color=red>$15.10</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Shaddoll Fusion"><img src='/images/hover-arrow-fill.gif' border=0>Shaddoll Fusion </a> - as low as <font color=red>$14.82</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Odd-Eyes Pendulum Dragon"><img src='/images/hover-arrow-fill.gif' border=0>Odd-Eyes Pendulum Dragon </a> - as low as <font color=red>$13.90</font><BR>
+
+			
+		</div>
+		</b>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-620217-1");
+pageTracker._setDomainName(".tcgplayer.com");
+pageTracker._setAllowHash(false);
+pageTracker._setAllowLinker();
+pageTracker._trackPageview();
+</script>
+
+<!-- Compete XL Code for tcgplayer.com -->
+<script type="text/javascript">
+__compete_code = '3b9bf7435962953a151bc15fa3e5daea';
+/* Set control variables below this line. */
+</script>
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/3b9bf7435962953a151bc15fa3e5daea/tcgplayer-com/bootstrap.js"></script>
+<noscript>
+    <img width="1" height="1" src="https://ssl-tcgplayer-com-3b9bf7.c-col.com"/>
+</noscript>
+
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: TCGplayer.com // Page: tcgplayer // Placement: tcgplayer_1x1 (1306956) // created at: Jun 25, 2010 3:24:02 PM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1306956/0/16/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/1306956/0/16/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/1306956/0/16/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="1" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+	<div class="twitterShare">
+		<a href="http://twitter.com/YGOatTCGplayer"><img width="300px"src="http://img.tcgplayer.com/tcg_img/ecom/Twitter-icon.png" border=0 align=left></a>
+	</div>
+	<br style="clear: both;">
+</div>
+
+<div class="footerWrap">
+	<div class="footerBanner">
+		<script type="text/javascript"> var images = [], index = 0; images[0] = "<a href='http://store.tcgplayer.com/help/corevalues#white' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_1.png' alt='Core Value 1'></a>"; images[1] = "<a href='http://store.tcgplayer.com/help/corevalues#blue' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_2.png' alt='Core Value 2'></a>"; images[2] = "<a href='http://store.tcgplayer.com/help/corevalues#black' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_3.png' alt='Core Value 3'></a>"; images[3] = "<a href='http://store.tcgplayer.com/help/corevalues#red' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_4.png' alt='Core Value 4'></a>"; images[4] = "<a href='http://store.tcgplayer.com/help/corevalues#green' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_5.png' alt='Core Value 5'></a>";index = Math.floor(Math.random() * images.length); document.write(images[index]); //done </script>
+		<div class="socialIcons">
+			<a href="https://www.facebook.com/YGOatTCGplayer"><img src="http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/facebook.png" /></a>
+			<a href="https://twitter.com/YGOatTCGplayer"><img src="http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/twitter.png" /></a>
+		</div>
+	</div>
+	<div class="footerMain">
+		<div class="footerCol">
+			<h3>SHOP</h3>
+			<ul>
+				<li><a href="http://shop.tcgplayer.com/yugioh/duelist-alliance">Duelist Alliance</a></li>
+				<li><a href="http://shop.tcgplayer.com/yugioh/battle-pack-3-monster-league">Battle Pack 3: Monster League</a></li>
+				<li><a href="http://shop.tcgplayer.com/yugioh/astral-pack-5">Astral Pack 5</a></li>
+				<li><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown">Super Starter: Space-Time Showdown</a></li>
+				<li><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown-power-up-pack">Super Starter: Space-Time Showdown Power-up Pack</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/primal-origin">SD: Realm of Light</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/primal-origin">Primal Origin</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/dragons-of-legend">Dragons of Legend</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/premium-gold">Premium Gold</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/structure-deck-cyber-dragon-revolution">SD: Cyber Dragon Revolution</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/astral-pack-4">Astral Pack 4</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh" title="">VIEW ALL SETS &rarr;</a></li>
+			</ul>
+			<h3>SELL WITH US</h3>
+			<ul>
+				<li><a href="http://store.tcgplayer.com/help/sellwithtcgplayer" title="">Sell With TCGplayer</a></li>
+			</ul>
+		</div>
+		<div class="footerCol">
+			<h3>CARDS</h3>
+			<ul>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist+Alliance">Duelist Alliance</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Battle+Pack+3%3A+Monster+League">Battle Pack 3: Monster League</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Astral+Pack+5">Astral Pack 5</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Super+Starter%3A+Space-Time+Showdown">Super Starter: Space-Time Showdown</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Super+Starter%3A+Space-Time+Showdown+Power-Up+Pack">Super Starter: Space-Time Showdown Power-up Pack</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure+Deck%3A+Realm+of+Light">SD: Realm of Light</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Primal%20Origin">Primal Origin</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Dragons%20of%20Legend">Dragons of Legend</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Premium%20Gold">Premium Gold</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Structure%20Deck:%20Cyber%20Dragon%20Revolution">SD: Cyber Dragon Revolution</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Astral%20Pack%204">Astral Pack 4</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Legacy%20of%20the%20Valiant">Legacy of the Valiant</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter+Deck%3A+Kaiba+Reloaded">Starter Deck: Kaiba Reloaded</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter+Deck%3A+Yugi+Reloaded">Starter Deck: Yugi Reloaded</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/all_yugioh_sets.asp">VIEW MORE SETS &rarr;</a></li>
+			</ul>
+		</div>
+		<div class="footerCol">
+			<h3>DECKS</h3>
+			<ul>
+				<li><a href="/db/deck_search_result.asp?format=Advanced" >Advanced Decks</a></li>
+          		<li><a href="/db/deck_search_result.asp?format=Traditional" >Traditional Decks</a></li>
+          		<li><a href="/db/deck_search_result.asp?MDA=1" title="January 2011">My Public Decks</a></li>
+          		<li><a href="/db/deck_search_result.asp?PC=1" >My Private Decks</a></li>
+          		<li><a href="/db/SubmitDeck.asp" >Submit a Deck</a></li>
+          		<li><a href="http://yugioh.tcgplayer.com/db/deck_search.asp" >DECK SEARCH &rarr;</a></li>
+			</ul>
+			<h3>ARTICLES</h3>
+			<ul>
+				<li><a href="/db/article_search_result.asp?report_type=Tourney%20Reports" >Tourney Reports</a></li>
+        		<li><a href="/db/article_search_result.asp?report_type=Deck%20Strategy" >Deck Strategy</a></li>
+        		<li><a href="/db/article_search_result.asp?report_type=Limited%20Strategy" title="January 2011">Sealed Pack</a></li>
+        		<li><a href="/db/article_search_result.asp?report_type=Card+Set%20Reviews" >Card Reviews</a></li>
+        		<li><a href="/db/article_search_result.asp?report_type=news" >News</a></li>
+        		<li><a href="/db/article_search.asp" >ARTICLE SEARCH &rarr;</a></li>
+			</ul>
+		</div>
+		<div class="footerCol">
+			<h3>HOW CAN WE HELP?</h3>
+			<ul>
+				<li><a href="mailto:sales@tcgplayer.com">sales@tcgplayer.com</a></li>
+				<li><a href="http://store.tcgplayer.com/faq.aspx">Help Center</a></li>
+				<li><a href="http://store.tcgplayer.com/help/buyersafeguard">Buyer Safeguard</a></li>
+			</ul>
+			<h3>ABOUT TCGPLAYER</h3>
+			<ul>
+				<li><a href="http://store.tcgplayer.com/help/corevalues">Our Core Values</a></li>
+				<li><a href="http://store.tcgplayer.com/help/workingattcgplayer">Working at TCGplayer</a></li>
+				<li><a href="http://store.tcgplayer.com/help/careers">Careers</a></li>
+				<li><a href="http://store.tcgplayer.com/help/contactus">Contact Us</a></li>
+			</ul>
+		</div>
+		<div class="footerCol">
+			<a href="http://tcgplayer.polldaddy.com/s/your-tcgplayer-store-experience"><img src="http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/teamtcgplayer_feedback.png" /></a>
+		</div>
+	</div>
+	<div class="bottomEdge"></div>
+	<div class="footerBottom">
+		<p>All original content herein is Copyright 2014 Ascension Gaming Network, Inc. TCGplayer and MaxPoint are trademarks of Ascension Gaming Network, Inc.<br>
+		No portion of this web site may be used without expressed written consent.All rights reserved.<br><a href="http://www.wizards.com/Magic/Summoner/">Magic the Gathering</a> and it's respective properties are copyright <a href="http://company.wizards.com/">Wizards of the Coast</a><br><a href="http://magic.tcgplayer.com/privacy.asp">Privacy Policy</a></p>
+		
+	</div>
+</div>

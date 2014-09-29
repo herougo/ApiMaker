@@ -1,0 +1,2673 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+	<head>
+		<title>Yugioh Strategy and Decks at TCG player.com: Tradable and Collectible Game Player</title>
+		<META name="Description" content="Articles, news, decks and card price guides for the TCG / CMG / game that you play">
+		<META name="keywords" content="card, game, TCG, CCG, CMG, deck, card game, decklist">
+
+		<link rel="STYLESHEET" type="text/css" href="/includes/newsite.css"> 
+		<link rel="STYLESHEET" type="text/css" href="/includes/style.css">   
+		<link rel="stylesheet" type="text/css" href="http://yugioh.tcgplayer.com/css/megamenu.css" type="text/css" media="screen"/>
+		<link rel="stylesheet" type="text/css" href="http://yugioh.tcgplayer.com/css/master.css" type="text/css" media="screen"/>
+		
+		<!--TCG_SLIDER-->
+		<link href='/includes/tcg_slider.css' rel='stylesheet' type='text/css'>
+		<script src="includes/prefixfree.min.js" type="text/javascript"></script> 
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+		<script src="/includes/vticker.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.23/jquery-ui.min.js"></script>
+		<script src="/includes/allinone_thumbnailsBanner.js" type="text/javascript"></script>
+		<!--[if IE]><script src="/includes/excanvas.compiled.js" type="text/javascript"></script><![endif]-->
+		<!-- must have -->
+
+		<script>
+			jQuery(function() {
+				jQuery('#allinone_thumbnailsBanner_simple').allinone_thumbnailsBanner({
+					skin: 'simple',
+					numberOfThumbsPerScreen:5,
+					width: 645,
+					height: 174,
+			    	thumbsReflection:0,
+					showCircleTimer:false,
+					showNavArrows:false,
+					enableTouchScreen:false,
+					thumbsOnMarginTop:0,
+					effectDuration:0.3, 
+					autoPlay:7
+				});		
+			});
+		</script>
+		<!--TCG_SLIDER_END-->
+		<script language="Javascript">
+<!--
+var axel = Math.random() + "";
+var ord = axel * 1000000000000000000;
+var counter_url = 'http://ad.doubleclick.net/ad/gr.tcgplayer/skin_174_kia;sz=1x2;ord=' + ord;
+//-->
+</script>
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-7438596835425041");
+  GS_googleEnableAllServices();
+</script>
+<script language="JavaScript">
+    GA_googleAddAttr("GameName", "yugioh");
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-7438596835425041", "_TCGplayerOnly_728x90");
+  GA_googleAddSlot("ca-pub-7438596835425041", "_TCGplayerOnly_300x250");
+  GA_googleAddSlot("ca-pub-7438596835425041", "_TCGplayerOnly_160x600");
+  GA_googleAddSlot("ca-pub-7438596835425041", "TCGplayer_Homepage_300x250");
+  GA_googleAddSlot("ca-pub-7438596835425041", "TCGplayer_Homepage_728x90");    
+  GA_googleAddSlot("ca-pub-7438596835425041", "CPM_Tracking_Pixel");
+  GA_googleAddSlot("ca-pub-7438596835425041", "Click_Tracking_Pixel");   
+  GA_googleAddSlot("ca-pub-7438596835425041", "Intergi_728x90");
+  GA_googleAddSlot("ca-pub-7438596835425041", "Intergi_300x250");   
+  GA_googleAddSlot("ca-pub-7438596835425041", "Intergi_160x600");   
+  GA_googleAddSlot("ca-pub-7438596835425041", "GorillaNation_160x600");
+  GA_googleAddSlot("ca-pub-7438596835425041", "GorillaNation_300x250");
+  GA_googleAddSlot("ca-pub-7438596835425041", "GorillaNation_728x90");    
+  GA_googleAddSlot("ca-pub-7438596835425041", "PubGears_160x600");
+  GA_googleAddSlot("ca-pub-7438596835425041", "PubGears_300x250");
+  GA_googleAddSlot("ca-pub-7438596835425041", "PubGears_728x90"); 
+GA_googleAddSlot("ca-pub-7438596835425041", "TCGplayerOnly_545x100");
+GA_googleAddSlot("ca-pub-7438596835425041", "YGO maxpoint");
+GA_googleAddSlot("ca-pub-7438596835425041", "_TCGplayerOnly_Yugioh");
+GA_googleAddSlot("ca-pub-7438596835425041", "YGO-645x100");
+    
+  </script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+
+		<!--<script language="javascript" src="/includes/jquery.js" ></script>-->
+		<script language="javascript" src="/includes/expandmenu.js" ></script>
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<!--MAIN_HEADER_SECTION_CODE-->
+		<script type="text/javascript">
+			$(document).ready(function() {
+				//start hover function for Products rollover
+				$('div#products-wrapper').hover(
+				 	function() {
+						$('#vertical-navigation').show();
+						//add vn hover
+						$('#vertical-navigation').hover(
+							function() { 
+							$('#vertical-navigation').show();
+							$('.secondary-nav').show();
+						},
+						function() {
+							$('#vertical-navigation').hide();
+						});
+					},
+			    	//end hover function for Products rollover			 
+			    	function () {
+			         	$('div#products-wrapper').hover(
+			         		function() {
+			         			$('#vertical-navigation').show();
+			         		},
+			         		function() {
+								$('#vertical-navigation').hide();
+							});
+					    $('#vertical-navigation').hide();
+			    	});
+				//end document ready	
+			});
+		<!--RESOLCES IE7 ZINDEX BUG-->
+		</script>
+		<!-- AutoComplete -->	
+		<link rel="stylesheet" href="../includes/jquery.autocomplete.css" type="text/css" />
+		<script language="javascript" type="text/javascript" src="../includes/jquery.autocomplete.js"></script>
+		<script language="javascript1.3" src="../includes/expandmenu.js"></script>
+		<script language="javascript" type="text/javascript">
+    		var key;
+	
+			$(document).ready(function(){
+        		$("#Name").autocomplete(
+					"/GetCards_Autofill_test.asp",
+				{
+					extraParams: function() {
+					key = Math.floor(Math.random()*165468787);
+					return {r:key};
+					},
+					cacheLength:0,
+					scrollHeight:850,
+					selectFirst:false,
+					delay:75,
+					minChars:1,
+					matchContains:1,
+					width:250,
+					highlight:false,
+					formatItem: function(data, i, n, value) {
+						return value.split("~~~")[0];
+					},
+					formatResult: function(data, value) {
+						return value.split("~~~")[1];
+					}
+				}
+				).result(function(event, item) {
+					$("#autofill_search").submit();
+				});
+    		});
+		</script>
+		<!-- End AutoComplete -->
+		<script language="javascript" type="text/javascript">    
+    		$(function() {
+       			var zIndexNumber = 1000;
+       			// Put your target element(s) in the selector below!
+       			$("div").each(function() {
+               		$(this).css('zIndex', zIndexNumber);
+               		zIndexNumber -= 10;
+       			});
+			});
+		</script>
+	<!--MAIN_HEADER_SECTION_CODE-->
+	</head>
+	<body style="background: #ffffff url('http://img.tcgplayer.com/tcg_img/mtg_page/bg.jpg') repeat-y center top;" id="tcg_yugioh_page">
+<table width="975" cellspacing="0" cellpadding=0 valign="top" align=center>
+<tr valign="top" align=center>
+	<td width=975 valign="top" align=center>
+		<table width="975" height="109" cellspacing="0" cellpadding="0" border="0" class=default_7>
+		<tr>
+			<td rowspan="3" valign="top">
+				<table height="109" cellspacing="0" cellpadding="0" border="0" valign="top" id="leader_board_holder">
+				<tr valign="top">
+					<td height="100" valign="top">
+						<div id="logo_holder">
+							<a href="/">
+							<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/tcg_player_logo.jpg" width="206" height="100" border="0" alt="">
+							</a>
+						</div>
+						<div id="leaderboard_top">
+							
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: TCGplayer.com // Page: tcgplayer // Placement: tcgplayer_728x90 (1172126) // created at: Apr 28, 2011 9:24:24 AM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1172126/0/225/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=115;misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/1172126/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=115" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/1172126/0/225/ADTECH;loc=300;key=key1+key2+key3+key4;grp=115" border="0" width="728" height="90"></a></noscript>
+<!-- End of JavaScript Tag -->
+
+						</div>
+					</div>
+				</td>
+			</tr>
+			</table>
+			<table width=975 cellspacing="0" cellpadding="0" valign="top">
+			<tr>
+				<td>
+					<!--HOVER NAV STARTS HERE-->
+					<div id="black_top">
+						<!--SHOP_TCG_START-->
+						<div id="products-wrapper">
+							<a href="http://www.tcgplayer.com/" id="products">SHOP</a>
+						</div>
+						<div id="tcg_shop">
+							<ul id="vertical-navigation" class="megamenu">
+								<li class="nav_main first_btn">
+								<!-- CARD SECTION BEGINS HERE -->
+								<div id="tcg_shop_dropdown" class="drop10columns dropcontent width_760">
+									<!-- SHOP CONTENT STARTS HERE -->
+									<div class="col_3">
+										<h4>Latest Sets</h4>
+										<ul class="image_list">
+											<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/duelist-alliance">Duelist Alliance</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/duelist-alliance">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/duelist-alliance?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/battle-pack-3-monster-league">Battle Pack 3: Monster League</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/battle-pack-3-monster-league">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/battle-pack-3-monster-league?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/astral-pack-5">Astral Pack 5</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/astral-pack-5">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/astral-pack-5?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown">Super Starter: Space-Time Showdown</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown">SS: Space-Time Showdown Power-up Pack</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown-power-up-pack">Singles</a></span>
+                        						<span><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown-power-up-pack?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://store.tcgplayer.com/yugioh/primal-origin">SD: Realm of Light</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://store.tcgplayer.com/yugioh/structure-deck-realm-of-light">Singles</a></span>
+                        						<span><a href="http://store.tcgplayer.com/yugioh/structure-deck-realm-of-light?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					
+                        					
+											
+											
+										</ul>
+									</div>
+									<div class="col_3">
+										<div style="height:24px; margin-bottom:5px">
+										</div>
+										<ul class="image_list">
+											<li>
+                        					<a href="http://store.tcgplayer.com/yugioh/primal-origin">Primal Origin</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://store.tcgplayer.com/yugioh/primal-origin">Singles</a></span>
+                        						<span><a href="http://store.tcgplayer.com/yugioh/primal-origin?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+                        					<a href="http://store.tcgplayer.com/yugioh/dragons-of-legend">Dragons of Legend</a>
+                        					<div class="singles_sealed_wrapper">
+                        						<span><a href="http://store.tcgplayer.com/yugioh/dragons-of-legend">Singles</a></span>
+                        						<span><a href="http://store.tcgplayer.com/yugioh/dragons-of-legend?IsSealed=True">Sealed</a></span>
+                        					</div>
+                        					</li>
+                        					<li>
+											<a href="http://store.tcgplayer.com/yugioh/premium-gold">Premium Gold</a>
+											<div class="singles_sealed_wrapper">
+												<span><a href="http://store.tcgplayer.com/yugioh/premium-gold">Singles</a></span>
+												<span><a href="http://store.tcgplayer.com/yugioh/premium-gold?IsSealed=True">Sealed</a></span>
+											</div>
+											</li>
+											<li>
+											<a href="http://store.tcgplayer.com/yugioh/structure-deck-cyber-dragon-revolution">SD: Cyber Dragon Revolution</a>
+											<div class="singles_sealed_wrapper">
+												<span><a href="http://store.tcgplayer.com/yugioh/structure-deck-cyber-dragon-revolution">Singles</a></span>
+												<span><a href="http://store.tcgplayer.com/yugioh/structure-deck-cyber-dragon-revolution?IsSealed=True">Sealed</a></span>
+											</div>
+											</li>
+											<li>
+											<a href="http://store.tcgplayer.com/yugioh/astral-pack-4">Astral Pack 4</a>
+											<div class="singles_sealed_wrapper">
+												<span><a href="http://store.tcgplayer.com/yugioh/astral-pack-4">Singles</a></span>
+												<span><a href="http://store.tcgplayer.com/yugioh/astral-pack-4?IsSealed=True">Sealed</a></span>
+											</div>
+											</li>
+											<li>
+											<a href="http://store.tcgplayer.com/yugioh/legacy-of-the-valiant">Legacy of the Valiant</a>
+											<div class="singles_sealed_wrapper">
+												<span><a href="http://store.tcgplayer.com/yugioh/legacy-of-the-valiant">Singles</a></span>
+												<span><a href="http://store.tcgplayer.com/yugioh/legacy-of-the-valiant?IsSealed=True">Sealed</a></span>
+											</div>
+											</li>
+											
+											
+											<li>
+											<a href="http://store.tcgplayer.com/yugioh/battle-pack-2-war-of-the-giants">Advanced Search &#8594;</a>
+											</li>
+										</ul>
+									</div>
+								</div>
+								</li>
+								<!-- CARD SECTION ENDS HERE -->
+							</ul>
+						</div>
+						<!--TCG_SHOP_END-->
+						<div id="tcg_drop_viewer" class="megamenu_container menu_grey">
+							<!-- Begin Menu Container -->
+							<ul class="megamenu">
+								<!-- Begin Mega Menu -->
+								<!--SELL ON TCG END-->
+								<li class="nav_main first_btn">
+								<a href="http://store.tcgplayer.com/help/sellwithtcgplayer" class="drop">SELL WITH US</a>
+								</li>
+								<!--SELL ON TCG END-->
+								<li class="nav_main">
+								<a href="http://yugioh.tcgplayer.com/db/Search.asp" class="drop">CARDS<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/down.png" alt="" class="down_pointer"/></a>
+								<!-- CARD SECTION BEGINS HERE -->
+								<div id="cards" class="drop10columns dropcontent width_760">
+									<!-- CARDS CONTENT BEGINS HERE -->
+									<div class="col_3">
+										<h4>Latest Sets</h4>
+										<ul class="image_list">
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Duelist+Alliance">Duelist Alliance</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Battle+Pack+3%3A+Monster+League">Battle Pack 3: Monster League</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Astral+Pack+5">Astral Pack 5</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Super+Starter%3A+Space-Time+Showdown">Super Starter: Space-Time Showdown</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Super+Starter%3A+Space-Time+Showdown+Power-Up+Pack">SS: Space-Time Showdown Power-up Pack</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Structure+Deck%3A+Realm+of+Light">SD: Realm of Light</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Primal%20Origin">Primal Origin</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Dragons%20of%20Legend">Dragons of Legend</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Premium%20Gold">Premium Gold</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Structure%20Deck:%20Cyber%20Dragon%20Revolution">SD: Cyber Dragon Revolution</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Astral%20Pack%204">Astral Pack 4</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Legacy%20of%20the%20Valiant">Legacy of the Valiant</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter+Deck%3A+Kaiba+Reloaded">Starter Deck: Kaiba Reloaded</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter+Deck%3A+Yugi+Reloaded">Starter Deck: Yugi Reloaded</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2013+Collectors+Tins+Wave+2">2013 Collectors Tins Wave 2</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Shadow%20Specters">Shadow Specters</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Legendary%20Collection%204:%20Joey%27s%20World">Legendary Collection 4</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Structure%20Deck:%20Saga%20of%20Blue-Eyes%20White%20Dragon">SD: Saga of Blue-Eyes White Dragon</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=2013%20Collectible%20Tins%20Wave%201">2013 Collectors Tins</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Judgment%20of%20the%20Light">Judgment of the Light</a></li>
+										</ul>
+									</div>
+									<div class="col_3 width_204">
+										<div class="list_container width_204 no_border round_4">
+											<a href="http://yugioh.tcgplayer.com/all_yugioh_sets.asp" class="grey_text">Card Search &#8594;</a>
+										</div>
+										<div class="col_3 width_204 zero_margin">
+											<hr/>
+										</div>
+										<!--MEGA PROMO 204x90 BEGINS-->
+										<div class="col_3 width_204 row_3">
+											<div class="image_holder">
+												<a href="http://store.tcgplayer.com/yugioh/primal-origin">
+												<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/primal-org.jpg" class="first_in_row" alt=""/>
+												</a>
+											</div>
+										</div>
+										<div class="col_3 width_204 zero_margin">
+											<hr/>
+										</div>
+									</div>
+									<!--MEGA PROMO 204x90 BEGINS-->
+									<div class="col_3 width_204 row_3">
+										<div class="image_holder">
+											<a href="http://store.tcgplayer.com/yugioh/dragons-of-legend">
+											<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/dragons-of-legend-1.jpg" class="first_in_row" alt=""/>
+											</a>
+										</div>
+									</div>
+								</div>
+								</li>
+								<!-- CARD SECTION ENDS HERE -->
+								<li class="nav_main">
+								<a href="http://yugioh.tcgplayer.com/db/deck_search.asp" class="drop">Decks<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/down.png" alt="" class="down_pointer"/></a>
+								<!-- DECK BEGINS HERE -->
+								<div id="decks" class="drop10columns dropcontent">
+									<!-- DECKS CONTENT BEGINS HERE -->
+									<div class="col_4 row_1 width_336">
+										<h4>Deck Formats</h4>
+										<ul>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?format=Advanced">Advanced Decks</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?format=Traditional">Traditional Decks</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?MDA=1">My Public Decks</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?PC=1">My Private Decks</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search.asp">View All Decks &#8594;</a></li>
+										</ul>
+										<div class="clear">
+										</div>
+										<hr class="blank_rule"/>
+									</div>
+									<div class="col_3 row_1 ">
+										<h4>Latest Tournament Decks</h4>
+										<ul>
+											<li><a href="/db/deck_search_result.asp?Location=YCS%20-%202013-12-01%20Turin%20Italy">YCS - 2013-12-01 Turin Italy</a></li>
+											<li><a href="/db/deck_search_result.asp?Location=Regional%20-%202013-12-07%20Mesa%20Arizona">Regional - 2013-12-07 Mesa Arizona</a></li>
+											<li><a href="/db/deck_search_result.asp?Location=Regional%20-%202013-12-08%20Norcross%20Georgia">Regional - 2013-12-08 Norcross Georgia</a></li>
+											<li><a href="/db/deck_search_result.asp?Location=Regional%20-%202013-12-07%20Miami%20Florida">Regional - 2013-12-07 Miami Florida</a></li>
+										</ul>
+									</div>
+									<hr/>
+									<!--DECK SERCH BOTTOM-->
+									<div class="col_8">
+										<ul class="float_left">
+											<li class="dk_first"><a href="http://yugioh.tcgplayer.com/db/deck_search.asp">Deck Search &#8594;</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/SubmitDeck.asp">Submit a Deck &#8594;</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?PC=1">View My Private Deck &#8594;</a></li>
+											<li class="dk_last"><a href="http://yugioh.tcgplayer.com/db/deck_search_result.asp?MDA=1">View My Public Deck &#8594;</a></li>
+										</ul>
+									</div>
+									<!--DECK SERCH BOTTOM-->
+									<!--<hr/>-->
+									<!--<div class="col_9 row_3">
+                    											<div class="image_holder">
+                    												<a href="#"><img src="http://yugioh.tcgplayer.com/reno/images/TID_1/764x80_promo.jpg"  class="first_in_row" alt="" /></a>
+                    											</div>
+                											</div>-->
+								</div>
+								<!-- End Item container -->
+								</li>
+								<!-- DECKS SECTION ENDS HERE -->
+								<li class="nav_main">
+								<a href="http://yugioh.tcgplayer.com/db/article_search.asp" class="drop">ARTICLES<img src="http://yugioh.tcgplayer.com/reno/images/TID_1/down.png" alt="" class="down_pointer"/></a>
+								<!-- >ARTICLES BEGINS HERE -->
+								<div id="articles" class="drop8columns dropcontent">
+									<!-- ARTICLES CONTENT BEGINS HERE -->
+									<div class="col_2">
+										<h4>Reports</h4>
+										<ul>
+											<li><a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=Tourney%20Reports">Tourney Reports</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=Deck%20Strategy">Deck Strategy</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=Limited%20Strategy">Sealed Pack</a></li>
+											<li><a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=Card+Set%20Reviews">Card Reviews</a></li>
+										</ul>
+									</div>
+									<div class="col_2">
+										<div class="list_container width_130 no_border round_4">
+											<a href="http://yugioh.tcgplayer.com/db/article_search_result.asp?report_type=news" class="main_link last_item view_more">News &#8594;</a>
+										</div>
+										<hr class="blank_rule"/>
+										<div class="list_container width_130 no_border round_4">
+											<a href="http://yugioh.tcgplayer.com/db/article_search.asp" class="main_link last_item view_more">Article Search &#8594;</a>
+										</div>
+									</div>
+								</div>
+								</li>
+								<li class="nav_main">
+								<a href="http://magic.tcgplayer.com/draft/" class="drop apps_and_uti">APPS<img src="http://img.tcgplayer.com/tcg_img/nav/media/down.png" alt="" class="down_pointer"/></a>
+								<!-- APPS SECTION BEGINS HERE -->
+								<div id="apps" class="drop8columns dropcontent">
+									<!-- APPS CONTENT BEGINS HERE -->
+									<div class="col_3">
+										<h4>Android Apps</h4>
+										<ul class="image_list">
+											<li><a href="https://play.google.com/store/apps/details?id=com.littlepancake.quicktrader.yugioh">
+											<img src="http://img.tcgplayer.com/tcg_img/nav/media/icons/apps/quicktrader.png" class="list_image" alt=""/>YuGiOh! Quick Trader</a></li>
+											<li><a href="https://play.google.com/store/apps/details?id=com.themunsonsapps.yugiohwishlist">
+											<img src="http://img.tcgplayer.com/tcg_img/nav/media/icons/apps/wishlist.png" class="list_image" alt=""/>YuGiOh! Wishlist</a></li>
+										</ul>
+										<h4>Windows Phone</h4>
+										<ul class="image_list">
+											<li><a href="http://www.windowsphone.com/en-us/store/app/yu-gi-oh-duel-disk/07438eb9-378d-422e-903a-de2b35885b25">
+											<img src="http://img.tcgplayer.com/tcg_img/nav/media/icons/apps/dualdisk.png" class="list_image" alt=""/>Yu-Gi-Oh's Duel Disk</a></li>
+										</ul>
+									</div>
+									<div class="appImg">
+										<a href="http://store.tcgplayer.com/faq.aspx#Q9"><img src="http://img.tcgplayer.com/tcg_img/nav/media/icons/apps/yugioh-apps.jpg" /></a>
+									</div>
+									<div class="clear">
+									</div>
+								</div>
+								</li>
+								<!-- ARTICLES ENDS HERE -->
+							</ul>
+							<!-- End Mega Menu -->
+							<!-- SEARCH FORM BEGINS HERE -->
+							<div class="float_right_mga">
+								<div class="megamenu top_nave_search no_bg">
+									<form id="autofill_search" action="/db/search_result.asp" method="POST">
+										<input id="Name" class="ac_input" type="text" onblur="if (this.value == '') {this.value = 'Enter a Card Name';}" onfocus="if(this.value == 'Enter a Card Name') {this.value = '';}" value="Enter a Card Name" size="30" name="Name" autocomplete="off">
+										<input class="search_btn" type="submit" value="Search" name="submit_button">
+									</form>
+								</div>
+								<!-- FORMS END -->
+								<!-- SOCIAL LINK BEGINS HERE-->
+								<div class="social_container">
+									<ul class="megamenu">
+										<li class="sm_facebook social_btn"><a href="http://www.facebook.com/YGOatTCGplayer">facebook</a></li>
+										<li class="sm_twitter social_btn"><a href="https://twitter.com/YGOatTCGplayer">twitter</a></li>
+									</ul>
+								</div>
+								<!-- SOCIAL LINK ENDS -->
+							</div>
+						</div>
+						<!-- End Menu Container -->
+					</div>
+					<!--HOVER NAV ENDS HERE-->
+					<div style="clear:both; height:0px">
+					</div>
+				</td>
+			</tr>
+			</table>
+			<table width=975 cellspacing="0" cellpadding="0" valign="top" id="main_page_content">
+			<tr>
+				<!-- End Menu -->
+				<td width="645" valign="top" class=default_8 align=left>
+<div class="bodyWrap">
+  <h2><b>Yugioh Card Search</b></h2>
+        <form id="form1" name="form1" method="get" action="/db/search_result.asp">
+        <table cellpadding="0" cellspacing="3" border="0" width="500" align="center">
+            <tr>
+                <td class="default_9">
+                    <strong><font face=arial size=2>Set Name:</font></strong>
+                </td>
+                <td class="default_9">
+   <select name="SetName">
+		<option value="">All</option>
+
+		<option value="2002 Collectors Tin">2002 Collectors Tin</option>
+
+		<option value="2003 Collectors Tin">2003 Collectors Tin</option>
+
+		<option value="2004 Collectors Tin">2004 Collectors Tin</option>
+
+		<option value="2005 Collectors Tin">2005 Collectors Tin</option>
+
+		<option value="2006 Collectors Tin">2006 Collectors Tin</option>
+
+		<option value="2007 Collectors Tin">2007 Collectors Tin</option>
+
+		<option value="2008 Collectors Tin">2008 Collectors Tin</option>
+
+		<option value="2009 Collectors Tin">2009 Collectors Tin</option>
+
+		<option value="2010 Collectors Tins">2010 Collectors Tins</option>
+
+		<option value="2010 Duelist Pack Collection Tin">2010 Duelist Pack Collection Tin</option>
+
+		<option value="2011 Collectors Tins">2011 Collectors Tins</option>
+
+		<option value="2011 Duelist Pack Tin">2011 Duelist Pack Tin</option>
+
+		<option value="2012 Collectors Tin">2012 Collectors Tin</option>
+
+		<option value="2012 Premium Collection Tin">2012 Premium Collection Tin</option>
+
+		<option value="2013 Collectible Tins Wave 1">2013 Collectible Tins Wave 1</option>
+
+		<option value="2013 Collectors Tins Wave 1">2013 Collectors Tins Wave 1</option>
+
+		<option value="2013 Collectors Tins Wave 2">2013 Collectors Tins Wave 2</option>
+
+		<option value="2013 Zexal Collection Tin">2013 Zexal Collection Tin</option>
+
+		<option value="2014 Mega-Tin Mega-Pack">2014 Mega-Tin Mega-Pack</option>
+
+		<option value="2014 Mega-Tins">2014 Mega-Tins</option>
+
+		<option value="5D's 2008 English Starter Deck">5D's 2008 English Starter Deck</option>
+
+		<option value="5D's 2008 Starter Deck">5D's 2008 Starter Deck</option>
+
+		<option value="5D's Starter Deck 2009">5D's Starter Deck 2009</option>
+
+		<option value="Absolute Powerforce">Absolute Powerforce</option>
+
+		<option value="Absolute Powerforce: Special Edition">Absolute Powerforce: Special Edition</option>
+
+		<option value="Abyss Rising">Abyss Rising</option>
+
+		<option value="Abyss Rising SE">Abyss Rising SE</option>
+
+		<option value="American God Cards">American God Cards</option>
+
+		<option value="Ancient Prophecy">Ancient Prophecy</option>
+
+		<option value="Ancient Prophecy SE">Ancient Prophecy SE</option>
+
+		<option value="Ancient Sanctuary">Ancient Sanctuary</option>
+
+		<option value="Anniversary Pack">Anniversary Pack</option>
+
+		<option value="Astral Pack 1">Astral Pack 1</option>
+
+		<option value="Astral Pack 2">Astral Pack 2</option>
+
+		<option value="Astral Pack 3">Astral Pack 3</option>
+
+		<option value="Astral Pack 4">Astral Pack 4</option>
+
+		<option value="Astral Pack 5">Astral Pack 5</option>
+
+		<option value="Battle Pack 2: War of the Giants">Battle Pack 2: War of the Giants</option>
+
+		<option value="Battle Pack 2: War of the Giants – Round 2">Battle Pack 2: War of the Giants – Round 2</option>
+
+		<option value="Battle Pack 3: Monster League">Battle Pack 3: Monster League</option>
+
+		<option value="Battle Pack Tournament Prize Cards">Battle Pack Tournament Prize Cards</option>
+
+		<option value="Battle Pack: Epic Dawn">Battle Pack: Epic Dawn</option>
+
+		<option value="Bonds Beyond Time Movie Pack">Bonds Beyond Time Movie Pack</option>
+
+		<option value="Capsule Monster Coliseum">Capsule Monster Coliseum</option>
+
+		<option value="Champion Pack 1">Champion Pack 1</option>
+
+		<option value="Champion Pack 2">Champion Pack 2</option>
+
+		<option value="Champion Pack 3">Champion Pack 3</option>
+
+		<option value="Champion Pack 4">Champion Pack 4</option>
+
+		<option value="Champion Pack 5">Champion Pack 5</option>
+
+		<option value="Champion Pack 6">Champion Pack 6</option>
+
+		<option value="Champion Pack 7">Champion Pack 7</option>
+
+		<option value="Champion Pack 8">Champion Pack 8</option>
+
+		<option value="Cosmo Blazer">Cosmo Blazer</option>
+
+		<option value="Cosmo Blazer SE">Cosmo Blazer SE</option>
+
+		<option value="Crimson Crisis">Crimson Crisis</option>
+
+		<option value="Crossroads of Chaos">Crossroads of Chaos</option>
+
+		<option value="Cyberdark Impact">Cyberdark Impact</option>
+
+		<option value="Cybernetic Revolution">Cybernetic Revolution</option>
+
+		<option value="Dark Beginnings 1">Dark Beginnings 1</option>
+
+		<option value="Dark Beginnings 2">Dark Beginnings 2</option>
+
+		<option value="Dark Crisis">Dark Crisis</option>
+
+		<option value="Dark Duel Stories">Dark Duel Stories</option>
+
+		<option value="Dark Legends">Dark Legends</option>
+
+		<option value="Dark Legends Promo Card">Dark Legends Promo Card</option>
+
+		<option value="Dark Revelation 1">Dark Revelation 1</option>
+
+		<option value="Dark Revelation Volume 4">Dark Revelation Volume 4</option>
+
+		<option value="Dark Revelations 1">Dark Revelations 1</option>
+
+		<option value="Dark Revelations 2">Dark Revelations 2</option>
+
+		<option value="Dark Revelations 3">Dark Revelations 3</option>
+
+		<option value="Dawn of Destiny Xbox">Dawn of Destiny Xbox</option>
+
+		<option value="Demo Pack">Demo Pack</option>
+
+		<option value="Destiny Board Traveler Promo">Destiny Board Traveler Promo</option>
+
+		<option value="Dragon's Roar Structure Deck">Dragon's Roar Structure Deck</option>
+
+		<option value="Dragons of Legend">Dragons of Legend</option>
+
+		<option value="Duel Master's Guide">Duel Master's Guide</option>
+
+		<option value="Duel Terminal - Preview">Duel Terminal - Preview</option>
+
+		<option value="Duel Terminal 1">Duel Terminal 1</option>
+
+		<option value="Duel Terminal 2">Duel Terminal 2</option>
+
+		<option value="Duel Terminal 3">Duel Terminal 3</option>
+
+		<option value="Duel Terminal 4">Duel Terminal 4</option>
+
+		<option value="Duel Terminal 5">Duel Terminal 5</option>
+
+		<option value="Duel Terminal 6">Duel Terminal 6</option>
+
+		<option value="Duel Terminal 7">Duel Terminal 7</option>
+
+		<option value="Duel Transer Promo Cards">Duel Transer Promo Cards</option>
+
+		<option value="Duelist Alliance">Duelist Alliance</option>
+
+		<option value="Duelist Genesis">Duelist Genesis</option>
+
+		<option value="Duelist League Promo">Duelist League Promo</option>
+
+		<option value="Duelist of the Roses">Duelist of the Roses</option>
+
+		<option value="Duelist Pack – Yugi">Duelist Pack – Yugi</option>
+
+		<option value="Duelist Pack 10 - Yusei 3">Duelist Pack 10 - Yusei 3</option>
+
+		<option value="Duelist Pack 11 - Crow">Duelist Pack 11 - Crow</option>
+
+		<option value="Duelist Pack 7">Duelist Pack 7</option>
+
+		<option value="Duelist Pack 8 - Yusei Fudo">Duelist Pack 8 - Yusei Fudo</option>
+
+		<option value="Duelist Pack 9 – Yusei 2">Duelist Pack 9 – Yusei 2</option>
+
+		<option value="Duelist Pack Aster Phoenix">Duelist Pack Aster Phoenix</option>
+
+		<option value="Duelist Pack Chazz Princeton">Duelist Pack Chazz Princeton</option>
+
+		<option value="Duelist Pack Collection Tin">Duelist Pack Collection Tin</option>
+
+		<option value="Duelist Pack Jaden Yuki">Duelist Pack Jaden Yuki</option>
+
+		<option value="Duelist Pack Jaden Yuki 2">Duelist Pack Jaden Yuki 2</option>
+
+		<option value="Duelist Pack Special Edition">Duelist Pack Special Edition</option>
+
+		<option value="Duelist Pack Zane Truesdale">Duelist Pack Zane Truesdale</option>
+
+		<option value="Duelist Pack: Kaiba">Duelist Pack: Kaiba</option>
+
+		<option value="Duelist Revolution">Duelist Revolution</option>
+
+		<option value="Duelist Revolution SE">Duelist Revolution SE</option>
+
+		<option value="Elemental Energy">Elemental Energy</option>
+
+		<option value="Elemental Hero Collection 1">Elemental Hero Collection 1</option>
+
+		<option value="Enemy of Justice">Enemy of Justice</option>
+
+		<option value="Eternal Duelist Soul">Eternal Duelist Soul</option>
+
+		<option value="Exclusive Tin 2009">Exclusive Tin 2009</option>
+
+		<option value="Extreme Victory">Extreme Victory</option>
+
+		<option value="Fire Fists Special Editon">Fire Fists Special Editon</option>
+
+		<option value="Flaming Eternity">Flaming Eternity</option>
+
+		<option value="Forbidden Legacy 1">Forbidden Legacy 1</option>
+
+		<option value="Forbidden Memories">Forbidden Memories</option>
+
+		<option value="Force of the Breaker">Force of the Breaker</option>
+
+		<option value="Galactic Overlord">Galactic Overlord</option>
+
+		<option value="Generation Force">Generation Force</option>
+
+		<option value="Generation Force SE">Generation Force SE</option>
+
+		<option value="Gladiator's Assault">Gladiator's Assault</option>
+
+		<option value="Gladiator's Assault SE">Gladiator's Assault SE</option>
+
+		<option value="Gold Series 2008">Gold Series 2008</option>
+
+		<option value="Gold Series 2009">Gold Series 2009</option>
+
+		<option value="Gold Series 3">Gold Series 3</option>
+
+		<option value="Gold Series 4: Pyramids Edition">Gold Series 4: Pyramids Edition</option>
+
+		<option value="Gold Series: Haunted Mine">Gold Series: Haunted Mine</option>
+
+		<option value="GX Duel Academy GBA Promo">GX Duel Academy GBA Promo</option>
+
+		<option value="GX Manga Promo">GX Manga Promo</option>
+
+		<option value="GX Next Generation Blister Pack Promo">GX Next Generation Blister Pack Promo</option>
+
+		<option value="GX Spirit Caller Promo">GX Spirit Caller Promo</option>
+
+		<option value="GX Tag Force 2 Promo">GX Tag Force 2 Promo</option>
+
+		<option value="GX Tag Force Promo">GX Tag Force Promo</option>
+
+		<option value="GX Ultimate Beginner's Pack 1">GX Ultimate Beginner's Pack 1</option>
+
+		<option value="Hidden Arsenal">Hidden Arsenal</option>
+
+		<option value="Hidden Arsenal 2">Hidden Arsenal 2</option>
+
+		<option value="Hidden Arsenal 3">Hidden Arsenal 3</option>
+
+		<option value="Hidden Arsenal 4">Hidden Arsenal 4</option>
+
+		<option value="Hidden Arsenal 5: Steelswarm Invasion">Hidden Arsenal 5: Steelswarm Invasion</option>
+
+		<option value="Hidden Arsenal 5: Steelswarm Invasion SE">Hidden Arsenal 5: Steelswarm Invasion SE</option>
+
+		<option value="Hidden Arsenal 6: Omega Xyz">Hidden Arsenal 6: Omega Xyz</option>
+
+		<option value="Hidden Arsenal 7: Knight of Stars">Hidden Arsenal 7: Knight of Stars</option>
+
+		<option value="Hidden Arsenal: Special Edition">Hidden Arsenal: Special Edition</option>
+
+		<option value="Hobby League 1">Hobby League 1</option>
+
+		<option value="Hobby League 2">Hobby League 2</option>
+
+		<option value="Hobby League 3">Hobby League 3</option>
+
+		<option value="Hobby League 4">Hobby League 4</option>
+
+		<option value="Hobby League 5">Hobby League 5</option>
+
+		<option value="Hobby League 6">Hobby League 6</option>
+
+		<option value="Hobby League 7">Hobby League 7</option>
+
+		<option value="Invasion of Chaos">Invasion of Chaos</option>
+
+		<option value="Jaden Yuki Vol 3 GX Duelist Pack">Jaden Yuki Vol 3 GX Duelist Pack</option>
+
+		<option value="Jesse Anderson Vol 3 GX Duelist Pack">Jesse Anderson Vol 3 GX Duelist Pack</option>
+
+		<option value="Judgment of the Light">Judgment of the Light</option>
+
+		<option value="Judgment of the Light: Deluxe Edition">Judgment of the Light: Deluxe Edition</option>
+
+		<option value="Jump Award">Jump Award</option>
+
+		<option value="Kaiba Evolution Starter Deck">Kaiba Evolution Starter Deck</option>
+
+		<option value="Labryinth of Nightmare">Labryinth of Nightmare</option>
+
+		<option value="Legacy of Darkness">Legacy of Darkness</option>
+
+		<option value="Legacy of the Valiant">Legacy of the Valiant</option>
+
+		<option value="Legendary Collection 1">Legendary Collection 1</option>
+
+		<option value="Legendary Collection 2">Legendary Collection 2</option>
+
+		<option value="Legendary Collection 3: Yugi's World">Legendary Collection 3: Yugi's World</option>
+
+		<option value="Legendary Collection 4: Joey's World">Legendary Collection 4: Joey's World</option>
+
+		<option value="Light and Darkness Power Pack">Light and Darkness Power Pack</option>
+
+		<option value="Light of Destruction">Light of Destruction</option>
+
+		<option value="Lord of the Tachyon Galaxy">Lord of the Tachyon Galaxy</option>
+
+		<option value="Lost Millenium">Lost Millenium</option>
+
+		<option value="Lost Millennium SE">Lost Millennium SE</option>
+
+		<option value="Magic Ruler">Magic Ruler</option>
+
+		<option value="Magician's Force">Magician's Force</option>
+
+		<option value="Master Collection Volume 1">Master Collection Volume 1</option>
+
+		<option value="Master Collection Volume 2">Master Collection Volume 2</option>
+
+		<option value="Mattel Action Figure Promos: Series 1">Mattel Action Figure Promos: Series 1</option>
+
+		<option value="Mattel Action Figure Promos: Series 2">Mattel Action Figure Promos: Series 2</option>
+
+		<option value="McDonald's Promo">McDonald's Promo</option>
+
+		<option value="McDonald's Promo Series 2">McDonald's Promo Series 2</option>
+
+		<option value="Metal Raiders">Metal Raiders</option>
+
+		<option value="Nintendo DS Nightmare of Troubadour">Nintendo DS Nightmare of Troubadour</option>
+
+		<option value="Number Hunters">Number Hunters</option>
+
+		<option value="Order of Chaos">Order of Chaos</option>
+
+		<option value="Order of Chaos SE">Order of Chaos SE</option>
+
+		<option value="Phantom Darkness">Phantom Darkness</option>
+
+		<option value="Pharaoh's Servant">Pharaoh's Servant</option>
+
+		<option value="Pharaonic Guardian">Pharaonic Guardian</option>
+
+		<option value="Photon Shockwave">Photon Shockwave</option>
+
+		<option value="Power of Chaos: Joey the Passion">Power of Chaos: Joey the Passion</option>
+
+		<option value="Power of Chaos: Kaiba the Revenge">Power of Chaos: Kaiba the Revenge</option>
+
+		<option value="Power of Chaos: Yugi the Destiny">Power of Chaos: Yugi the Destiny</option>
+
+		<option value="Power of the Duelist">Power of the Duelist</option>
+
+		<option value="Premium Gold">Premium Gold</option>
+
+		<option value="Premium Pack 1">Premium Pack 1</option>
+
+		<option value="Premium Pack 2">Premium Pack 2</option>
+
+		<option value="Primal Origin">Primal Origin</option>
+
+		<option value="PS2 Yugioh GX The Beginning of Destiny">PS2 Yugioh GX The Beginning of Destiny</option>
+
+		<option value="Ra Yellow Mega Pack">Ra Yellow Mega Pack</option>
+
+		<option value="Ra Yellow Mega Pack SE">Ra Yellow Mega Pack SE</option>
+
+		<option value="Raging Battle">Raging Battle</option>
+
+		<option value="Raging Battle SE">Raging Battle SE</option>
+
+		<option value="Reshef of Destruction">Reshef of Destruction</option>
+
+		<option value="Retro Pack 1">Retro Pack 1</option>
+
+		<option value="Retro Pack 2">Retro Pack 2</option>
+
+		<option value="Return of the Duelist">Return of the Duelist</option>
+
+		<option value="Return of the Duelist SE">Return of the Duelist SE</option>
+
+		<option value="Reverse of Arcadia Promos">Reverse of Arcadia Promos</option>
+
+		<option value="Rise of Destiny">Rise of Destiny</option>
+
+		<option value="Rise of Destiny Special Edition">Rise of Destiny Special Edition</option>
+
+		<option value="Samurai Assault">Samurai Assault</option>
+
+		<option value="Shadow of Infinity">Shadow of Infinity</option>
+
+		<option value="Shadow Specters">Shadow Specters</option>
+
+		<option value="Shonen Jump Championship Series Prize Cards">Shonen Jump Championship Series Prize Cards</option>
+
+		<option value="Shonen Jump Championship Series Promos">Shonen Jump Championship Series Promos</option>
+
+		<option value="Shonen Jump Magazine Promos">Shonen Jump Magazine Promos</option>
+
+		<option value="Sneak Preview Series 1">Sneak Preview Series 1</option>
+
+		<option value="Sneak Preview Series 2">Sneak Preview Series 2</option>
+
+		<option value="Sneak Preview Series 3">Sneak Preview Series 3</option>
+
+		<option value="Sneak Preview Series 4">Sneak Preview Series 4</option>
+
+		<option value="Sneak Preview Series 5">Sneak Preview Series 5</option>
+
+		<option value="Soul of the Duelist">Soul of the Duelist</option>
+
+		<option value="Spellcaster's Command Structure Deck">Spellcaster's Command Structure Deck</option>
+
+		<option value="Stairway to the Destined Duel">Stairway to the Destined Duel</option>
+
+		<option value="Star Pack 2013">Star Pack 2013</option>
+
+		<option value="Star Pack 2014">Star Pack 2014</option>
+
+		<option value="Stardust Accelerator Promos">Stardust Accelerator Promos</option>
+
+		<option value="Stardust Overdrive">Stardust Overdrive</option>
+
+		<option value="Starstrike Blast">Starstrike Blast</option>
+
+		<option value="Starter Deck 2006">Starter Deck 2006</option>
+
+		<option value="Starter Deck Jaden Yuki">Starter Deck Jaden Yuki</option>
+
+		<option value="Starter Deck Joey">Starter Deck Joey</option>
+
+		<option value="Starter Deck Kaiba">Starter Deck Kaiba</option>
+
+		<option value="Starter Deck Kaiba Evolution">Starter Deck Kaiba Evolution</option>
+
+		<option value="Starter Deck Pegasus">Starter Deck Pegasus</option>
+
+		<option value="Starter Deck Syrus Truesdale">Starter Deck Syrus Truesdale</option>
+
+		<option value="Starter Deck Yu-Gi-Oh">Starter Deck Yu-Gi-Oh</option>
+
+		<option value="Starter Deck Yu-Gi-Oh Evolution">Starter Deck Yu-Gi-Oh Evolution</option>
+
+		<option value="Starter Deck: Dawn of the Xyz">Starter Deck: Dawn of the Xyz</option>
+
+		<option value="Starter Deck: Duelist Toolbox">Starter Deck: Duelist Toolbox</option>
+
+		<option value="Starter Deck: Kaiba Reloaded">Starter Deck: Kaiba Reloaded</option>
+
+		<option value="Starter Deck: Xyz Symphony">Starter Deck: Xyz Symphony</option>
+
+		<option value="Starter Deck: Yugi Reloaded">Starter Deck: Yugi Reloaded</option>
+
+		<option value="Storm of Ragnarok">Storm of Ragnarok</option>
+
+		<option value="Storm of Ragnarok SE">Storm of Ragnarok SE</option>
+
+		<option value="Strike of Neos">Strike of Neos</option>
+
+		<option value="Structure Deck">Structure Deck</option>
+
+		<option value="Structure Deck Blaze of Destruction">Structure Deck Blaze of Destruction</option>
+
+		<option value="Structure Deck Dinosaur's Rage">Structure Deck Dinosaur's Rage</option>
+
+		<option value="Structure Deck Dragon's Roar">Structure Deck Dragon's Roar</option>
+
+		<option value="Structure Deck Fury from the Deep">Structure Deck Fury from the Deep</option>
+
+		<option value="Structure Deck Invincible Fortress">Structure Deck Invincible Fortress</option>
+
+		<option value="Structure Deck Lord of the Storm">Structure Deck Lord of the Storm</option>
+
+		<option value="Structure Deck Machine Re-Volt">Structure Deck Machine Re-Volt</option>
+
+		<option value="Structure Deck Rise of the Dragon Lords">Structure Deck Rise of the Dragon Lords</option>
+
+		<option value="Structure Deck Spellcaster's Judgment">Structure Deck Spellcaster's Judgment</option>
+
+		<option value="Structure Deck Warrior's Triumph">Structure Deck Warrior's Triumph</option>
+
+		<option value="Structure Deck Zombie Madness">Structure Deck Zombie Madness</option>
+
+		<option value="Structure Deck: Cyber Dragon Revolution">Structure Deck: Cyber Dragon Revolution</option>
+
+		<option value="Structure Deck: Dragons Collide">Structure Deck: Dragons Collide</option>
+
+		<option value="Structure Deck: Dragunity Legion">Structure Deck: Dragunity Legion</option>
+
+		<option value="Structure Deck: Gates of the Underworld">Structure Deck: Gates of the Underworld</option>
+
+		<option value="Structure Deck: Lost Sanctuary">Structure Deck: Lost Sanctuary</option>
+
+		<option value="Structure Deck: Machina Mayhem">Structure Deck: Machina Mayhem</option>
+
+		<option value="Structure Deck: Marik">Structure Deck: Marik</option>
+
+		<option value="Structure Deck: Onslaught of the Fire Kings">Structure Deck: Onslaught of the Fire Kings</option>
+
+		<option value="Structure Deck: Realm of Light">Structure Deck: Realm of Light</option>
+
+		<option value="Structure Deck: Realm of the Sea Emperor">Structure Deck: Realm of the Sea Emperor</option>
+
+		<option value="Structure Deck: Saga of Blue-Eyes White Dragon">Structure Deck: Saga of Blue-Eyes White Dragon</option>
+
+		<option value="Structure Deck: Samurai Warlords">Structure Deck: Samurai Warlords</option>
+
+		<option value="Structure Deck: The Dark Emperor">Structure Deck: The Dark Emperor</option>
+
+		<option value="Structure Deck: Warrior's Strike">Structure Deck: Warrior's Strike</option>
+
+		<option value="Structure Deck: Zombie World">Structure Deck: Zombie World</option>
+
+		<option value="Super Starter: Space-Time Showdown">Super Starter: Space-Time Showdown</option>
+
+		<option value="Super Starter: Space-Time Showdown Power-Up Pack">Super Starter: Space-Time Showdown Power-Up Pack</option>
+
+		<option value="Super Starter: V for Victory">Super Starter: V for Victory</option>
+
+		<option value="Super Starter: V for Victory Power-Up Pack">Super Starter: V for Victory Power-Up Pack</option>
+
+		<option value="Tactical Evolution">Tactical Evolution</option>
+
+		<option value="Tactical Evolution: Special Edition">Tactical Evolution: Special Edition</option>
+
+		<option value="The Dark Emperor Structure Deck">The Dark Emperor Structure Deck</option>
+
+		<option value="The Duelist Genesis">The Duelist Genesis</option>
+
+		<option value="The Falsebound Kingdom">The Falsebound Kingdom</option>
+
+		<option value="The Legend of Blue Eyes White Dragon">The Legend of Blue Eyes White Dragon</option>
+
+		<option value="The Sacred Cards">The Sacred Cards</option>
+
+		<option value="The Shining Darkness">The Shining Darkness</option>
+
+		<option value="The Valuable Book Volume 5">The Valuable Book Volume 5</option>
+
+		<option value="Tournament Pack 1">Tournament Pack 1</option>
+
+		<option value="Tournament Pack 2">Tournament Pack 2</option>
+
+		<option value="Tournament Pack 3">Tournament Pack 3</option>
+
+		<option value="Tournament Pack 4">Tournament Pack 4</option>
+
+		<option value="Tournament Pack 5">Tournament Pack 5</option>
+
+		<option value="Tournament Pack 6">Tournament Pack 6</option>
+
+		<option value="Tournament Pack 7">Tournament Pack 7</option>
+
+		<option value="Tournament Pack 8">Tournament Pack 8</option>
+
+		<option value="Toys "R" Us Throwdown Promo">Toys "R" Us Throwdown Promo</option>
+
+		<option value="Turbo Pack Booster One Pack">Turbo Pack Booster One Pack</option>
+
+		<option value="Turbo Pack: Booster Eight">Turbo Pack: Booster Eight</option>
+
+		<option value="Turbo Pack: Booster Five">Turbo Pack: Booster Five</option>
+
+		<option value="Turbo Pack: Booster Four">Turbo Pack: Booster Four</option>
+
+		<option value="Turbo Pack: Booster Seven">Turbo Pack: Booster Seven</option>
+
+		<option value="Turbo Pack: Booster Six">Turbo Pack: Booster Six</option>
+
+		<option value="Turbo Pack: Booster Three">Turbo Pack: Booster Three</option>
+
+		<option value="Turbo Pack: Booster Two">Turbo Pack: Booster Two</option>
+
+		<option value="Twilight Edition">Twilight Edition</option>
+
+		<option value="Ultimate Edition 2">Ultimate Edition 2</option>
+
+		<option value="Unknown">Unknown</option>
+
+		<option value="World Championship 2004: GBA Promo">World Championship 2004: GBA Promo</option>
+
+		<option value="World Championship 2005: 7 Trials to Glory">World Championship 2005: 7 Trials to Glory</option>
+
+		<option value="World Championship 2006: Ultimate Masters">World Championship 2006: Ultimate Masters</option>
+
+		<option value="World Championship 2007">World Championship 2007</option>
+
+		<option value="World Championship 2008">World Championship 2008</option>
+
+		<option value="World Championship 2008 DS Game">World Championship 2008 DS Game</option>
+
+		<option value="World Championship Series">World Championship Series</option>
+
+		<option value="X-Saber Power-Up">X-Saber Power-Up</option>
+
+		<option value="Yu-Gi-Oh! 5D's Manga">Yu-Gi-Oh! 5D's Manga</option>
+
+		<option value="Yu-Gi-Oh! 5D's Over the Nexus promotional cards">Yu-Gi-Oh! 5D's Over the Nexus promotional cards</option>
+
+		<option value="Yu-Gi-Oh! 5D's Reverse of Arcadia Promo">Yu-Gi-Oh! 5D's Reverse of Arcadia Promo</option>
+
+		<option value="Yu-Gi-Oh! 5D's Tag Force 4 Promo">Yu-Gi-Oh! 5D's Tag Force 4 Promo</option>
+
+		<option value="Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards">Yu-Gi-Oh! 5D's Tag Force 5 Promotional Cards</option>
+
+		<option value="Yu-Gi-Oh! 5D's Wheelie Breakers Promotional Cards">Yu-Gi-Oh! 5D's Wheelie Breakers Promotional Cards</option>
+
+		<option value="Yu-Gi-Oh! Championship Series Prize Cards">Yu-Gi-Oh! Championship Series Prize Cards</option>
+
+		<option value="Yu-Gi-Oh! GX Manga Promotional Cards">Yu-Gi-Oh! GX Manga Promotional Cards</option>
+
+		<option value="Yu-Gi-Oh! GX Tag Force 3 Promotional Cards">Yu-Gi-Oh! GX Tag Force 3 Promotional Cards</option>
+
+		<option value="Yu-Gi-Oh! GX Tag Force Evolution Promo">Yu-Gi-Oh! GX Tag Force Evolution Promo</option>
+
+		<option value="Yu-Gi-Oh! GX Volume 5 Promo">Yu-Gi-Oh! GX Volume 5 Promo</option>
+
+		<option value="Yu-Gi-Oh! GX Volume 8 Promo">Yu-Gi-Oh! GX Volume 8 Promo</option>
+
+		<option value="Yu-Gi-Oh! Movie Exclusive Pack">Yu-Gi-Oh! Movie Exclusive Pack</option>
+
+		<option value="Yu-Gi-Oh! R">Yu-Gi-Oh! R</option>
+
+		<option value="Yu-Gi-Oh! The Movie Promo Set">Yu-Gi-Oh! The Movie Promo Set</option>
+
+		<option value="Yu-Gi-Oh! Tokens">Yu-Gi-Oh! Tokens</option>
+
+		<option value="Yu-Gi-Oh! ZEXAL Manga Promotional Cards">Yu-Gi-Oh! ZEXAL Manga Promotional Cards</option>
+
+		<option value="Yugioh 5D's 2008 Starter Deck ">Yugioh 5D's 2008 Starter Deck </option>
+
+		<option value="Yugioh GX Manga Vol.2">Yugioh GX Manga Vol.2</option>
+
+		<option value="Yugioh GX Starter Deck">Yugioh GX Starter Deck</option>
+
+    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="default_9">
+                    <strong><font face=arial size=2>Name:</font></strong>
+                </td>
+                <td>
+                    <input name="Name" id="Name" type="text" size="20" />
+                </td>
+            </tr>
+            <tr>
+                <td class="default_9">
+                    <strong><font face=arial size=2>Card Text:</font></strong>
+                </td>
+                <td>
+                    <input name="Description" id="Description" type="text" size="50" />
+                </td>
+            </tr>
+            <tr>
+                <td class="default_9">
+                    <strong><font face=arial size=2>Card Type:</font></strong>
+                </td>
+                <td>
+                    <div id="TypeDiv">
+                        <select name="Type" id="Type">
+   
+		<option value="
+Spell Card">
+Spell Card</option>
+
+		<option value=""></option>
+
+		<option value="Aqua / Effect">Aqua / Effect</option>
+
+		<option value="Aqua/Effect Monster">Aqua/Effect Monster</option>
+
+		<option value="Aqua/Effect Monster Card">Aqua/Effect Monster Card</option>
+
+		<option value="Beast / Effect">Beast / Effect</option>
+
+		<option value="Beast-Warrior">Beast-Warrior</option>
+
+		<option value="Beast-Warrior / Effect">Beast-Warrior / Effect</option>
+
+		<option value="Beast-Warrior/Effect">Beast-Warrior/Effect</option>
+
+		<option value="Beast-Warrior/Effect Monster">Beast-Warrior/Effect Monster</option>
+
+		<option value="Beast-Warrior/Synchro/Effect Monster">Beast-Warrior/Synchro/Effect Monster</option>
+
+		<option value="Beast/Effect">Beast/Effect</option>
+
+		<option value="Beast/Xyz/Effect Monster">Beast/Xyz/Effect Monster</option>
+
+		<option value="Card">Card</option>
+
+		<option value="Continuous Spell">Continuous Spell</option>
+
+		<option value="Continuous Spell Card">Continuous Spell Card</option>
+
+		<option value="Continuous Trap">Continuous Trap</option>
+
+		<option value="Continuous Trap Card">Continuous Trap Card</option>
+
+		<option value="Counter Trap">Counter Trap</option>
+
+		<option value="Counter Trap Card">Counter Trap Card</option>
+
+		<option value="Dinosaur / Effect">Dinosaur / Effect</option>
+
+		<option value="Dinosaur/Effect">Dinosaur/Effect</option>
+
+		<option value="Dinosaur/Effect Monster">Dinosaur/Effect Monster</option>
+
+		<option value="Dragon">Dragon</option>
+
+		<option value="Dragon / Effect">Dragon / Effect</option>
+
+		<option value="Dragon / Synchro / Effect">Dragon / Synchro / Effect</option>
+
+		<option value="Dragon / Tuner">Dragon / Tuner</option>
+
+		<option value="Dragon Normal Monster">Dragon Normal Monster</option>
+
+		<option value="Dragon/Effect">Dragon/Effect</option>
+
+		<option value="Dragon/Effect Monster">Dragon/Effect Monster</option>
+
+		<option value="Dragon/Tuner">Dragon/Tuner</option>
+
+		<option value="Dragon/Tuner Monster">Dragon/Tuner Monster</option>
+
+		<option value="Effect">Effect</option>
+
+		<option value="Effect Creature">Effect Creature</option>
+
+		<option value="Effect Monster">Effect Monster</option>
+
+		<option value="Effect Tuner Monster">Effect Tuner Monster</option>
+
+		<option value="EHC1-EN002">EHC1-EN002</option>
+
+		<option value="Equip">Equip</option>
+
+		<option value="Equip Spell">Equip Spell</option>
+
+		<option value="Equip Spell Card">Equip Spell Card</option>
+
+		<option value="Fairy / Effect">Fairy / Effect</option>
+
+		<option value="Fairy / Gemini">Fairy / Gemini</option>
+
+		<option value="Fairy / Tuner">Fairy / Tuner</option>
+
+		<option value="Fairy/Effect">Fairy/Effect</option>
+
+		<option value="Fairy/Effect Monster">Fairy/Effect Monster</option>
+
+		<option value="Fairy/Tuner Monster">Fairy/Tuner Monster</option>
+
+		<option value="Field">Field</option>
+
+		<option value="Field Spell">Field Spell</option>
+
+		<option value="Field Spell Card">Field Spell Card</option>
+
+		<option value="Fiend">Fiend</option>
+
+		<option value="Fiend / Effect">Fiend / Effect</option>
+
+		<option value="Fiend/Effect">Fiend/Effect</option>
+
+		<option value="Fiend/Effect Monster">Fiend/Effect Monster</option>
+
+		<option value="Fiend/Effect Monster Card">Fiend/Effect Monster Card</option>
+
+		<option value="Fish">Fish</option>
+
+		<option value="Fish/Effect">Fish/Effect</option>
+
+		<option value="Flip">Flip</option>
+
+		<option value="Flip Effect">Flip Effect</option>
+
+		<option value="Flip Effect Monster">Flip Effect Monster</option>
+
+		<option value="Flip/Effect Monster">Flip/Effect Monster</option>
+
+		<option value="Flip/Tuner/Effect Monster">Flip/Tuner/Effect Monster</option>
+
+		<option value="Fusion Monster">Fusion Monster</option>
+
+		<option value="Fusion/ Effect Monster">Fusion/ Effect Monster</option>
+
+		<option value="Fusion/Effect">Fusion/Effect</option>
+
+		<option value="Fusion/Effect Monster">Fusion/Effect Monster</option>
+
+		<option value="Gemeni Monster">Gemeni Monster</option>
+
+		<option value="Gemini Creature">Gemini Creature</option>
+
+		<option value="Gemini Monster">Gemini Monster</option>
+
+		<option value="Insect">Insect</option>
+
+		<option value="Insect / Effect">Insect / Effect</option>
+
+		<option value="Insect/Effect">Insect/Effect</option>
+
+		<option value="Insect/Effect Monster">Insect/Effect Monster</option>
+
+		<option value="Machine">Machine</option>
+
+		<option value="Machine / Effect">Machine / Effect</option>
+
+		<option value="Machine / Fusion / Effect">Machine / Fusion / Effect</option>
+
+		<option value="Machine / Tuner">Machine / Tuner</option>
+
+		<option value="Machine/Effect">Machine/Effect</option>
+
+		<option value="Machine/Effect Monster">Machine/Effect Monster</option>
+
+		<option value="Machine/Synchro/Effect">Machine/Synchro/Effect</option>
+
+		<option value="Machine/Union">Machine/Union</option>
+
+		<option value="Machine/Xyz/Effect Monster">Machine/Xyz/Effect Monster</option>
+
+		<option value="Monster">Monster</option>
+
+		<option value="Normal">Normal</option>
+
+		<option value="Normal Dragon">Normal Dragon</option>
+
+		<option value="Normal Monster">Normal Monster</option>
+
+		<option value="Normal Spell">Normal Spell</option>
+
+		<option value="Normal Spell Card">Normal Spell Card</option>
+
+		<option value="Normal Trap">Normal Trap</option>
+
+		<option value="Normal Trap Card">Normal Trap Card</option>
+
+		<option value="Normal Warrior">Normal Warrior</option>
+
+		<option value="Pendulum Effect">Pendulum Effect</option>
+
+		<option value="Pendulum Monster">Pendulum Monster</option>
+
+		<option value="Pendulum/Effect Monster">Pendulum/Effect Monster</option>
+
+		<option value="Plant / Effect">Plant / Effect</option>
+
+		<option value="Plant / Synchro / Effect">Plant / Synchro / Effect</option>
+
+		<option value="Plant / Tuner">Plant / Tuner</option>
+
+		<option value="Plant/Effect">Plant/Effect</option>
+
+		<option value="Plant/Effect Monster">Plant/Effect Monster</option>
+
+		<option value="Plant/Fusion/Effect">Plant/Fusion/Effect</option>
+
+		<option value="Plant/Gemini">Plant/Gemini</option>
+
+		<option value="Plant/Xyz/Effect Monster">Plant/Xyz/Effect Monster</option>
+
+		<option value="Psychic / Effect">Psychic / Effect</option>
+
+		<option value="Psychic / Synchro / Effect">Psychic / Synchro / Effect</option>
+
+		<option value="Psychic / Tuner">Psychic / Tuner</option>
+
+		<option value="Psychic/Synchro/Effect Monster">Psychic/Synchro/Effect Monster</option>
+
+		<option value="Pyro / Effect">Pyro / Effect</option>
+
+		<option value="Pyro/Effect">Pyro/Effect</option>
+
+		<option value="Pyro/Effect Monster">Pyro/Effect Monster</option>
+
+		<option value="Quick Play Spell">Quick Play Spell</option>
+
+		<option value="Quick Play Spell Card">Quick Play Spell Card</option>
+
+		<option value="Quick-Play Spell">Quick-Play Spell</option>
+
+		<option value="Quickplay Spell">Quickplay Spell</option>
+
+		<option value="Reptile">Reptile</option>
+
+		<option value="Reptile / Effect">Reptile / Effect</option>
+
+		<option value="Ritual">Ritual</option>
+
+		<option value="Ritual Effect Monster">Ritual Effect Monster</option>
+
+		<option value="Ritual Monster">Ritual Monster</option>
+
+		<option value="Ritual Spell">Ritual Spell</option>
+
+		<option value="Ritual/Effect Monster">Ritual/Effect Monster</option>
+
+		<option value="Ritula/Effect Monster">Ritula/Effect Monster</option>
+
+		<option value="Rock/Effect">Rock/Effect</option>
+
+		<option value="Rock/Effect Monster">Rock/Effect Monster</option>
+
+		<option value="Sea Serpent">Sea Serpent</option>
+
+		<option value="Sea Serpent/Gemini">Sea Serpent/Gemini</option>
+
+		<option value="Sea Serpent/Tuner">Sea Serpent/Tuner</option>
+
+		<option value="Spell">Spell</option>
+
+		<option value="Spell Card">Spell Card</option>
+
+		<option value="Spellcaster / Effect">Spellcaster / Effect</option>
+
+		<option value="Spellcaster / Synchro / Effect">Spellcaster / Synchro / Effect</option>
+
+		<option value="Spellcaster / Tuner">Spellcaster / Tuner</option>
+
+		<option value="Spellcaster Effect Monster">Spellcaster Effect Monster</option>
+
+		<option value="Spellcaster Normal Monster">Spellcaster Normal Monster</option>
+
+		<option value="Spellcaster/Effect">Spellcaster/Effect</option>
+
+		<option value="Spellcaster/Effect Monster">Spellcaster/Effect Monster</option>
+
+		<option value="Spirit">Spirit</option>
+
+		<option value="Spirit Monster">Spirit Monster</option>
+
+		<option value="Spirit/Effect Monster">Spirit/Effect Monster</option>
+
+		<option value="Synchro Effect">Synchro Effect</option>
+
+		<option value="Synchro Effect Monster">Synchro Effect Monster</option>
+
+		<option value="Synchro Monster">Synchro Monster</option>
+
+		<option value="Synchro/Effect">Synchro/Effect</option>
+
+		<option value="Synchro/Effect Monster">Synchro/Effect Monster</option>
+
+		<option value="Synchro/Tuner Monster">Synchro/Tuner Monster</option>
+
+		<option value="Syncrho Effect Monster">Syncrho Effect Monster</option>
+
+		<option value="Thunder / Effect">Thunder / Effect</option>
+
+		<option value="Thunder/Effect">Thunder/Effect</option>
+
+		<option value="Thunder/Effect Monster">Thunder/Effect Monster</option>
+
+		<option value="Token">Token</option>
+
+		<option value="Toon Monster">Toon Monster</option>
+
+		<option value="TRAP">TRAP</option>
+
+		<option value="Trap Card">Trap Card</option>
+
+		<option value="Tuner">Tuner</option>
+
+		<option value="Tuner Monster">Tuner Monster</option>
+
+		<option value="Tuner/Effect Monster">Tuner/Effect Monster</option>
+
+		<option value="Turner Monster">Turner Monster</option>
+
+		<option value="Union">Union</option>
+
+		<option value="Union Creature">Union Creature</option>
+
+		<option value="Union Monster">Union Monster</option>
+
+		<option value="Warrior / Effect">Warrior / Effect</option>
+
+		<option value="Warrior / Fusion / Effect">Warrior / Fusion / Effect</option>
+
+		<option value="Warrior / Synchro / Effect">Warrior / Synchro / Effect</option>
+
+		<option value="Warrior / Tuner">Warrior / Tuner</option>
+
+		<option value="Warrior Normal Monster">Warrior Normal Monster</option>
+
+		<option value="Warrior/Effect">Warrior/Effect</option>
+
+		<option value="Warrior/Effect Monster">Warrior/Effect Monster</option>
+
+		<option value="Warrior/Fusion/Effect">Warrior/Fusion/Effect</option>
+
+		<option value="Warrior/Fusion/Effect Monster">Warrior/Fusion/Effect Monster</option>
+
+		<option value="Warrior/Gemini">Warrior/Gemini</option>
+
+		<option value="Winged Beast / Effect">Winged Beast / Effect</option>
+
+		<option value="Winged Beast / Fusion / Effect">Winged Beast / Fusion / Effect</option>
+
+		<option value="Winged Beast/Effect">Winged Beast/Effect</option>
+
+		<option value="Winged Beast/Effect Monster">Winged Beast/Effect Monster</option>
+
+		<option value="Xyz Effect Monster">Xyz Effect Monster</option>
+
+		<option value="Xyz Monster">Xyz Monster</option>
+
+		<option value="Xyz/Effect">Xyz/Effect</option>
+
+		<option value="Xyz/Effect Monster">Xyz/Effect Monster</option>
+
+		<option value="Xyz/Effect Monster`">Xyz/Effect Monster`</option>
+
+		<option value="Zombie / Effect">Zombie / Effect</option>
+
+		<option value="Zombie / Synchro / Effect">Zombie / Synchro / Effect</option>
+
+		<option value="Zombie / Tuner">Zombie / Tuner</option>
+
+		<option value="Zombie/Effect Monster">Zombie/Effect Monster</option>
+
+                        </select>
+                    </div>
+                </td>
+            </tr>
+<tr>
+    <td align=left valign="top"><font face=arial size=2><b>Attribute</b></font></td>
+    <td align=left><font face=arial size=2>
+	<select name="Attribute" size="8" multiple>
+
+		<option value="DARK">DARK</option>
+
+		<option value="DIVINE">DIVINE</option>
+
+		<option value="EARTH">EARTH</option>
+
+		<option value="FIRE">FIRE</option>
+
+		<option value="LIGHT">LIGHT</option>
+
+		<option value="SPELL">SPELL</option>
+
+		<option value="TRAP">TRAP</option>
+
+		<option value="WATER">WATER</option>
+
+		<option value="WIND">WIND</option>
+
+		<option value="Zombie/Effect">Zombie/Effect</option>
+
+    </select>
+	</font></td>
+</tr>
+            <tr>
+                <td class="default_9">
+                    <strong><font face=arial size=2>Rarity:</font></strong>
+                </td>
+                <td>
+                    <select name="Rarity" id="Rarity">
+                        <option value="">All</option>
+ 
+		<option value="C">C</option>
+ 
+		<option value="Common">Common</option>
+ 
+		<option value="Ghost Rare">Ghost Rare</option>
+ 
+		<option value="P">P</option>
+ 
+		<option value="Parallel Rare">Parallel Rare</option>
+ 
+		<option value="Promo">Promo</option>
+ 
+		<option value="R">R</option>
+ 
+		<option value="Rare">Rare</option>
+ 
+		<option value="Secret Rare">Secret Rare</option>
+ 
+		<option value="Short Print">Short Print</option>
+ 
+		<option value="SR">SR</option>
+ 
+		<option value="SSP">SSP</option>
+ 
+		<option value="Super Rare">Super Rare</option>
+ 
+		<option value="Ultimate Rare">Ultimate Rare</option>
+ 
+		<option value="Ultra Rare">Ultra Rare</option>
+ 
+		<option value="UR">UR</option>
+ 
+		<option value="UTR">UTR</option>
+
+                    </select>
+                </td>
+            </tr>
+
+            <tr>
+                <td>
+                    &nbsp;
+                </td>
+                <td>
+                    <br>
+                    <input name="submit" type="submit" value="Search" />
+                </td>
+            </tr>
+        </table>
+        </form>
+        <hr />
+
+    
+<!--CODE NEW HERE LEFT CONTAINER-->
+
+<div style="clear:both; margin-top:1px; height:1px;"></div>
+
+<div style="width:270px; float:left">
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">BOOSTERS </div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div class="set_list" style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist+Alliance" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Alliance</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Battle+Pack+3%3A+Monster+League" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Battle Pack 3: Monster League</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Astral+Pack+5" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Astral Pack 5</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Astral+Pack+4" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Astral Pack 4</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Legacy of the Valiant" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Legacy of the Valiant</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Battle+Pack+2%3A+War+of+the+Giants+%96+Round+2" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">BP2: War of the Giants - Round 2</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Shadow Specters" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Shadow Specters</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Judgment of the Light" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Judgment of the Light</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Number Hunters" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Number Hunters</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Battle Pack 2: War of the Giants" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Battle Pack 2: War of the Giants</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Lord of the Tachyon Galaxy" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Lord of the Tachyon Galaxy</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Cosmo Blazer" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Cosmo Blazer</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Abyss Rising" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Abyss Rising</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Return%20of%20the%20Duelist" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Return of the Duelist</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Battle%20Pack:%20Epic%20Dawn" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Battle Pack: Epic Dawn</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Galactic%20Overlord" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Galactic Overlord</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Order%20of%20Chaos" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Order of Chaos</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Photon%20Shockwave" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Photon Shockwave</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Generation%20Force" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Generation Force</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Extreme%20Victory" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Extreme Victory</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Storm%20of%20Ragnarok" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Storm of Ragnarok</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starstrike%20Blast" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starstrike Blast</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Revolution" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Revolution</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=The%20Shining%20Darkness" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">The Shining Darkness</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Absolute%20Powerforce" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Absolute Powerforce</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Stardust%20Overdrive" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Stardust Overdrive</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Ancient%20Prophecy" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Ancient Prophecy</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Raging%20Battle" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Raging Battle</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Crimson%20Crisis" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Crimson Crisis</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Crossroads%20of%20Chaos" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Crossroads of Chaos</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=The%20Duelist%20Genesis" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">The Duelist Genesis</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Light%20of%20Destruction" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Light of Destruction</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Phantom%20Darkness" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Phantom Darkness</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Gladiator's%20Assault" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Gladiator's Assault</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tactical%20Evolution" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tactical Evolution</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Force%20of%20the%20Breaker" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Force of the Breaker</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Strike%20of%20Neos" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Strike of Neos</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Cyberdark%20Impact" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Cyberdark Impact</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Power%20of%20the%20Duelist" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Power of the Duelist</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Enemy%20of%20Justice" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Enemy of Justice</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Shadow%20of%20Infinity" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Shadow of Infinity</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Elemental%20Energy" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Elemental Energy</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Cybernetic%20Revolution" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Cybernetic Revolution</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=The%20Lost%20Millennium" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">The Lost Millennium</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Flaming%20Eternity" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Flaming Eternity</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Rise%20of%20Destiny" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Rise of Destiny</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Soul%20of%20the%20Duelist" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Soul of the Duelist</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Ancient%20Sanctuary" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Ancient Sanctuary</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Invasion%20of%20Chaos" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Invasion of Chaos</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Dark%20Crisis" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Dark Crisis</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Magician's%20Force" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Magician's Force</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Pharaonic%20Guardian" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Pharaonic Guardian</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Legacy%20of%20Darkness" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Legacy of Darkness</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Labyrinth%20of%20Nightmare" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Labyrinth of Nightmare</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Pharaoh's%20Servant" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Pharaoh's Servant</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Magic%20Ruler" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Magic Ruler</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Metal%20Raiders" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Metal Raiders</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=The%20Legend%20of%20Blue%20Eyes%20White%20Dragon" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">The Legend of Blue Eyes White Dragon</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Hidden Arsenal 7: Knight of Stars" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Hidden Arsenal 7: Knight of Stars</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Hidden%20Arsenal%206:%20Omega%20Xyz" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Hidden Arsenal 6: Omega Xyz</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Hidden%20Arsenal%205:%20Steelswarm%20Invasion" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Hidden Arsenal 5: Steelswarm Invasion</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Hidden%20Arsenal%204" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Hidden Arsenal 4</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Hidden%20Arsenal%203" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Hidden Arsenal 3</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Hidden%20Arsenal%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Hidden Arsenal 2</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Hidden%20Arsenal" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Hidden Arsenal</a></li>
+
+
+</ul>
+</div>
+
+<!--LINK CONTENT ENDS-->
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">PREMIUM PACKS</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Premium%20Pack%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Premium Pack 2</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Premium%20Pack%201" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Premium Pack 1</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Yu-Gi-Oh!%20Movie%20Exclusive%20Pack" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Yugioh Movie Exclusive Pack</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Yu-Gi-Oh!%20The%20Movie%20Promo%20Set" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Yugioh Movie Promos</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Bonds%20Beyond%20Time%20Movie%20Pack" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Bonds Beyond Time Movie Pack</a></li>
+
+</ul>
+</div>
+
+<!--LINK CONTENT ENDS-->
+
+
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">CHAMPION PACKS </div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Champion%20Pack%208" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Champion Pack 8</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Champion%20Pack%207" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Champion Pack 7</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Champion%20Pack%206" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Champion Pack 6</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Champion%20Pack%205" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Champion Pack 5</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Champion%20Pack%204" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Champion Pack 4</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Champion%20Pack%203" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Champion Pack 3</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Champion%20Pack%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Champion Pack 2</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Champion%20Pack%201" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Champion Pack 1</a></li>
+
+</ul>
+</div>
+
+<!--LINK CONTENT ENDS-->
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">TOURNAMENT PACKS</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tournament%20Pack%208" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tournament Pack 8</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tournament%20Pack%207" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tournament Pack 7</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tournament%20Pack%206" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tournament Pack 6</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tournament%20Pack%205" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tournament Pack 5</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tournament%20Pack%204" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tournament Pack 4</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tournament%20Pack%203" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tournament Pack 3</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tournament%20Pack%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tournament Pack 2</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Tournament%20Pack%201" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Tournament Pack 1</a></li>
+
+</ul>
+</div>
+
+<!--LINK CONTENT ENDS-->
+
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">Turbo Packs</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;"><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Turbo%20Pack%20Booster%20One%20Pack" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Turbo Pack Booster One Pack</a></li>
+
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Turbo%20Pack:%20Booster%20Two" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Turbo Pack: Booster Two</a></li>
+
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Turbo%20Pack:%20Booster%20Three" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Turbo Pack: Booster Three</a></li>
+
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Turbo%20Pack:%20Booster%20Four" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Turbo Pack: Booster Four</a></li>
+
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Turbo%20Pack:%20Booster%20Five" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Turbo Pack: Booster Five</a></li>
+
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Turbo%20Pack:%20Booster%20Six" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Turbo Pack: Booster Six</a></li>
+
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Turbo%20Pack:%20Booster%20Seven" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Turbo Pack: Booster Seven</a></li>
+
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Turbo%20Pack:%20Booster%20Eight" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Turbo Pack: Booster Eight</a></li>
+
+
+
+</ul>
+</div>
+
+<!--LINK CONTENT ENDS-->
+
+
+
+
+
+
+
+</div>
+
+
+
+
+<!--NEW CODE HERE-->
+
+
+<!--CODE NEW HERE RIGHT CONTAINER-->
+
+<div style="width:270px; margin-left:65px; float:left">
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">DUELIST PACKS</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%2011%20-%20Crow" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 11 - Crow</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%2010%20-%20Yusei%203" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 10 - Yusei 3</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%209%20-%20Yusei%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 9 - Yusei 2</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%208%20-%20Yusei%20Fudo" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 8 - Yusei Fudo</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Jesse%20Anderson%20Vol%203%20GX%20Duelist%20Pack" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 7: Jesse Anderson</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Jaden%20Yuki%20Vol%203%20GX%20Duelist%20Pack" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 6: Jaden Yuki 3</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%20Aster%20Phoenix" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 5: Aster Phoenix</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%20Zane%20Truesdale" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 4: Zane Truesdale</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%20Jaden%20Yuki%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 3: Jaden Yuki 2</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%20Chazz%20Princeton" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 2: Chazz Princeton</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist%20Pack%20Jaden%20Yuki" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Duelist Pack 1: Jaden Yuki</a></li>
+
+</ul>
+</div>
+
+<!--LINK CONTENT ENDS-->
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">COLLECTORS TINS</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2013 Collectible Tins Wave 1" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2013 Collectors Tin</a></li>
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2013 Zexal Collection Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2013 Zexal Collection Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2012%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2012 Collectors Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2011%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2011 Collectors Tins</a></li>
+
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2010%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2010 Collectors Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2009%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2009 Collectors Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2008%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2008 Collectors Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2007%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2007 Collectors Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2006%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2006 Collectors Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2005%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2005 Collectors Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2004%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2004 Collectors Tin</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2003%20Collectors%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2003 Collectors Tin</a></li>
+
+</ul>
+</div>
+
+<!--LINK CONTENT ENDS-->
+
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">PROMOS</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Shonen%20Jump" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Shonen Jump Promos</a></li>
+
+</ul>
+</div>
+
+<!--LINK CONTENT ENDS-->
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">REPRINT SETS</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Legendary+Collection+4%3A+Joey%27s+World" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Legendary Collection 4: Joey's World</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Legendary%20Collection%203" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Legendary Collection 3</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=2012%20Premium%20Collection%20Tin" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">2012 Premium Collection Tin</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Ra%20Yellow%20Mega%20Pack" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Ra Yellow Mega Pack</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Legendary%20Collection%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Legendary Collection 2</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Star Pack 2013" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Star Pack 2013</a></li>
+
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Gold%20Series:%20Haunted%20Mine" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Gold Series: Haunted Mine</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Gold%20Series%204:%20Pyramids%20Edition" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Gold Series 4: Pyramids Edition</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Gold%20Series%202009" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Gold Series 2009</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Gold%20Series%202008" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Gold Series 2008</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Dark%20Revelation%203" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Dark Revelation 3</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Dark%20Revelation%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Dark Revelation 2</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Dark%20Revelation%201" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Dark Revelation 1</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Dark%20Beginnings%202" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Dark Beginnings 2</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Dark%20Beginnings%201" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Dark Beginnings 1</a></li>
+
+</ul>
+</div>
+
+<!--LINK CONTENT-->
+
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">STARTER DECKS</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Super+Starter%3A+Space-Time+Showdown" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Super Starter: Space-Time Showdown</a></li>
+
+<li style="padding:3px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Super+Starter%3A+Space-Time+Showdown+Power-Up+Pack" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Super Starter: Space-Time Showdown Power-up Pack</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Super Starter: V for Victory" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Super Starter: V for Victory</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Dawn of the Xyz" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Dawn of the Xyz</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: 2008" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: 2008</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Syrus Truesdale" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Syrus Truesdale</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Jaden Yuki" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Jaden Yuki</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: 2006" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: 2006</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Yugi Evolution" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Yugi Evolution</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Yugi" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Yugi</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Pegasus" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Pegasus</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Kaiba Evolution" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Kaiba Evolution</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Kaiba" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Kaiba</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter Deck: Joey" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Starter Deck: Joey</a></li>
+
+
+</ul>
+</div>
+
+<!--LINK CONTENT-->
+
+
+<!--HEADER-->
+
+<div style="background:url(/images/left_header.jpg) no-repeat; height:24px; width:7px; float:left; margin-top:20px"></div>
+<div style="background:url(/images/middle_header.jpg) repeat-x; height:24px; width:230px ; float:left; font-weight:bold; font-size:12px; color:#fff; line-height:24px; margin-top:20px">STRUCTURE DECKS</div>
+<div style="background:url(/images/right_header.jpg) no-repeat; height:24px; width:14px ; float:left; margin-top:20px"></div>
+<div style="clear:both"></div>
+
+<!--HEADER-->
+
+<!--LINK CONTENT-->
+
+<div style="width:270px; margin-top:12px;">
+<ul style="margin:0; padding:0 0 0 0px;list-style-position: inside; list-style-type: none; font-size:13px;">
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure+Deck%3A+Realm+of+Light" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Realm of Light</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure+Deck%3A+Cyber+Dragon+Revolution" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Cyber Dragon Revolution</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Saga of Blue-Eyes White Dragon" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Saga of Blue-Eyes White Dragon</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Onslaught of the Fire Kings" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Onslaught of the Fire Kings</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Realm of the Sea Emperor" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Realm of the Sea Emperor</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Samurai Warlords" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Samurai Warlords</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Dragons Collide" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Dragons Collide</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Gates of the Underworld" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Gates of the Underworld</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Lost Sanctuary" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Lost Sanctuary</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Dragunity Legion" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Dragunity Legion</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Marik" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Marik</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Machina Mayhem" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Machina Mayhem</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Warrior's Strike" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Warrior's Strike</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Spellcaster's Command" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Spellcaster's Command</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure Deck: Zombie World" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Zombie World</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck:%20The%20Dark%20Emperor" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Dark Emperor</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Rise%20of%20the%20Dragon%20Lords" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Rise of the Dragon Lords</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Machine%20Re-Volt" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Machine Re-Volt</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Dinosaur's%20Rage" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Dinosaur's Rage</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Lord%20of%20the%20Storm" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Lord of the Storm</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Invincible%20Fortress" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Invincible Fortress</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Spellcaster's%20Judgment" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Spellcaster's Judgment</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Warrior's%20Triumph" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Warrior's Triumph</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Fury%20from%20the%20Deep" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Fury from the Deep</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Blaze%20of%20Destruction" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Blaze of Destruction</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Zombie%20Madness" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Zombie Madness</a></li>
+
+<li style="padding:5px 0; padding-left:15px;background: url(/images/list_style_img.jpg) no-repeat 0 45% transparent; margin: 0;">
+<a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure%20Deck%20Dragon's%20Roar" style="text-decoration:none; padding: 0px 0px 1px 0px; line-height:20px;">Structure Deck: Dragon's Roar</a></li>
+
+
+</ul>
+</div>
+
+<!--LINK CONTENT-->
+
+</div>
+
+<div style="clear:both"></div>
+
+
+<!--<div style="clear:both"></div>-->
+<!--NEW CODE HERE-->
+<script>
+$('li').hover(
+    function(){
+         $(this).css({color:'white'}); //mouseover
+    },
+    function(){
+         $(this).css({color:'black'}); // mouseout
+    }
+);
+</script>
+
+
+
+<BR>
+
+
+
+</div>
+<div class="sidebarWrap">
+	<script type="text/javascript" src="http://maxpoint.tcgplayer.com/api/upcomingeventswidget?category=ygo&partnerKey=TCGTEST"></script>
+	
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: TCGplayer.com // Page: tcgplayer // Placement: tcgplayer_300x250 (1172125) // created at: May 12, 2010 3:10:41 AM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1172125/0/170/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/1172125/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/1172125/0/170/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="300" height="250"></a></noscript>
+<!-- End of JavaScript Tag -->
+<div>
+	<div class="infoboxHeader" >
+		<h1><a href="http://shop.tcgplayer.com/yugioh/duelist-alliance">Duelist Alliance</a></h1>
+	</div>
+	<div class="infoboxContent">
+		<B>
+		<div class=default_8>
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Dante, Traveler of the Burning Abyss"><img src='/images/hover-arrow-fill.gif' border=0>Dante, Traveler of the Burning Abyss </a> - as low as <font color=red>$42.95</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Satellarknight Deneb"><img src='/images/hover-arrow-fill.gif' border=0>Satellarknight Deneb </a> - as low as <font color=red>$35.09</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=El Shaddoll Winda"><img src='/images/hover-arrow-fill.gif' border=0>El Shaddoll Winda </a> - as low as <font color=red>$29.49</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Sinister Shadow Games"><img src='/images/hover-arrow-fill.gif' border=0>Sinister Shadow Games </a> - as low as <font color=red>$26.00</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Yang Zing Path"><img src='/images/hover-arrow-fill.gif' border=0>Yang Zing Path </a> - as low as <font color=red>$18.91</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Odd-Eyes Pendulum Dragon"><img src='/images/hover-arrow-fill.gif' border=0>Odd-Eyes Pendulum Dragon </a> - as low as <font color=red>$16.01</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Stellarnova Alpha"><img src='/images/hover-arrow-fill.gif' border=0>Stellarnova Alpha </a> - as low as <font color=red>$16.00</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Time-Space Trap Hole"><img src='/images/hover-arrow-fill.gif' border=0>Time-Space Trap Hole </a> - as low as <font color=red>$15.10</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Shaddoll Fusion"><img src='/images/hover-arrow-fill.gif' border=0>Shaddoll Fusion </a> - as low as <font color=red>$14.82</font><BR>
+
+			
+
+			<a href="http://store.tcgplayer.com/Products.aspx?GameName=Yugioh&Name=Odd-Eyes Pendulum Dragon"><img src='/images/hover-arrow-fill.gif' border=0>Odd-Eyes Pendulum Dragon </a> - as low as <font color=red>$13.90</font><BR>
+
+			
+		</div>
+		</b>
+	</div>
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-620217-1");
+pageTracker._setDomainName(".tcgplayer.com");
+pageTracker._setAllowHash(false);
+pageTracker._setAllowLinker();
+pageTracker._trackPageview();
+</script>
+
+<!-- Compete XL Code for tcgplayer.com -->
+<script type="text/javascript">
+__compete_code = '3b9bf7435962953a151bc15fa3e5daea';
+/* Set control variables below this line. */
+</script>
+<script type="text/javascript" src="//c.compete.com/bootstrap/s/3b9bf7435962953a151bc15fa3e5daea/tcgplayer-com/bootstrap.js"></script>
+<noscript>
+    <img width="1" height="1" src="https://ssl-tcgplayer-com-3b9bf7.c-col.com"/>
+</noscript>
+
+<!--JavaScript Tag // Tag for network 5205: Intergi // Website: TCGplayer.com // Page: tcgplayer // Placement: tcgplayer_1x1 (1306956) // created at: Jun 25, 2010 3:24:02 PM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://ads.intergi.com/addyn/3.0/5205/1306956/0/16/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><noscript><a href="http://ads.intergi.com/adlink/3.0/5205/1306956/0/16/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://ads.intergi.com/adserv/3.0/5205/1306956/0/16/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="1" height="1"></a></noscript>
+<!-- End of JavaScript Tag -->
+	<div class="twitterShare">
+		<a href="http://twitter.com/YGOatTCGplayer"><img width="300px"src="http://img.tcgplayer.com/tcg_img/ecom/Twitter-icon.png" border=0 align=left></a>
+	</div>
+	<br style="clear: both;">
+</div>
+
+<div class="footerWrap">
+	<div class="footerBanner">
+		<script type="text/javascript"> var images = [], index = 0; images[0] = "<a href='http://store.tcgplayer.com/help/corevalues#white' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_1.png' alt='Core Value 1'></a>"; images[1] = "<a href='http://store.tcgplayer.com/help/corevalues#blue' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_2.png' alt='Core Value 2'></a>"; images[2] = "<a href='http://store.tcgplayer.com/help/corevalues#black' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_3.png' alt='Core Value 3'></a>"; images[3] = "<a href='http://store.tcgplayer.com/help/corevalues#red' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_4.png' alt='Core Value 4'></a>"; images[4] = "<a href='http://store.tcgplayer.com/help/corevalues#green' target='_blank'><img src='http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/corevalue_5.png' alt='Core Value 5'></a>";index = Math.floor(Math.random() * images.length); document.write(images[index]); //done </script>
+		<div class="socialIcons">
+			<a href="https://www.facebook.com/YGOatTCGplayer"><img src="http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/facebook.png" /></a>
+			<a href="https://twitter.com/YGOatTCGplayer"><img src="http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/twitter.png" /></a>
+		</div>
+	</div>
+	<div class="footerMain">
+		<div class="footerCol">
+			<h3>SHOP</h3>
+			<ul>
+				<li><a href="http://shop.tcgplayer.com/yugioh/duelist-alliance">Duelist Alliance</a></li>
+				<li><a href="http://shop.tcgplayer.com/yugioh/battle-pack-3-monster-league">Battle Pack 3: Monster League</a></li>
+				<li><a href="http://shop.tcgplayer.com/yugioh/astral-pack-5">Astral Pack 5</a></li>
+				<li><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown">Super Starter: Space-Time Showdown</a></li>
+				<li><a href="http://shop.tcgplayer.com/yugioh/super-starter-space-time-showdown-power-up-pack">Super Starter: Space-Time Showdown Power-up Pack</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/primal-origin">SD: Realm of Light</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/primal-origin">Primal Origin</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/dragons-of-legend">Dragons of Legend</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/premium-gold">Premium Gold</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/structure-deck-cyber-dragon-revolution">SD: Cyber Dragon Revolution</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh/astral-pack-4">Astral Pack 4</a></li>
+				<li><a href="http://store.tcgplayer.com/yugioh" title="">VIEW ALL SETS &rarr;</a></li>
+			</ul>
+			<h3>SELL WITH US</h3>
+			<ul>
+				<li><a href="http://store.tcgplayer.com/help/sellwithtcgplayer" title="">Sell With TCGplayer</a></li>
+			</ul>
+		</div>
+		<div class="footerCol">
+			<h3>CARDS</h3>
+			<ul>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Duelist+Alliance">Duelist Alliance</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Battle+Pack+3%3A+Monster+League">Battle Pack 3: Monster League</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Astral+Pack+5">Astral Pack 5</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Super+Starter%3A+Space-Time+Showdown">Super Starter: Space-Time Showdown</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Super+Starter%3A+Space-Time+Showdown+Power-Up+Pack">Super Starter: Space-Time Showdown Power-up Pack</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Structure+Deck%3A+Realm+of+Light">SD: Realm of Light</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Primal%20Origin">Primal Origin</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Dragons%20of%20Legend">Dragons of Legend</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Premium%20Gold">Premium Gold</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Structure%20Deck:%20Cyber%20Dragon%20Revolution">SD: Cyber Dragon Revolution</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Astral%20Pack%204">Astral Pack 4</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?Set_Name=Legacy%20of%20the%20Valiant">Legacy of the Valiant</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter+Deck%3A+Kaiba+Reloaded">Starter Deck: Kaiba Reloaded</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/db/search_result.asp?SetName=Starter+Deck%3A+Yugi+Reloaded">Starter Deck: Yugi Reloaded</a></li>
+				<li><a href="http://yugioh.tcgplayer.com/all_yugioh_sets.asp">VIEW MORE SETS &rarr;</a></li>
+			</ul>
+		</div>
+		<div class="footerCol">
+			<h3>DECKS</h3>
+			<ul>
+				<li><a href="/db/deck_search_result.asp?format=Advanced" >Advanced Decks</a></li>
+          		<li><a href="/db/deck_search_result.asp?format=Traditional" >Traditional Decks</a></li>
+          		<li><a href="/db/deck_search_result.asp?MDA=1" title="January 2011">My Public Decks</a></li>
+          		<li><a href="/db/deck_search_result.asp?PC=1" >My Private Decks</a></li>
+          		<li><a href="/db/SubmitDeck.asp" >Submit a Deck</a></li>
+          		<li><a href="http://yugioh.tcgplayer.com/db/deck_search.asp" >DECK SEARCH &rarr;</a></li>
+			</ul>
+			<h3>ARTICLES</h3>
+			<ul>
+				<li><a href="/db/article_search_result.asp?report_type=Tourney%20Reports" >Tourney Reports</a></li>
+        		<li><a href="/db/article_search_result.asp?report_type=Deck%20Strategy" >Deck Strategy</a></li>
+        		<li><a href="/db/article_search_result.asp?report_type=Limited%20Strategy" title="January 2011">Sealed Pack</a></li>
+        		<li><a href="/db/article_search_result.asp?report_type=Card+Set%20Reviews" >Card Reviews</a></li>
+        		<li><a href="/db/article_search_result.asp?report_type=news" >News</a></li>
+        		<li><a href="/db/article_search.asp" >ARTICLE SEARCH &rarr;</a></li>
+			</ul>
+		</div>
+		<div class="footerCol">
+			<h3>HOW CAN WE HELP?</h3>
+			<ul>
+				<li><a href="mailto:sales@tcgplayer.com">sales@tcgplayer.com</a></li>
+				<li><a href="http://store.tcgplayer.com/faq.aspx">Help Center</a></li>
+				<li><a href="http://store.tcgplayer.com/help/buyersafeguard">Buyer Safeguard</a></li>
+			</ul>
+			<h3>ABOUT TCGPLAYER</h3>
+			<ul>
+				<li><a href="http://store.tcgplayer.com/help/corevalues">Our Core Values</a></li>
+				<li><a href="http://store.tcgplayer.com/help/workingattcgplayer">Working at TCGplayer</a></li>
+				<li><a href="http://store.tcgplayer.com/help/careers">Careers</a></li>
+				<li><a href="http://store.tcgplayer.com/help/contactus">Contact Us</a></li>
+			</ul>
+		</div>
+		<div class="footerCol">
+			<a href="http://tcgplayer.polldaddy.com/s/your-tcgplayer-store-experience"><img src="http://img.tcgplayer.com/tcg_img/mtg_page/footer_img/teamtcgplayer_feedback.png" /></a>
+		</div>
+	</div>
+	<div class="bottomEdge"></div>
+	<div class="footerBottom">
+		<p>All original content herein is Copyright 2014 Ascension Gaming Network, Inc. TCGplayer and MaxPoint are trademarks of Ascension Gaming Network, Inc.<br>
+		No portion of this web site may be used without expressed written consent.All rights reserved.<br><a href="http://www.wizards.com/Magic/Summoner/">Magic the Gathering</a> and it's respective properties are copyright <a href="http://company.wizards.com/">Wizards of the Coast</a><br><a href="http://magic.tcgplayer.com/privacy.asp">Privacy Policy</a></p>
+		
+	</div>
+</div>
