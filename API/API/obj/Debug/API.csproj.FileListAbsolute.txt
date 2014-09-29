@@ -10,3 +10,6 @@ C:\Henri\My Documents\Visual Studio 2012\Projects\API\API\obj\Debug\API.Properti
 C:\Henri\My Documents\Visual Studio 2012\Projects\API\API\obj\Debug\API.csproj.GenerateResource.Cache
 C:\Henri\My Documents\Visual Studio 2012\Projects\API\API\obj\Debug\API.exe
 C:\Henri\My Documents\Visual Studio 2012\Projects\API\API\obj\Debug\API.pdb
+C:\Users\henri\Documents\GitHub\ApiMaker\API\API\bin\Debug\API.exe.config
+C:\Users\henri\Documents\GitHub\ApiMaker\API\API\obj\Debug\API.exe
+C:\Users\henri\Documents\GitHub\ApiMaker\API\API\obj\Debug\API.pdb
