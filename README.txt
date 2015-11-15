@@ -15,3 +15,12 @@ so I would know about when desired movies will come on.
 TcgplayerApi *****************************************************************
 
 This is an API that gets lists of new decks, cards, and card prices from tcgplayer.com
+
+
+
+GoogleSafebrowsingApi ********************************************************
+
+(Outdated)
+
+Determines if a website is safe according to the Google safebrowsing website
+
