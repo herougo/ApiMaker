@@ -1,0 +1,7 @@
+Name<#>
+Set<#>
+Rarity<#>
+Low Price<#>
+Medium Price<#>
+High Price<#>
+

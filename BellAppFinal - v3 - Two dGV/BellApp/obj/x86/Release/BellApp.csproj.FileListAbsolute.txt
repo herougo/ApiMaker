@@ -1,0 +1,12 @@
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Release\BellApp.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Release\BellApp.Properties.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Release\BellApp.exe
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Release\BellApp.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Release\BellApp.exe
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Release\BellApp.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Release\HtmlAgilityPack.dll
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Release\HtmlAgilityPack.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Release\HtmlAgilityPack.xml

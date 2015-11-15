@@ -1,0 +1,88 @@
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Debug\BellApp.exe
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Debug\BellApp.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Debug\BellApp.Form1.resources
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Debug\BellApp.Properties.Resources.resources
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Debug\BellApp.exe
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\obj\x86\Debug\BellApp.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Debug\HtmlAgilityPack.dll
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\admin\AppData\Local\Temporary Projects\BellApp\bin\Debug\HtmlAgilityPack.xml
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\obj\x86\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\obj\x86\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\bin\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\bin\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\bin\Debug\HtmlAgilityPack.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\bin\Debug\HtmlAgilityPack.xml
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\obj\x86\Debug\BellApp.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\obj\x86\Debug\BellApp.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\A - Mr. H\BellApp\BellApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\obj\x86\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\obj\x86\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\bin\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\bin\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\bin\Debug\HtmlAgilityPack.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\bin\Debug\HtmlAgilityPack.xml
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\obj\x86\Debug\BellApp.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\obj\x86\Debug\BellApp.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppNew\BellApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\obj\x86\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\obj\x86\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\bin\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\bin\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\bin\Debug\HtmlAgilityPack.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\bin\Debug\HtmlAgilityPack.xml
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\obj\x86\Debug\BellApp.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\obj\x86\Debug\BellApp.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\BellAppFinal\BellApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\obj\x86\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\obj\x86\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\bin\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\bin\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\bin\Debug\HtmlAgilityPack.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\bin\Debug\HtmlAgilityPack.xml
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\obj\x86\Debug\BellApp.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\obj\x86\Debug\BellApp.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - Editted Structure\BellApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\obj\x86\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\obj\x86\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\bin\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\bin\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\bin\Debug\HtmlAgilityPack.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\bin\Debug\HtmlAgilityPack.xml
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\obj\x86\Debug\BellApp.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\obj\x86\Debug\BellApp.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v2\BellApp\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\bin\Debug\BellApp.exe
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\bin\Debug\BellApp.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\bin\Debug\HtmlAgilityPack.pdb
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\bin\Debug\HtmlAgilityPack.xml
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.Form1.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.Properties.Resources.resources
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.exe
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\bin\Debug\BellApp.exe
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\bin\Debug\BellApp.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\bin\Debug\HtmlAgilityPack.pdb
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\bin\Debug\HtmlAgilityPack.xml
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.csprojResolveAssemblyReference.cache
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.Form1.resources
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.Properties.Resources.resources
+C:\Henri\My Documents\Visual Studio 2010\Projects\C - Previous Bell Programs\BellAppFinal - v3 - Two dGV\BellApp\obj\x86\Debug\BellApp.csproj.GenerateResource.Cache

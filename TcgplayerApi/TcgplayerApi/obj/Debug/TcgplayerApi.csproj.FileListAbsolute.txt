@@ -10,3 +10,14 @@ C:\Henri\My Documents\Visual Studio 2012\Projects\TcgplayerApi\TcgplayerApi\bin\
 C:\Henri\My Documents\Visual Studio 2012\Projects\TcgplayerApi\TcgplayerApi\bin\Debug\HtmlAgilityPack.xml
 C:\Henri\My Documents\Visual Studio 2012\Projects\TcgplayerApi\TcgplayerApi\obj\Debug\TcgplayerApi.exe
 C:\Henri\My Documents\Visual Studio 2012\Projects\TcgplayerApi\TcgplayerApi\obj\Debug\TcgplayerApi.pdb
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\bin\Debug\TcgplayerApi.exe.config
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\obj\Debug\TcgplayerApi.exe
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\obj\Debug\TcgplayerApi.pdb
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\bin\Debug\TcgplayerApi.exe
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\bin\Debug\TcgplayerApi.pdb
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\bin\Debug\HtmlAgilityPack.xml
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\obj\Debug\TcgplayerApi.csprojResolveAssemblyReference.cache
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\obj\Debug\TcgplayerApi.Form1.resources
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\obj\Debug\TcgplayerApi.Properties.Resources.resources
+C:\Users\henri\Documents\GitHub\ApiMaker\TcgplayerApi\TcgplayerApi\obj\Debug\TcgplayerApi.csproj.GenerateResource.Cache

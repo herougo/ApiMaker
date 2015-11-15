@@ -15,9 +15,19 @@ namespace TcgplayerApi
 {
     public partial class Form1 : Form
     {
+        Database CardList = null;
+        
         public Form1()
         {
             InitializeComponent();
+
+            CardList = new Database("Card List");
+            CardList.AddTag("Name");
+            CardList.AddTag("Set");
+            CardList.AddTag("Rarity");
+            CardList.AddTag("Low Price");
+            CardList.AddTag("Medium Price");
+            CardList.AddTag("High Price");
 
             // string[] stuff = GetAllSets();
             // DataTable table = GetSetCards(stuff[0]);
@@ -27,6 +37,13 @@ namespace TcgplayerApi
             // string[] stuff1 = GetAllEvents();
 
             LoadPrimes();
+
+            {
+                string[] sets = GetAllSets();
+                for (int i = 0; i < sets.Length; i++) {
+                    Output.Text += sets[i] + "\n";
+                }
+            }
         }
 
         public string[] GetAllSets()
@@ -111,6 +128,25 @@ namespace TcgplayerApi
             }
 
             return result;
+        }
+
+        public DataTable SetForDatabase = null;
+        public void InputSetIntoDatabase()
+        {
+            if (SetForDatabase != null)
+            {
+                string[] entry = new string[6];
+                
+                foreach (DataRow drow in SetForDatabase.Rows)
+                {
+                    for (int i = 0; i < 6; i++)
+                    {
+                        entry[i] = drow[i].ToString();
+                    }
+
+                    CardList.AddEntry(entry);
+                }
+            }
         }
 
         /*
